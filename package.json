@@ -1,7 +1,7 @@
 {
   "name": "imageno1-skill",
-  "version": "1.0.0",
-  "description": "Enterprise-grade Codex frontend engineering skill for Next.js, React, Tailwind, shadcn/ui, dashboards, landing pages, admin panels, accessibility, and RTL Persian interfaces.",
+  "version": "2.0.0",
+  "description": "Imageno1 Frontend OS v2.0: an execution-driven Codex frontend operating system for Next.js, React, Tailwind, shadcn/ui, dashboards, landing pages, admin panels, accessibility, performance, and RTL Persian interfaces.",
   "private": true,
   "license": "MIT",
   "type": "commonjs",

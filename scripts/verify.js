@@ -4,6 +4,7 @@ const path = require("path");
 const root = path.resolve(__dirname, "..");
 
 const requiredDocs = [
+  "00-execution-engine.md",
   "01-design-system.md",
   "02-ui-principles.md",
   "03-nextjs.md",
@@ -35,12 +36,16 @@ const requiredDocs = [
 
 const errors = [];
 
+function filePath(relativePath) {
+  return path.join(root, relativePath);
+}
+
 function exists(relativePath) {
-  return fs.existsSync(path.join(root, relativePath));
+  return fs.existsSync(filePath(relativePath));
 }
 
 function read(relativePath) {
-  return fs.readFileSync(path.join(root, relativePath), "utf8");
+  return fs.readFileSync(filePath(relativePath), "utf8");
 }
 
 function walk(dir) {
@@ -55,6 +60,20 @@ function walk(dir) {
   return files;
 }
 
+function normalizePathForSkill(relativePath) {
+  return relativePath.split(path.sep).join("/");
+}
+
+function markdownLinks(content) {
+  const links = [];
+  const regex = /\[[^\]]+\]\(([^)]+)\)/g;
+  let match;
+  while ((match = regex.exec(content)) !== null) {
+    links.push(match[1]);
+  }
+  return links;
+}
+
 if (!exists("SKILL.md")) {
   errors.push("SKILL.md is missing.");
 }
@@ -63,27 +82,73 @@ if (!exists("docs")) {
   errors.push("docs/ is missing.");
 }
 
+let skill = "";
 if (exists("SKILL.md")) {
-  const skill = read("SKILL.md");
+  skill = read("SKILL.md");
   const frontmatter = skill.match(/^---\r?\n([\s\S]*?)\r?\n---/);
   if (!frontmatter) {
     errors.push("SKILL.md frontmatter is missing or malformed.");
   } else if (!/^name:\s*imageno1-skill\s*$/m.test(frontmatter[1])) {
     errors.push("SKILL.md frontmatter name must be `imageno1-skill`.");
   }
+  if (!/^# Imageno1 Frontend OS v2\.0\s*$/m.test(skill)) {
+    errors.push("SKILL.md must use title `Imageno1 Frontend OS v2.0`.");
+  }
+  if (!/Version:\s*2\.0\.0/.test(skill)) {
+    errors.push("SKILL.md must include Version: 2.0.0.");
+  }
+}
+
+if (exists("package.json")) {
+  const pkg = JSON.parse(read("package.json"));
+  if (pkg.version !== "2.0.0") {
+    errors.push("package.json version must be 2.0.0.");
+  }
+} else {
+  errors.push("package.json is missing.");
 }
 
 for (const doc of requiredDocs) {
-  if (!exists(path.join("docs", doc))) {
-    errors.push(`Required doc is missing: docs/${doc}`);
+  const relative = path.join("docs", doc);
+  if (!exists(relative)) {
+    errors.push(`Required doc is missing: ${relative}`);
+  }
+  const normalized = `docs/${doc}`;
+  if (skill && !skill.includes(normalized)) {
+    errors.push(`Required doc is not reachable from SKILL.md: ${normalized}`);
+  }
+}
+
+if (exists("docs")) {
+  const docsFiles = fs.readdirSync(filePath("docs")).filter((name) => name.endsWith(".md"));
+  for (const doc of docsFiles) {
+    const normalized = `docs/${doc}`;
+    if (!skill.includes(normalized)) {
+      errors.push(`Docs markdown file is not reachable from SKILL.md: ${normalized}`);
+    }
   }
 }
 
 for (const file of walk(root)) {
   if (file.toLowerCase().endsWith(".md")) {
     const content = fs.readFileSync(file, "utf8");
+    const relative = path.relative(root, file);
+    const normalized = normalizePathForSkill(relative);
     if (content.trim().length === 0) {
-      errors.push(`Markdown file is empty: ${path.relative(root, file)}`);
+      errors.push(`Markdown file is empty: ${relative}`);
+    }
+    if (normalized !== "SKILL.md" && skill && !skill.includes(normalized)) {
+      errors.push(`Markdown file is not reachable from SKILL.md: ${normalized}`);
+    }
+    for (const link of markdownLinks(content)) {
+      if (/^(https?:|mailto:|#)/.test(link)) continue;
+      if (link.startsWith("`")) continue;
+      const cleanLink = link.split("#")[0];
+      if (!cleanLink) continue;
+      const target = path.resolve(path.dirname(file), cleanLink);
+      if (!fs.existsSync(target)) {
+        errors.push(`Broken markdown link in ${relative}: ${link}`);
+      }
     }
   }
 }
@@ -96,4 +161,4 @@ if (errors.length > 0) {
   process.exit(1);
 }
 
-console.log("Verification passed: imageno1-skill repository is complete.");
+console.log("Verification passed: Imageno1 Frontend OS v2.0 is complete.");
