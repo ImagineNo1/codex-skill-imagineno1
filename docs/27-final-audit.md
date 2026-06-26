@@ -24,10 +24,17 @@ When project conventions conflict with these rules, inspect first and change onl
 ## Topic Rules
 
 - Verify changed files match the user request.
+- Verify the searchable design DB was used for medium or large visual UI.
+- Verify a design-system recommendation was generated for major UI work.
+- Verify product type was matched.
 - Verify visual hierarchy and spacing are intentional.
 - Verify the chosen design language is explicit and coherent.
 - Verify the UI does not mix unrelated visual languages.
 - Verify the interface does not look generic, template-like, or AI-generated.
+- Verify palette choice is justified.
+- Verify typography choice is justified.
+- Verify chart choice is justified when charts are present.
+- Verify Persian/RTL patterns were applied when relevant.
 - Verify premium polish: type rhythm, whitespace, color restraint, component consistency, and interaction states.
 - Verify accessibility states and keyboard paths.
 - Verify responsive behavior for mobile and desktop.

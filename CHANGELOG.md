@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2.2.0 - 2026-06-26
+
+- Added searchable design database.
+- Added design-system generator.
+- Added brand and asset workflows.
+- Added product, style, color, typography, UX, chart, and stack retrieval.
+- Added Persian/RTL design knowledge base.
+- Added stack-specific search guidance.
+- Improved premium UI direction selection.
+
 ## 2.1.0 - 2026-06-26
 
 - Added Design Intelligence module.

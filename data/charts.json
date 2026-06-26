@@ -1,0 +1,434 @@
+[
+  {
+    "id": "kpi-trend-line",
+    "name": "KPI trend line",
+    "category": "trend",
+    "tags": [
+      "dashboard",
+      "time-series",
+      "kpi"
+    ],
+    "keywords": [
+      "dashboard",
+      "kpi",
+      "line",
+      "time-series",
+      "trend"
+    ],
+    "guidance": "Use for metric movement over time with clear timeframe and comparison."
+  },
+  {
+    "id": "stacked-area",
+    "name": "Stacked area",
+    "category": "composition",
+    "tags": [
+      "trend",
+      "parts",
+      "volume"
+    ],
+    "keywords": [
+      "area",
+      "composition",
+      "parts",
+      "stacked",
+      "trend",
+      "volume"
+    ],
+    "guidance": "Use when total and contribution both matter; avoid too many series."
+  },
+  {
+    "id": "grouped-bar",
+    "name": "Grouped bar",
+    "category": "comparison",
+    "tags": [
+      "compare",
+      "category"
+    ],
+    "keywords": [
+      "bar",
+      "category",
+      "compare",
+      "comparison",
+      "grouped"
+    ],
+    "guidance": "Use for category comparison across two or three groups."
+  },
+  {
+    "id": "horizontal-bar-ranking",
+    "name": "Horizontal bar ranking",
+    "category": "ranking",
+    "tags": [
+      "rank",
+      "table"
+    ],
+    "keywords": [
+      "bar",
+      "horizontal",
+      "rank",
+      "ranking",
+      "table"
+    ],
+    "guidance": "Use for top lists and long labels."
+  },
+  {
+    "id": "donut-with-center-metric",
+    "name": "Donut with center metric",
+    "category": "composition",
+    "tags": [
+      "share",
+      "summary"
+    ],
+    "keywords": [
+      "center",
+      "composition",
+      "donut",
+      "metric",
+      "share",
+      "summary",
+      "with"
+    ],
+    "guidance": "Use only for simple shares with few slices."
+  },
+  {
+    "id": "funnel",
+    "name": "Funnel",
+    "category": "conversion",
+    "tags": [
+      "landing",
+      "sales"
+    ],
+    "keywords": [
+      "conversion",
+      "funnel",
+      "landing",
+      "sales"
+    ],
+    "guidance": "Use for step drop-off and conversion diagnostics."
+  },
+  {
+    "id": "cohort-heatmap",
+    "name": "Cohort heatmap",
+    "category": "retention",
+    "tags": [
+      "cohort",
+      "heatmap"
+    ],
+    "keywords": [
+      "cohort",
+      "heatmap",
+      "retention"
+    ],
+    "guidance": "Use for retention and repeated behavior analysis."
+  },
+  {
+    "id": "calendar-heatmap",
+    "name": "Calendar heatmap",
+    "category": "activity",
+    "tags": [
+      "calendar",
+      "habit"
+    ],
+    "keywords": [
+      "activity",
+      "calendar",
+      "habit",
+      "heatmap"
+    ],
+    "guidance": "Use for daily activity patterns."
+  },
+  {
+    "id": "sankey-flow",
+    "name": "Sankey flow",
+    "category": "flow",
+    "tags": [
+      "journey",
+      "traffic"
+    ],
+    "keywords": [
+      "flow",
+      "journey",
+      "sankey",
+      "traffic"
+    ],
+    "guidance": "Use sparingly for meaningful flow volume."
+  },
+  {
+    "id": "scatter-plot",
+    "name": "Scatter plot",
+    "category": "correlation",
+    "tags": [
+      "analysis",
+      "outliers"
+    ],
+    "keywords": [
+      "analysis",
+      "correlation",
+      "outliers",
+      "plot",
+      "scatter"
+    ],
+    "guidance": "Use for relationships and outlier detection."
+  },
+  {
+    "id": "bullet-chart",
+    "name": "Bullet chart",
+    "category": "target",
+    "tags": [
+      "goal",
+      "performance"
+    ],
+    "keywords": [
+      "bullet",
+      "chart",
+      "goal",
+      "performance",
+      "target"
+    ],
+    "guidance": "Use for actual vs target in compact dashboards."
+  },
+  {
+    "id": "gauge-alternative-kpi",
+    "name": "Gauge alternative KPI",
+    "category": "status",
+    "tags": [
+      "gauge",
+      "kpi"
+    ],
+    "keywords": [
+      "alternative",
+      "gauge",
+      "kpi",
+      "status"
+    ],
+    "guidance": "Prefer bullet or progress bars over decorative gauges."
+  },
+  {
+    "id": "waterfall",
+    "name": "Waterfall",
+    "category": "finance",
+    "tags": [
+      "finance",
+      "change"
+    ],
+    "keywords": [
+      "change",
+      "finance",
+      "waterfall"
+    ],
+    "guidance": "Use for explaining additive/subtractive changes."
+  },
+  {
+    "id": "candlestick",
+    "name": "Candlestick",
+    "category": "finance",
+    "tags": [
+      "market",
+      "trading"
+    ],
+    "keywords": [
+      "candlestick",
+      "finance",
+      "market",
+      "trading"
+    ],
+    "guidance": "Use for OHLC market data only."
+  },
+  {
+    "id": "timeline",
+    "name": "Timeline",
+    "category": "events",
+    "tags": [
+      "history",
+      "audit"
+    ],
+    "keywords": [
+      "audit",
+      "events",
+      "history",
+      "timeline"
+    ],
+    "guidance": "Use for audit trails and project milestones."
+  },
+  {
+    "id": "gantt",
+    "name": "Gantt",
+    "category": "planning",
+    "tags": [
+      "schedule",
+      "project"
+    ],
+    "keywords": [
+      "gantt",
+      "planning",
+      "project",
+      "schedule"
+    ],
+    "guidance": "Use for dependencies and timeline planning."
+  },
+  {
+    "id": "box-plot",
+    "name": "Box plot",
+    "category": "distribution",
+    "tags": [
+      "stats",
+      "quality"
+    ],
+    "keywords": [
+      "box",
+      "distribution",
+      "plot",
+      "quality",
+      "stats"
+    ],
+    "guidance": "Use for spread, median, and outliers."
+  },
+  {
+    "id": "histogram",
+    "name": "Histogram",
+    "category": "distribution",
+    "tags": [
+      "frequency",
+      "quality"
+    ],
+    "keywords": [
+      "distribution",
+      "frequency",
+      "histogram",
+      "quality"
+    ],
+    "guidance": "Use for distribution of one numeric variable."
+  },
+  {
+    "id": "treemap",
+    "name": "Treemap",
+    "category": "hierarchy",
+    "tags": [
+      "space",
+      "composition"
+    ],
+    "keywords": [
+      "composition",
+      "hierarchy",
+      "space",
+      "treemap"
+    ],
+    "guidance": "Use for hierarchical magnitude when exact comparison is secondary."
+  },
+  {
+    "id": "map-choropleth",
+    "name": "Map choropleth",
+    "category": "geo",
+    "tags": [
+      "location",
+      "regional"
+    ],
+    "keywords": [
+      "choropleth",
+      "geo",
+      "location",
+      "map",
+      "regional"
+    ],
+    "guidance": "Use for geographic patterns with legends and accessible fallback."
+  },
+  {
+    "id": "sparkline-table",
+    "name": "Sparkline table",
+    "category": "table",
+    "tags": [
+      "compact",
+      "trend"
+    ],
+    "keywords": [
+      "compact",
+      "sparkline",
+      "table",
+      "trend"
+    ],
+    "guidance": "Use inside rows to show lightweight trend."
+  },
+  {
+    "id": "step-line",
+    "name": "Step line",
+    "category": "state",
+    "tags": [
+      "workflow",
+      "time"
+    ],
+    "keywords": [
+      "line",
+      "state",
+      "step",
+      "time",
+      "workflow"
+    ],
+    "guidance": "Use for values that change at discrete intervals."
+  },
+  {
+    "id": "annotation-line",
+    "name": "Annotation line",
+    "category": "insight",
+    "tags": [
+      "events",
+      "trend"
+    ],
+    "keywords": [
+      "annotation",
+      "events",
+      "insight",
+      "line",
+      "trend"
+    ],
+    "guidance": "Use when events explain metric changes."
+  },
+  {
+    "id": "comparison-cards",
+    "name": "Comparison cards",
+    "category": "cards",
+    "tags": [
+      "kpi",
+      "summary"
+    ],
+    "keywords": [
+      "cards",
+      "comparison",
+      "kpi",
+      "summary"
+    ],
+    "guidance": "Use instead of charts when exact values matter more than shape."
+  },
+  {
+    "id": "small-multiples",
+    "name": "Small multiples",
+    "category": "comparison",
+    "tags": [
+      "series",
+      "grid"
+    ],
+    "keywords": [
+      "comparison",
+      "grid",
+      "multiples",
+      "series",
+      "small"
+    ],
+    "guidance": "Use to compare many similar trends without clutter."
+  },
+  {
+    "id": "pareto-chart",
+    "name": "Pareto chart",
+    "category": "quality",
+    "tags": [
+      "operations",
+      "defects"
+    ],
+    "keywords": [
+      "chart",
+      "defects",
+      "operations",
+      "pareto",
+      "quality"
+    ],
+    "guidance": "Use to show high-impact categories and cumulative contribution."
+  }
+]

@@ -1,0 +1,890 @@
+[
+  {
+    "id": "persian-legal-saas-dashboard",
+    "name": "Persian legal SaaS dashboard",
+    "category": "legal",
+    "tags": [
+      "persian",
+      "rtl",
+      "dashboard",
+      "trust",
+      "admin",
+      "law"
+    ],
+    "keywords": [
+      "admin",
+      "dashboard",
+      "law",
+      "legal",
+      "persian",
+      "rtl",
+      "saas",
+      "trust"
+    ],
+    "guidance": "Use formal RTL typography, deep navy/charcoal surfaces, restrained gold accents, strong document and case-status hierarchy."
+  },
+  {
+    "id": "legal-consultation-landing-page",
+    "name": "Legal consultation landing page",
+    "category": "legal",
+    "tags": [
+      "landing",
+      "trust",
+      "conversion",
+      "law"
+    ],
+    "keywords": [
+      "consultation",
+      "conversion",
+      "landing",
+      "law",
+      "legal",
+      "page",
+      "trust"
+    ],
+    "guidance": "Lead with expertise, confidentiality, and clear consultation CTA; avoid playful visuals."
+  },
+  {
+    "id": "fintech-banking-dashboard",
+    "name": "Fintech banking dashboard",
+    "category": "finance",
+    "tags": [
+      "dashboard",
+      "security",
+      "analytics",
+      "table"
+    ],
+    "keywords": [
+      "analytics",
+      "banking",
+      "dashboard",
+      "finance",
+      "fintech",
+      "security",
+      "table"
+    ],
+    "guidance": "Prioritize trust, clarity, account status, risk alerts, and precise numeric alignment."
+  },
+  {
+    "id": "crypto-portfolio-tracker",
+    "name": "Crypto portfolio tracker",
+    "category": "finance",
+    "tags": [
+      "realtime",
+      "charts",
+      "dark",
+      "risk"
+    ],
+    "keywords": [
+      "charts",
+      "crypto",
+      "dark",
+      "finance",
+      "portfolio",
+      "realtime",
+      "risk",
+      "tracker"
+    ],
+    "guidance": "Use dense charts, volatility states, dark-mode-safe colors, and explicit risk labeling."
+  },
+  {
+    "id": "accounting-admin-system",
+    "name": "Accounting admin system",
+    "category": "finance",
+    "tags": [
+      "admin",
+      "table",
+      "workflow",
+      "forms"
+    ],
+    "keywords": [
+      "accounting",
+      "admin",
+      "finance",
+      "forms",
+      "system",
+      "table",
+      "workflow"
+    ],
+    "guidance": "Use compact forms, audit trails, strong table scanning, and safe destructive flows."
+  },
+  {
+    "id": "luxury-real-estate-landing-page",
+    "name": "Luxury real estate landing page",
+    "category": "real-estate",
+    "tags": [
+      "luxury",
+      "landing",
+      "gallery",
+      "lead"
+    ],
+    "keywords": [
+      "estate",
+      "gallery",
+      "landing",
+      "lead",
+      "luxury",
+      "page",
+      "real",
+      "real-estate"
+    ],
+    "guidance": "Use cinematic property imagery, elegant type, spacious rhythm, and high-trust contact actions."
+  },
+  {
+    "id": "property-management-dashboard",
+    "name": "Property management dashboard",
+    "category": "real-estate",
+    "tags": [
+      "dashboard",
+      "operations",
+      "table",
+      "map"
+    ],
+    "keywords": [
+      "dashboard",
+      "management",
+      "map",
+      "operations",
+      "property",
+      "real-estate",
+      "table"
+    ],
+    "guidance": "Balance occupancy, maintenance, payments, and property search with dense operational layout."
+  },
+  {
+    "id": "healthcare-analytics-dashboard",
+    "name": "Healthcare analytics dashboard",
+    "category": "healthcare",
+    "tags": [
+      "dashboard",
+      "charts",
+      "compliance",
+      "calm"
+    ],
+    "keywords": [
+      "analytics",
+      "calm",
+      "charts",
+      "compliance",
+      "dashboard",
+      "healthcare"
+    ],
+    "guidance": "Use calm colors, clear risk states, accessible charts, and privacy-aware labels."
+  },
+  {
+    "id": "clinic-booking-app",
+    "name": "Clinic booking app",
+    "category": "healthcare",
+    "tags": [
+      "booking",
+      "forms",
+      "mobile",
+      "trust"
+    ],
+    "keywords": [
+      "app",
+      "booking",
+      "clinic",
+      "forms",
+      "healthcare",
+      "mobile",
+      "trust"
+    ],
+    "guidance": "Make availability, provider trust, and confirmation states obvious."
+  },
+  {
+    "id": "education-webinar-funnel",
+    "name": "Education webinar funnel",
+    "category": "education",
+    "tags": [
+      "landing",
+      "webinar",
+      "conversion",
+      "trust"
+    ],
+    "keywords": [
+      "conversion",
+      "education",
+      "funnel",
+      "landing",
+      "trust",
+      "webinar"
+    ],
+    "guidance": "Highlight learning outcome, speaker credibility, schedule, and low-friction registration."
+  },
+  {
+    "id": "course-learning-platform",
+    "name": "Course learning platform",
+    "category": "education",
+    "tags": [
+      "dashboard",
+      "progress",
+      "content",
+      "mobile"
+    ],
+    "keywords": [
+      "content",
+      "course",
+      "dashboard",
+      "education",
+      "learning",
+      "mobile",
+      "platform",
+      "progress"
+    ],
+    "guidance": "Use progress hierarchy, clear module navigation, and calm reading surfaces."
+  },
+  {
+    "id": "developer-api-docs-portal",
+    "name": "Developer API docs portal",
+    "category": "developer",
+    "tags": [
+      "docs",
+      "api",
+      "code",
+      "search"
+    ],
+    "keywords": [
+      "api",
+      "code",
+      "developer",
+      "docs",
+      "portal",
+      "search"
+    ],
+    "guidance": "Use Vercel-like clarity, code hierarchy, version awareness, and fast search."
+  },
+  {
+    "id": "devops-monitoring-dashboard",
+    "name": "DevOps monitoring dashboard",
+    "category": "developer",
+    "tags": [
+      "dashboard",
+      "realtime",
+      "alerts",
+      "charts"
+    ],
+    "keywords": [
+      "alerts",
+      "charts",
+      "dashboard",
+      "developer",
+      "devops",
+      "monitoring",
+      "realtime"
+    ],
+    "guidance": "Prioritize incidents, service health, logs, latency, and reliable alert color semantics."
+  },
+  {
+    "id": "ai-writing-assistant",
+    "name": "AI writing assistant",
+    "category": "ai",
+    "tags": [
+      "editor",
+      "ai",
+      "workspace",
+      "saas"
+    ],
+    "keywords": [
+      "ai",
+      "assistant",
+      "editor",
+      "saas",
+      "workspace",
+      "writing"
+    ],
+    "guidance": "Avoid AI purple clichés; focus on document flow, suggestions, confidence, and revision clarity."
+  },
+  {
+    "id": "ai-image-generation-app",
+    "name": "AI image generation app",
+    "category": "ai",
+    "tags": [
+      "creative",
+      "gallery",
+      "prompt",
+      "workflow"
+    ],
+    "keywords": [
+      "ai",
+      "app",
+      "creative",
+      "gallery",
+      "generation",
+      "image",
+      "prompt",
+      "workflow"
+    ],
+    "guidance": "Use prompt controls, generation states, gallery comparison, and clear credit/cost indicators."
+  },
+  {
+    "id": "crm-sales-pipeline",
+    "name": "CRM sales pipeline",
+    "category": "saas",
+    "tags": [
+      "crm",
+      "dashboard",
+      "kanban",
+      "table"
+    ],
+    "keywords": [
+      "crm",
+      "dashboard",
+      "kanban",
+      "pipeline",
+      "saas",
+      "sales",
+      "table"
+    ],
+    "guidance": "Use pipeline clarity, action urgency, account context, and filterable deal views."
+  },
+  {
+    "id": "hr-recruiting-dashboard",
+    "name": "HR recruiting dashboard",
+    "category": "saas",
+    "tags": [
+      "hr",
+      "pipeline",
+      "admin",
+      "workflow"
+    ],
+    "keywords": [
+      "admin",
+      "dashboard",
+      "hr",
+      "pipeline",
+      "recruiting",
+      "saas",
+      "workflow"
+    ],
+    "guidance": "Prioritize candidates, stages, schedule conflicts, and fair evaluation states."
+  },
+  {
+    "id": "project-management-saas",
+    "name": "Project management SaaS",
+    "category": "saas",
+    "tags": [
+      "productivity",
+      "tasks",
+      "collaboration",
+      "dashboard"
+    ],
+    "keywords": [
+      "collaboration",
+      "dashboard",
+      "management",
+      "productivity",
+      "project",
+      "saas",
+      "tasks"
+    ],
+    "guidance": "Use Linear precision, strong status hierarchy, keyboard-friendly task navigation."
+  },
+  {
+    "id": "team-knowledge-base",
+    "name": "Team knowledge base",
+    "category": "productivity",
+    "tags": [
+      "workspace",
+      "docs",
+      "search",
+      "collaboration"
+    ],
+    "keywords": [
+      "base",
+      "collaboration",
+      "docs",
+      "knowledge",
+      "productivity",
+      "search",
+      "team",
+      "workspace"
+    ],
+    "guidance": "Use Notion calm, soft hierarchy, readable blocks, and fast organization patterns."
+  },
+  {
+    "id": "calendar-scheduling-tool",
+    "name": "Calendar scheduling tool",
+    "category": "productivity",
+    "tags": [
+      "calendar",
+      "booking",
+      "time",
+      "forms"
+    ],
+    "keywords": [
+      "booking",
+      "calendar",
+      "forms",
+      "productivity",
+      "scheduling",
+      "time",
+      "tool"
+    ],
+    "guidance": "Make time zones, availability, conflicts, and confirmation states clear."
+  },
+  {
+    "id": "e-commerce-storefront",
+    "name": "E-commerce storefront",
+    "category": "commerce",
+    "tags": [
+      "shop",
+      "cards",
+      "conversion",
+      "mobile"
+    ],
+    "keywords": [
+      "cards",
+      "commerce",
+      "conversion",
+      "e",
+      "mobile",
+      "shop",
+      "storefront"
+    ],
+    "guidance": "Optimize product imagery, price clarity, trust, filters, and checkout CTA hierarchy."
+  },
+  {
+    "id": "e-commerce-admin-panel",
+    "name": "E-commerce admin panel",
+    "category": "commerce",
+    "tags": [
+      "admin",
+      "inventory",
+      "orders",
+      "table"
+    ],
+    "keywords": [
+      "admin",
+      "commerce",
+      "e",
+      "inventory",
+      "orders",
+      "panel",
+      "table"
+    ],
+    "guidance": "Use dense tables, order states, inventory warnings, and bulk actions."
+  },
+  {
+    "id": "restaurant-ordering-app",
+    "name": "Restaurant ordering app",
+    "category": "commerce",
+    "tags": [
+      "mobile",
+      "menu",
+      "checkout",
+      "local"
+    ],
+    "keywords": [
+      "app",
+      "checkout",
+      "commerce",
+      "local",
+      "menu",
+      "mobile",
+      "ordering",
+      "restaurant"
+    ],
+    "guidance": "Prioritize menu scanning, modifiers, cart persistence, and pickup/delivery clarity."
+  },
+  {
+    "id": "travel-booking-platform",
+    "name": "Travel booking platform",
+    "category": "travel",
+    "tags": [
+      "search",
+      "booking",
+      "cards",
+      "trust"
+    ],
+    "keywords": [
+      "booking",
+      "cards",
+      "platform",
+      "search",
+      "travel",
+      "trust"
+    ],
+    "guidance": "Use comparison cards, date flexibility, price transparency, and policy clarity."
+  },
+  {
+    "id": "hotel-management-dashboard",
+    "name": "Hotel management dashboard",
+    "category": "travel",
+    "tags": [
+      "admin",
+      "calendar",
+      "operations",
+      "table"
+    ],
+    "keywords": [
+      "admin",
+      "calendar",
+      "dashboard",
+      "hotel",
+      "management",
+      "operations",
+      "table",
+      "travel"
+    ],
+    "guidance": "Surface occupancy, housekeeping, revenue, and guest issues in operational order."
+  },
+  {
+    "id": "fitness-habit-tracker",
+    "name": "Fitness habit tracker",
+    "category": "lifestyle",
+    "tags": [
+      "mobile",
+      "progress",
+      "habit",
+      "charts"
+    ],
+    "keywords": [
+      "charts",
+      "fitness",
+      "habit",
+      "lifestyle",
+      "mobile",
+      "progress",
+      "tracker"
+    ],
+    "guidance": "Use motivating progress, lightweight charts, streaks, and low-friction logging."
+  },
+  {
+    "id": "meditation-wellness-app",
+    "name": "Meditation wellness app",
+    "category": "wellness",
+    "tags": [
+      "calm",
+      "mobile",
+      "audio",
+      "subscription"
+    ],
+    "keywords": [
+      "app",
+      "audio",
+      "calm",
+      "meditation",
+      "mobile",
+      "subscription",
+      "wellness"
+    ],
+    "guidance": "Use soft color, quiet hierarchy, gentle motion, and clear session starts."
+  },
+  {
+    "id": "beauty-salon-booking",
+    "name": "Beauty salon booking",
+    "category": "wellness",
+    "tags": [
+      "booking",
+      "luxury",
+      "mobile",
+      "local"
+    ],
+    "keywords": [
+      "beauty",
+      "booking",
+      "local",
+      "luxury",
+      "mobile",
+      "salon",
+      "wellness"
+    ],
+    "guidance": "Use premium imagery, service clarity, staff trust, and appointment CTA."
+  },
+  {
+    "id": "event-ticketing-landing-page",
+    "name": "Event ticketing landing page",
+    "category": "events",
+    "tags": [
+      "landing",
+      "tickets",
+      "social-proof",
+      "conversion"
+    ],
+    "keywords": [
+      "conversion",
+      "event",
+      "events",
+      "landing",
+      "page",
+      "social-proof",
+      "ticketing",
+      "tickets"
+    ],
+    "guidance": "Prioritize date, venue, lineup, urgency, and ticket CTA without fake scarcity."
+  },
+  {
+    "id": "community-forum",
+    "name": "Community forum",
+    "category": "community",
+    "tags": [
+      "discussion",
+      "moderation",
+      "content",
+      "search"
+    ],
+    "keywords": [
+      "community",
+      "content",
+      "discussion",
+      "forum",
+      "moderation",
+      "search"
+    ],
+    "guidance": "Use durable utility UI, readable threads, moderation states, and trust signals."
+  },
+  {
+    "id": "social-creator-dashboard",
+    "name": "Social creator dashboard",
+    "category": "creator",
+    "tags": [
+      "analytics",
+      "charts",
+      "content",
+      "dashboard"
+    ],
+    "keywords": [
+      "analytics",
+      "charts",
+      "content",
+      "creator",
+      "dashboard",
+      "social"
+    ],
+    "guidance": "Show content performance, audience trends, publishing actions, and comparison charts."
+  },
+  {
+    "id": "podcast-landing-page",
+    "name": "Podcast landing page",
+    "category": "media",
+    "tags": [
+      "landing",
+      "audio",
+      "episodes",
+      "brand"
+    ],
+    "keywords": [
+      "audio",
+      "brand",
+      "episodes",
+      "landing",
+      "media",
+      "page",
+      "podcast"
+    ],
+    "guidance": "Lead with show identity, latest episode, platforms, and host credibility."
+  },
+  {
+    "id": "news-editorial-site",
+    "name": "News editorial site",
+    "category": "media",
+    "tags": [
+      "content",
+      "editorial",
+      "typography",
+      "layout"
+    ],
+    "keywords": [
+      "content",
+      "editorial",
+      "layout",
+      "media",
+      "news",
+      "site",
+      "typography"
+    ],
+    "guidance": "Prioritize typography, story hierarchy, sections, and subscription CTA."
+  },
+  {
+    "id": "cybersecurity-saas",
+    "name": "Cybersecurity SaaS",
+    "category": "security",
+    "tags": [
+      "enterprise",
+      "dashboard",
+      "alerts",
+      "trust"
+    ],
+    "keywords": [
+      "alerts",
+      "cybersecurity",
+      "dashboard",
+      "enterprise",
+      "saas",
+      "security",
+      "trust"
+    ],
+    "guidance": "Use serious contrast, alert taxonomy, evidence panels, and enterprise trust markers."
+  },
+  {
+    "id": "insurance-quote-flow",
+    "name": "Insurance quote flow",
+    "category": "insurance",
+    "tags": [
+      "forms",
+      "quote",
+      "conversion",
+      "trust"
+    ],
+    "keywords": [
+      "conversion",
+      "flow",
+      "forms",
+      "insurance",
+      "quote",
+      "trust"
+    ],
+    "guidance": "Use stepwise forms, clear coverage language, progress, and reassurance."
+  },
+  {
+    "id": "nonprofit-donation-page",
+    "name": "Nonprofit donation page",
+    "category": "nonprofit",
+    "tags": [
+      "landing",
+      "donation",
+      "trust",
+      "story"
+    ],
+    "keywords": [
+      "donation",
+      "landing",
+      "nonprofit",
+      "page",
+      "story",
+      "trust"
+    ],
+    "guidance": "Connect mission story to impact proof and clear donation options."
+  },
+  {
+    "id": "government-service-portal",
+    "name": "Government service portal",
+    "category": "public-sector",
+    "tags": [
+      "forms",
+      "accessibility",
+      "utility",
+      "trust"
+    ],
+    "keywords": [
+      "accessibility",
+      "forms",
+      "government",
+      "portal",
+      "public-sector",
+      "service",
+      "trust",
+      "utility"
+    ],
+    "guidance": "Use plain language, accessibility-first forms, status tracking, and low ornament."
+  },
+  {
+    "id": "logistics-tracking-dashboard",
+    "name": "Logistics tracking dashboard",
+    "category": "operations",
+    "tags": [
+      "map",
+      "dashboard",
+      "table",
+      "realtime"
+    ],
+    "keywords": [
+      "dashboard",
+      "logistics",
+      "map",
+      "operations",
+      "realtime",
+      "table",
+      "tracking"
+    ],
+    "guidance": "Prioritize exceptions, route status, ETA, and actionable shipment tables."
+  },
+  {
+    "id": "manufacturing-quality-dashboard",
+    "name": "Manufacturing quality dashboard",
+    "category": "operations",
+    "tags": [
+      "factory",
+      "charts",
+      "alerts",
+      "table"
+    ],
+    "keywords": [
+      "alerts",
+      "charts",
+      "dashboard",
+      "factory",
+      "manufacturing",
+      "operations",
+      "quality",
+      "table"
+    ],
+    "guidance": "Use production KPIs, defect trends, shift filters, and strong alert hierarchy."
+  },
+  {
+    "id": "b2b-procurement-portal",
+    "name": "B2B procurement portal",
+    "category": "enterprise",
+    "tags": [
+      "admin",
+      "workflow",
+      "table",
+      "approval"
+    ],
+    "keywords": [
+      "admin",
+      "approval",
+      "b2b",
+      "enterprise",
+      "portal",
+      "procurement",
+      "table",
+      "workflow"
+    ],
+    "guidance": "Use approval flows, vendor comparison, budget context, and auditability."
+  },
+  {
+    "id": "bank-contract-archive",
+    "name": "Bank contract archive",
+    "category": "enterprise",
+    "tags": [
+      "documents",
+      "search",
+      "legal",
+      "admin"
+    ],
+    "keywords": [
+      "admin",
+      "archive",
+      "bank",
+      "contract",
+      "documents",
+      "enterprise",
+      "legal",
+      "search"
+    ],
+    "guidance": "Use document metadata, permissions, versioning, and strong search/filter UX."
+  },
+  {
+    "id": "real-time-support-inbox",
+    "name": "Real-time support inbox",
+    "category": "support",
+    "tags": [
+      "inbox",
+      "workflow",
+      "messages",
+      "saas"
+    ],
+    "keywords": [
+      "inbox",
+      "messages",
+      "real",
+      "saas",
+      "support",
+      "time",
+      "workflow"
+    ],
+    "guidance": "Optimize triage, SLA, assignee, status, and fast keyboard actions."
+  }
+]

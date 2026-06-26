@@ -1,0 +1,188 @@
+[
+  {
+    "id": "apple-calm",
+    "name": "Apple Calm",
+    "category": "premium",
+    "tags": [
+      "clarity",
+      "minimal",
+      "consumer"
+    ],
+    "keywords": [
+      "apple",
+      "calm",
+      "clarity",
+      "consumer",
+      "minimal",
+      "premium"
+    ],
+    "guidance": "Use for premium consumer, calm productivity, and high-trust simple flows."
+  },
+  {
+    "id": "linear-precision",
+    "name": "Linear Precision",
+    "category": "dashboard",
+    "tags": [
+      "productivity",
+      "dark",
+      "tasks"
+    ],
+    "keywords": [
+      "dark",
+      "dashboard",
+      "linear",
+      "precision",
+      "productivity",
+      "tasks"
+    ],
+    "guidance": "Use for task-heavy dashboards and dense SaaS interfaces."
+  },
+  {
+    "id": "stripe-conversion",
+    "name": "Stripe Conversion",
+    "category": "landing",
+    "tags": [
+      "conversion",
+      "trust",
+      "pricing"
+    ],
+    "keywords": [
+      "conversion",
+      "landing",
+      "pricing",
+      "stripe",
+      "trust"
+    ],
+    "guidance": "Use for landing pages and pricing flows that need confidence and momentum."
+  },
+  {
+    "id": "vercel-developer-premium",
+    "name": "Vercel Developer Premium",
+    "category": "developer",
+    "tags": [
+      "docs",
+      "api",
+      "nextjs"
+    ],
+    "keywords": [
+      "api",
+      "developer",
+      "docs",
+      "nextjs",
+      "premium",
+      "vercel"
+    ],
+    "guidance": "Use for developer tools, docs portals, deployment and API products."
+  },
+  {
+    "id": "raycast-command-center",
+    "name": "Raycast Command Center",
+    "category": "utility",
+    "tags": [
+      "command",
+      "keyboard",
+      "speed"
+    ],
+    "keywords": [
+      "center",
+      "command",
+      "keyboard",
+      "raycast",
+      "speed",
+      "utility"
+    ],
+    "guidance": "Use for command-heavy tools and fast utility workflows."
+  },
+  {
+    "id": "github-utility",
+    "name": "GitHub Utility",
+    "category": "enterprise",
+    "tags": [
+      "collaboration",
+      "durable",
+      "workflow"
+    ],
+    "keywords": [
+      "collaboration",
+      "durable",
+      "enterprise",
+      "github",
+      "utility",
+      "workflow"
+    ],
+    "guidance": "Use for robust collaboration, issue, code, and admin utility surfaces."
+  },
+  {
+    "id": "notion-workspace",
+    "name": "Notion Workspace",
+    "category": "workspace",
+    "tags": [
+      "calm",
+      "docs",
+      "content"
+    ],
+    "keywords": [
+      "calm",
+      "content",
+      "docs",
+      "notion",
+      "workspace"
+    ],
+    "guidance": "Use for content, knowledge, notes, and low-friction workspace products."
+  },
+  {
+    "id": "persian-luxury-rtl",
+    "name": "Persian Luxury RTL",
+    "category": "rtl",
+    "tags": [
+      "persian",
+      "legal",
+      "luxury"
+    ],
+    "keywords": [
+      "legal",
+      "luxury",
+      "persian",
+      "rtl"
+    ],
+    "guidance": "Use for Persian legal, finance, real-estate, and official premium interfaces."
+  },
+  {
+    "id": "enterprise-admin-clean",
+    "name": "Enterprise Admin Clean",
+    "category": "admin",
+    "tags": [
+      "dense",
+      "table",
+      "permissions"
+    ],
+    "keywords": [
+      "admin",
+      "clean",
+      "dense",
+      "enterprise",
+      "permissions",
+      "table"
+    ],
+    "guidance": "Use for back-office tools, settings, CRUD, and operational dashboards."
+  },
+  {
+    "id": "editorial-luxury",
+    "name": "Editorial Luxury",
+    "category": "marketing",
+    "tags": [
+      "real-estate",
+      "fashion",
+      "content"
+    ],
+    "keywords": [
+      "content",
+      "editorial",
+      "fashion",
+      "luxury",
+      "marketing",
+      "real-estate"
+    ],
+    "guidance": "Use for image-led premium brand pages and editorial narratives."
+  }
+]

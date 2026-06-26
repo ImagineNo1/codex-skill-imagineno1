@@ -1,0 +1,1053 @@
+[
+  {
+    "id": "inter--source-serif-4-set-1",
+    "name": "Inter + Source Serif 4 Set 1",
+    "category": "modern editorial",
+    "tags": [
+      "saas",
+      "editorial",
+      "latin",
+      "weight-set-1"
+    ],
+    "keywords": [
+      "+",
+      "1",
+      "4",
+      "editorial",
+      "inter",
+      "latin",
+      "modern",
+      "saas",
+      "serif",
+      "set",
+      "source",
+      "weight-set-1"
+    ],
+    "guidance": "Use Inter for UI and Source Serif 4 for editorial headings. Recommended weights: 400/500/700.",
+    "heading": "Inter",
+    "body": "Source Serif 4"
+  },
+  {
+    "id": "vazirmatn--inter-set-1",
+    "name": "Vazirmatn + Inter Set 1",
+    "category": "persian ui",
+    "tags": [
+      "persian",
+      "rtl",
+      "saas",
+      "weight-set-1"
+    ],
+    "keywords": [
+      "+",
+      "1",
+      "inter",
+      "persian",
+      "rtl",
+      "saas",
+      "set",
+      "ui",
+      "vazirmatn",
+      "weight-set-1"
+    ],
+    "guidance": "Use Vazirmatn for Persian UI and Inter for Latin/code fragments. Recommended weights: 400/500/700.",
+    "heading": "Vazirmatn",
+    "body": "Inter"
+  },
+  {
+    "id": "iransans--vazirmatn-set-1",
+    "name": "IRANSans + Vazirmatn Set 1",
+    "category": "persian enterprise",
+    "tags": [
+      "persian",
+      "rtl",
+      "admin",
+      "weight-set-1"
+    ],
+    "keywords": [
+      "+",
+      "1",
+      "admin",
+      "enterprise",
+      "iransans",
+      "persian",
+      "rtl",
+      "set",
+      "vazirmatn",
+      "weight-set-1"
+    ],
+    "guidance": "Use IRANSans-like proportions for enterprise Persian UI; Vazirmatn as accessible fallback. Recommended weights: 400/500/700.",
+    "heading": "IRANSans",
+    "body": "Vazirmatn"
+  },
+  {
+    "id": "geist-sans--geist-mono-set-1",
+    "name": "Geist Sans + Geist Mono Set 1",
+    "category": "developer",
+    "tags": [
+      "nextjs",
+      "vercel",
+      "docs",
+      "weight-set-1"
+    ],
+    "keywords": [
+      "+",
+      "1",
+      "developer",
+      "docs",
+      "geist",
+      "mono",
+      "nextjs",
+      "sans",
+      "set",
+      "vercel",
+      "weight-set-1"
+    ],
+    "guidance": "Use Geist Sans for product UI and Geist Mono for code/data. Recommended weights: 400/500/700.",
+    "heading": "Geist Sans",
+    "body": "Geist Mono"
+  },
+  {
+    "id": "ibm-plex-sans--ibm-plex-mono-set-1",
+    "name": "IBM Plex Sans + IBM Plex Mono Set 1",
+    "category": "technical",
+    "tags": [
+      "developer",
+      "dashboard",
+      "data",
+      "weight-set-1"
+    ],
+    "keywords": [
+      "+",
+      "1",
+      "dashboard",
+      "data",
+      "developer",
+      "ibm",
+      "mono",
+      "plex",
+      "sans",
+      "set",
+      "technical",
+      "weight-set-1"
+    ],
+    "guidance": "Use Plex Sans for UI and Plex Mono for metrics/code. Recommended weights: 400/500/700.",
+    "heading": "IBM Plex Sans",
+    "body": "IBM Plex Mono"
+  },
+  {
+    "id": "satoshi--merriweather-set-1",
+    "name": "Satoshi + Merriweather Set 1",
+    "category": "premium content",
+    "tags": [
+      "landing",
+      "editorial",
+      "weight-set-1"
+    ],
+    "keywords": [
+      "+",
+      "1",
+      "content",
+      "editorial",
+      "landing",
+      "merriweather",
+      "premium",
+      "satoshi",
+      "set",
+      "weight-set-1"
+    ],
+    "guidance": "Use Satoshi for navigation and Merriweather for trust-building longform. Recommended weights: 400/500/700.",
+    "heading": "Satoshi",
+    "body": "Merriweather"
+  },
+  {
+    "id": "manrope--fraunces-set-1",
+    "name": "Manrope + Fraunces Set 1",
+    "category": "luxury friendly",
+    "tags": [
+      "luxury",
+      "wellness",
+      "weight-set-1"
+    ],
+    "keywords": [
+      "+",
+      "1",
+      "fraunces",
+      "friendly",
+      "luxury",
+      "manrope",
+      "set",
+      "weight-set-1",
+      "wellness"
+    ],
+    "guidance": "Use Manrope for clean UI and Fraunces for expressive premium headings. Recommended weights: 400/500/700.",
+    "heading": "Manrope",
+    "body": "Fraunces"
+  },
+  {
+    "id": "dm-sans--playfair-display-set-1",
+    "name": "DM Sans + Playfair Display Set 1",
+    "category": "luxury landing",
+    "tags": [
+      "real-estate",
+      "fashion",
+      "luxury",
+      "weight-set-1"
+    ],
+    "keywords": [
+      "+",
+      "1",
+      "display",
+      "dm",
+      "fashion",
+      "landing",
+      "luxury",
+      "playfair",
+      "real-estate",
+      "sans",
+      "set",
+      "weight-set-1"
+    ],
+    "guidance": "Use DM Sans for controls and Playfair for elegant hero headings. Recommended weights: 400/500/700.",
+    "heading": "DM Sans",
+    "body": "Playfair Display"
+  },
+  {
+    "id": "plus-jakarta-sans--lora-set-1",
+    "name": "Plus Jakarta Sans + Lora Set 1",
+    "category": "education",
+    "tags": [
+      "education",
+      "content",
+      "weight-set-1"
+    ],
+    "keywords": [
+      "+",
+      "1",
+      "content",
+      "education",
+      "jakarta",
+      "lora",
+      "plus",
+      "sans",
+      "set",
+      "weight-set-1"
+    ],
+    "guidance": "Use Jakarta for app UI and Lora for reading surfaces. Recommended weights: 400/500/700.",
+    "heading": "Plus Jakarta Sans",
+    "body": "Lora"
+  },
+  {
+    "id": "roboto-flex--roboto-mono-set-1",
+    "name": "Roboto Flex + Roboto Mono Set 1",
+    "category": "material data",
+    "tags": [
+      "admin",
+      "charts",
+      "weight-set-1"
+    ],
+    "keywords": [
+      "+",
+      "1",
+      "admin",
+      "charts",
+      "data",
+      "flex",
+      "material",
+      "mono",
+      "roboto",
+      "set",
+      "weight-set-1"
+    ],
+    "guidance": "Use Roboto Flex for operational UI and Mono for tabular code-like values. Recommended weights: 400/500/700.",
+    "heading": "Roboto Flex",
+    "body": "Roboto Mono"
+  },
+  {
+    "id": "inter--source-serif-4-set-2",
+    "name": "Inter + Source Serif 4 Set 2",
+    "category": "modern editorial",
+    "tags": [
+      "saas",
+      "editorial",
+      "latin",
+      "weight-set-2"
+    ],
+    "keywords": [
+      "+",
+      "2",
+      "4",
+      "editorial",
+      "inter",
+      "latin",
+      "modern",
+      "saas",
+      "serif",
+      "set",
+      "source",
+      "weight-set-2"
+    ],
+    "guidance": "Use Inter for UI and Source Serif 4 for editorial headings. Recommended weights: 300/500/700.",
+    "heading": "Inter",
+    "body": "Source Serif 4"
+  },
+  {
+    "id": "vazirmatn--inter-set-2",
+    "name": "Vazirmatn + Inter Set 2",
+    "category": "persian ui",
+    "tags": [
+      "persian",
+      "rtl",
+      "saas",
+      "weight-set-2"
+    ],
+    "keywords": [
+      "+",
+      "2",
+      "inter",
+      "persian",
+      "rtl",
+      "saas",
+      "set",
+      "ui",
+      "vazirmatn",
+      "weight-set-2"
+    ],
+    "guidance": "Use Vazirmatn for Persian UI and Inter for Latin/code fragments. Recommended weights: 300/500/700.",
+    "heading": "Vazirmatn",
+    "body": "Inter"
+  },
+  {
+    "id": "iransans--vazirmatn-set-2",
+    "name": "IRANSans + Vazirmatn Set 2",
+    "category": "persian enterprise",
+    "tags": [
+      "persian",
+      "rtl",
+      "admin",
+      "weight-set-2"
+    ],
+    "keywords": [
+      "+",
+      "2",
+      "admin",
+      "enterprise",
+      "iransans",
+      "persian",
+      "rtl",
+      "set",
+      "vazirmatn",
+      "weight-set-2"
+    ],
+    "guidance": "Use IRANSans-like proportions for enterprise Persian UI; Vazirmatn as accessible fallback. Recommended weights: 300/500/700.",
+    "heading": "IRANSans",
+    "body": "Vazirmatn"
+  },
+  {
+    "id": "geist-sans--geist-mono-set-2",
+    "name": "Geist Sans + Geist Mono Set 2",
+    "category": "developer",
+    "tags": [
+      "nextjs",
+      "vercel",
+      "docs",
+      "weight-set-2"
+    ],
+    "keywords": [
+      "+",
+      "2",
+      "developer",
+      "docs",
+      "geist",
+      "mono",
+      "nextjs",
+      "sans",
+      "set",
+      "vercel",
+      "weight-set-2"
+    ],
+    "guidance": "Use Geist Sans for product UI and Geist Mono for code/data. Recommended weights: 300/500/700.",
+    "heading": "Geist Sans",
+    "body": "Geist Mono"
+  },
+  {
+    "id": "ibm-plex-sans--ibm-plex-mono-set-2",
+    "name": "IBM Plex Sans + IBM Plex Mono Set 2",
+    "category": "technical",
+    "tags": [
+      "developer",
+      "dashboard",
+      "data",
+      "weight-set-2"
+    ],
+    "keywords": [
+      "+",
+      "2",
+      "dashboard",
+      "data",
+      "developer",
+      "ibm",
+      "mono",
+      "plex",
+      "sans",
+      "set",
+      "technical",
+      "weight-set-2"
+    ],
+    "guidance": "Use Plex Sans for UI and Plex Mono for metrics/code. Recommended weights: 300/500/700.",
+    "heading": "IBM Plex Sans",
+    "body": "IBM Plex Mono"
+  },
+  {
+    "id": "satoshi--merriweather-set-2",
+    "name": "Satoshi + Merriweather Set 2",
+    "category": "premium content",
+    "tags": [
+      "landing",
+      "editorial",
+      "weight-set-2"
+    ],
+    "keywords": [
+      "+",
+      "2",
+      "content",
+      "editorial",
+      "landing",
+      "merriweather",
+      "premium",
+      "satoshi",
+      "set",
+      "weight-set-2"
+    ],
+    "guidance": "Use Satoshi for navigation and Merriweather for trust-building longform. Recommended weights: 300/500/700.",
+    "heading": "Satoshi",
+    "body": "Merriweather"
+  },
+  {
+    "id": "manrope--fraunces-set-2",
+    "name": "Manrope + Fraunces Set 2",
+    "category": "luxury friendly",
+    "tags": [
+      "luxury",
+      "wellness",
+      "weight-set-2"
+    ],
+    "keywords": [
+      "+",
+      "2",
+      "fraunces",
+      "friendly",
+      "luxury",
+      "manrope",
+      "set",
+      "weight-set-2",
+      "wellness"
+    ],
+    "guidance": "Use Manrope for clean UI and Fraunces for expressive premium headings. Recommended weights: 300/500/700.",
+    "heading": "Manrope",
+    "body": "Fraunces"
+  },
+  {
+    "id": "dm-sans--playfair-display-set-2",
+    "name": "DM Sans + Playfair Display Set 2",
+    "category": "luxury landing",
+    "tags": [
+      "real-estate",
+      "fashion",
+      "luxury",
+      "weight-set-2"
+    ],
+    "keywords": [
+      "+",
+      "2",
+      "display",
+      "dm",
+      "fashion",
+      "landing",
+      "luxury",
+      "playfair",
+      "real-estate",
+      "sans",
+      "set",
+      "weight-set-2"
+    ],
+    "guidance": "Use DM Sans for controls and Playfair for elegant hero headings. Recommended weights: 300/500/700.",
+    "heading": "DM Sans",
+    "body": "Playfair Display"
+  },
+  {
+    "id": "plus-jakarta-sans--lora-set-2",
+    "name": "Plus Jakarta Sans + Lora Set 2",
+    "category": "education",
+    "tags": [
+      "education",
+      "content",
+      "weight-set-2"
+    ],
+    "keywords": [
+      "+",
+      "2",
+      "content",
+      "education",
+      "jakarta",
+      "lora",
+      "plus",
+      "sans",
+      "set",
+      "weight-set-2"
+    ],
+    "guidance": "Use Jakarta for app UI and Lora for reading surfaces. Recommended weights: 300/500/700.",
+    "heading": "Plus Jakarta Sans",
+    "body": "Lora"
+  },
+  {
+    "id": "roboto-flex--roboto-mono-set-2",
+    "name": "Roboto Flex + Roboto Mono Set 2",
+    "category": "material data",
+    "tags": [
+      "admin",
+      "charts",
+      "weight-set-2"
+    ],
+    "keywords": [
+      "+",
+      "2",
+      "admin",
+      "charts",
+      "data",
+      "flex",
+      "material",
+      "mono",
+      "roboto",
+      "set",
+      "weight-set-2"
+    ],
+    "guidance": "Use Roboto Flex for operational UI and Mono for tabular code-like values. Recommended weights: 300/500/700.",
+    "heading": "Roboto Flex",
+    "body": "Roboto Mono"
+  },
+  {
+    "id": "inter--source-serif-4-set-3",
+    "name": "Inter + Source Serif 4 Set 3",
+    "category": "modern editorial",
+    "tags": [
+      "saas",
+      "editorial",
+      "latin",
+      "weight-set-3"
+    ],
+    "keywords": [
+      "+",
+      "3",
+      "4",
+      "editorial",
+      "inter",
+      "latin",
+      "modern",
+      "saas",
+      "serif",
+      "set",
+      "source",
+      "weight-set-3"
+    ],
+    "guidance": "Use Inter for UI and Source Serif 4 for editorial headings. Recommended weights: 400/600/800.",
+    "heading": "Inter",
+    "body": "Source Serif 4"
+  },
+  {
+    "id": "vazirmatn--inter-set-3",
+    "name": "Vazirmatn + Inter Set 3",
+    "category": "persian ui",
+    "tags": [
+      "persian",
+      "rtl",
+      "saas",
+      "weight-set-3"
+    ],
+    "keywords": [
+      "+",
+      "3",
+      "inter",
+      "persian",
+      "rtl",
+      "saas",
+      "set",
+      "ui",
+      "vazirmatn",
+      "weight-set-3"
+    ],
+    "guidance": "Use Vazirmatn for Persian UI and Inter for Latin/code fragments. Recommended weights: 400/600/800.",
+    "heading": "Vazirmatn",
+    "body": "Inter"
+  },
+  {
+    "id": "iransans--vazirmatn-set-3",
+    "name": "IRANSans + Vazirmatn Set 3",
+    "category": "persian enterprise",
+    "tags": [
+      "persian",
+      "rtl",
+      "admin",
+      "weight-set-3"
+    ],
+    "keywords": [
+      "+",
+      "3",
+      "admin",
+      "enterprise",
+      "iransans",
+      "persian",
+      "rtl",
+      "set",
+      "vazirmatn",
+      "weight-set-3"
+    ],
+    "guidance": "Use IRANSans-like proportions for enterprise Persian UI; Vazirmatn as accessible fallback. Recommended weights: 400/600/800.",
+    "heading": "IRANSans",
+    "body": "Vazirmatn"
+  },
+  {
+    "id": "geist-sans--geist-mono-set-3",
+    "name": "Geist Sans + Geist Mono Set 3",
+    "category": "developer",
+    "tags": [
+      "nextjs",
+      "vercel",
+      "docs",
+      "weight-set-3"
+    ],
+    "keywords": [
+      "+",
+      "3",
+      "developer",
+      "docs",
+      "geist",
+      "mono",
+      "nextjs",
+      "sans",
+      "set",
+      "vercel",
+      "weight-set-3"
+    ],
+    "guidance": "Use Geist Sans for product UI and Geist Mono for code/data. Recommended weights: 400/600/800.",
+    "heading": "Geist Sans",
+    "body": "Geist Mono"
+  },
+  {
+    "id": "ibm-plex-sans--ibm-plex-mono-set-3",
+    "name": "IBM Plex Sans + IBM Plex Mono Set 3",
+    "category": "technical",
+    "tags": [
+      "developer",
+      "dashboard",
+      "data",
+      "weight-set-3"
+    ],
+    "keywords": [
+      "+",
+      "3",
+      "dashboard",
+      "data",
+      "developer",
+      "ibm",
+      "mono",
+      "plex",
+      "sans",
+      "set",
+      "technical",
+      "weight-set-3"
+    ],
+    "guidance": "Use Plex Sans for UI and Plex Mono for metrics/code. Recommended weights: 400/600/800.",
+    "heading": "IBM Plex Sans",
+    "body": "IBM Plex Mono"
+  },
+  {
+    "id": "satoshi--merriweather-set-3",
+    "name": "Satoshi + Merriweather Set 3",
+    "category": "premium content",
+    "tags": [
+      "landing",
+      "editorial",
+      "weight-set-3"
+    ],
+    "keywords": [
+      "+",
+      "3",
+      "content",
+      "editorial",
+      "landing",
+      "merriweather",
+      "premium",
+      "satoshi",
+      "set",
+      "weight-set-3"
+    ],
+    "guidance": "Use Satoshi for navigation and Merriweather for trust-building longform. Recommended weights: 400/600/800.",
+    "heading": "Satoshi",
+    "body": "Merriweather"
+  },
+  {
+    "id": "manrope--fraunces-set-3",
+    "name": "Manrope + Fraunces Set 3",
+    "category": "luxury friendly",
+    "tags": [
+      "luxury",
+      "wellness",
+      "weight-set-3"
+    ],
+    "keywords": [
+      "+",
+      "3",
+      "fraunces",
+      "friendly",
+      "luxury",
+      "manrope",
+      "set",
+      "weight-set-3",
+      "wellness"
+    ],
+    "guidance": "Use Manrope for clean UI and Fraunces for expressive premium headings. Recommended weights: 400/600/800.",
+    "heading": "Manrope",
+    "body": "Fraunces"
+  },
+  {
+    "id": "dm-sans--playfair-display-set-3",
+    "name": "DM Sans + Playfair Display Set 3",
+    "category": "luxury landing",
+    "tags": [
+      "real-estate",
+      "fashion",
+      "luxury",
+      "weight-set-3"
+    ],
+    "keywords": [
+      "+",
+      "3",
+      "display",
+      "dm",
+      "fashion",
+      "landing",
+      "luxury",
+      "playfair",
+      "real-estate",
+      "sans",
+      "set",
+      "weight-set-3"
+    ],
+    "guidance": "Use DM Sans for controls and Playfair for elegant hero headings. Recommended weights: 400/600/800.",
+    "heading": "DM Sans",
+    "body": "Playfair Display"
+  },
+  {
+    "id": "plus-jakarta-sans--lora-set-3",
+    "name": "Plus Jakarta Sans + Lora Set 3",
+    "category": "education",
+    "tags": [
+      "education",
+      "content",
+      "weight-set-3"
+    ],
+    "keywords": [
+      "+",
+      "3",
+      "content",
+      "education",
+      "jakarta",
+      "lora",
+      "plus",
+      "sans",
+      "set",
+      "weight-set-3"
+    ],
+    "guidance": "Use Jakarta for app UI and Lora for reading surfaces. Recommended weights: 400/600/800.",
+    "heading": "Plus Jakarta Sans",
+    "body": "Lora"
+  },
+  {
+    "id": "roboto-flex--roboto-mono-set-3",
+    "name": "Roboto Flex + Roboto Mono Set 3",
+    "category": "material data",
+    "tags": [
+      "admin",
+      "charts",
+      "weight-set-3"
+    ],
+    "keywords": [
+      "+",
+      "3",
+      "admin",
+      "charts",
+      "data",
+      "flex",
+      "material",
+      "mono",
+      "roboto",
+      "set",
+      "weight-set-3"
+    ],
+    "guidance": "Use Roboto Flex for operational UI and Mono for tabular code-like values. Recommended weights: 400/600/800.",
+    "heading": "Roboto Flex",
+    "body": "Roboto Mono"
+  },
+  {
+    "id": "inter--source-serif-4-set-4",
+    "name": "Inter + Source Serif 4 Set 4",
+    "category": "modern editorial",
+    "tags": [
+      "saas",
+      "editorial",
+      "latin",
+      "weight-set-4"
+    ],
+    "keywords": [
+      "+",
+      "4",
+      "editorial",
+      "inter",
+      "latin",
+      "modern",
+      "saas",
+      "serif",
+      "set",
+      "source",
+      "weight-set-4"
+    ],
+    "guidance": "Use Inter for UI and Source Serif 4 for editorial headings. Recommended weights: variable.",
+    "heading": "Inter",
+    "body": "Source Serif 4"
+  },
+  {
+    "id": "vazirmatn--inter-set-4",
+    "name": "Vazirmatn + Inter Set 4",
+    "category": "persian ui",
+    "tags": [
+      "persian",
+      "rtl",
+      "saas",
+      "weight-set-4"
+    ],
+    "keywords": [
+      "+",
+      "4",
+      "inter",
+      "persian",
+      "rtl",
+      "saas",
+      "set",
+      "ui",
+      "vazirmatn",
+      "weight-set-4"
+    ],
+    "guidance": "Use Vazirmatn for Persian UI and Inter for Latin/code fragments. Recommended weights: variable.",
+    "heading": "Vazirmatn",
+    "body": "Inter"
+  },
+  {
+    "id": "iransans--vazirmatn-set-4",
+    "name": "IRANSans + Vazirmatn Set 4",
+    "category": "persian enterprise",
+    "tags": [
+      "persian",
+      "rtl",
+      "admin",
+      "weight-set-4"
+    ],
+    "keywords": [
+      "+",
+      "4",
+      "admin",
+      "enterprise",
+      "iransans",
+      "persian",
+      "rtl",
+      "set",
+      "vazirmatn",
+      "weight-set-4"
+    ],
+    "guidance": "Use IRANSans-like proportions for enterprise Persian UI; Vazirmatn as accessible fallback. Recommended weights: variable.",
+    "heading": "IRANSans",
+    "body": "Vazirmatn"
+  },
+  {
+    "id": "geist-sans--geist-mono-set-4",
+    "name": "Geist Sans + Geist Mono Set 4",
+    "category": "developer",
+    "tags": [
+      "nextjs",
+      "vercel",
+      "docs",
+      "weight-set-4"
+    ],
+    "keywords": [
+      "+",
+      "4",
+      "developer",
+      "docs",
+      "geist",
+      "mono",
+      "nextjs",
+      "sans",
+      "set",
+      "vercel",
+      "weight-set-4"
+    ],
+    "guidance": "Use Geist Sans for product UI and Geist Mono for code/data. Recommended weights: variable.",
+    "heading": "Geist Sans",
+    "body": "Geist Mono"
+  },
+  {
+    "id": "ibm-plex-sans--ibm-plex-mono-set-4",
+    "name": "IBM Plex Sans + IBM Plex Mono Set 4",
+    "category": "technical",
+    "tags": [
+      "developer",
+      "dashboard",
+      "data",
+      "weight-set-4"
+    ],
+    "keywords": [
+      "+",
+      "4",
+      "dashboard",
+      "data",
+      "developer",
+      "ibm",
+      "mono",
+      "plex",
+      "sans",
+      "set",
+      "technical",
+      "weight-set-4"
+    ],
+    "guidance": "Use Plex Sans for UI and Plex Mono for metrics/code. Recommended weights: variable.",
+    "heading": "IBM Plex Sans",
+    "body": "IBM Plex Mono"
+  },
+  {
+    "id": "satoshi--merriweather-set-4",
+    "name": "Satoshi + Merriweather Set 4",
+    "category": "premium content",
+    "tags": [
+      "landing",
+      "editorial",
+      "weight-set-4"
+    ],
+    "keywords": [
+      "+",
+      "4",
+      "content",
+      "editorial",
+      "landing",
+      "merriweather",
+      "premium",
+      "satoshi",
+      "set",
+      "weight-set-4"
+    ],
+    "guidance": "Use Satoshi for navigation and Merriweather for trust-building longform. Recommended weights: variable.",
+    "heading": "Satoshi",
+    "body": "Merriweather"
+  },
+  {
+    "id": "manrope--fraunces-set-4",
+    "name": "Manrope + Fraunces Set 4",
+    "category": "luxury friendly",
+    "tags": [
+      "luxury",
+      "wellness",
+      "weight-set-4"
+    ],
+    "keywords": [
+      "+",
+      "4",
+      "fraunces",
+      "friendly",
+      "luxury",
+      "manrope",
+      "set",
+      "weight-set-4",
+      "wellness"
+    ],
+    "guidance": "Use Manrope for clean UI and Fraunces for expressive premium headings. Recommended weights: variable.",
+    "heading": "Manrope",
+    "body": "Fraunces"
+  },
+  {
+    "id": "dm-sans--playfair-display-set-4",
+    "name": "DM Sans + Playfair Display Set 4",
+    "category": "luxury landing",
+    "tags": [
+      "real-estate",
+      "fashion",
+      "luxury",
+      "weight-set-4"
+    ],
+    "keywords": [
+      "+",
+      "4",
+      "display",
+      "dm",
+      "fashion",
+      "landing",
+      "luxury",
+      "playfair",
+      "real-estate",
+      "sans",
+      "set",
+      "weight-set-4"
+    ],
+    "guidance": "Use DM Sans for controls and Playfair for elegant hero headings. Recommended weights: variable.",
+    "heading": "DM Sans",
+    "body": "Playfair Display"
+  },
+  {
+    "id": "plus-jakarta-sans--lora-set-4",
+    "name": "Plus Jakarta Sans + Lora Set 4",
+    "category": "education",
+    "tags": [
+      "education",
+      "content",
+      "weight-set-4"
+    ],
+    "keywords": [
+      "+",
+      "4",
+      "content",
+      "education",
+      "jakarta",
+      "lora",
+      "plus",
+      "sans",
+      "set",
+      "weight-set-4"
+    ],
+    "guidance": "Use Jakarta for app UI and Lora for reading surfaces. Recommended weights: variable.",
+    "heading": "Plus Jakarta Sans",
+    "body": "Lora"
+  },
+  {
+    "id": "roboto-flex--roboto-mono-set-4",
+    "name": "Roboto Flex + Roboto Mono Set 4",
+    "category": "material data",
+    "tags": [
+      "admin",
+      "charts",
+      "weight-set-4"
+    ],
+    "keywords": [
+      "+",
+      "4",
+      "admin",
+      "charts",
+      "data",
+      "flex",
+      "material",
+      "mono",
+      "roboto",
+      "set",
+      "weight-set-4"
+    ],
+    "guidance": "Use Roboto Flex for operational UI and Mono for tabular code-like values. Recommended weights: variable.",
+    "heading": "Roboto Flex",
+    "body": "Roboto Mono"
+  }
+]

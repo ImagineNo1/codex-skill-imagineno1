@@ -2,7 +2,7 @@
 
 `imageno1-skill` is an execution-driven Codex skill for production frontend work. It is designed to behave like a Staff Frontend Engineer, Senior Product Designer, Design System Architect, UX Researcher, Accessibility Expert, Performance Engineer, Technical Lead, and Senior Code Reviewer at the same time.
 
-It is not only a documentation pack. It is a frontend operating system with an execution engine, progressive handbook loading, premium design intelligence, quality gates, and delivery rules.
+It is not only a documentation pack. It is a frontend operating system with an execution engine, searchable design database, design-system generator, progressive handbook loading, premium design intelligence, quality gates, and delivery rules.
 
 ## What This Skill Does
 
@@ -38,6 +38,60 @@ Use it automatically for:
 - `make it not look AI-generated`
 
 It covers premium hierarchy, color psychology, typography, spacing, grid rhythm, Gestalt principles, cards, CTAs, empty states, onboarding, pricing, trust sections, data-heavy UI, micro-interactions, premium dark mode, and anti-AI-looking UI rules.
+
+## Searchable Design Database
+
+Imageno1 includes original JSON design knowledge bases:
+
+- `data/products.json`
+- `data/styles.json`
+- `data/colors.json`
+- `data/typography.json`
+- `data/ux-guidelines.json`
+- `data/charts.json`
+- `data/stacks.json`
+- `data/persian-rtl.json`
+- `data/design-languages.json`
+
+Use the dependency-free search CLI:
+
+```bash
+npm run search -- "Persian SaaS dashboard" -- --domain product
+npm run search -- "luxury legal" -- --domain color
+npm run search -- "rtl Persian admin" -- --domain typography
+npm run search -- "analytics dashboard" -- --domain chart
+npm run search -- "server components" -- --stack nextjs
+```
+
+The search engine uses lowercase normalization, keyword matching, tag matching, weighted scoring, markdown output, and optional JSON output:
+
+```bash
+npm run search -- "Persian SaaS dashboard" -- --domain product --json
+```
+
+## Design-System Generator
+
+For major UI projects, run:
+
+```bash
+npm run design-system -- "Persian legal SaaS dashboard"
+```
+
+The generator returns:
+
+- design language
+- product match
+- color palette
+- typography
+- spacing rhythm
+- radius/elevation
+- component tone
+- chart style
+- landing/dashboard recommendations
+- RTL notes when relevant
+- implementation checklist
+
+Codex should use this before building important landing pages, dashboards, SaaS screens, admin panels, and high-end visual redesigns.
 
 ## Visual Language Selection
 
@@ -92,6 +146,8 @@ It loads only the docs relevant to the current request:
 - `docs/08-performance.md` for Core Web Vitals, images, fonts, bundle, and rendering cost
 - `docs/21-rtl.md` and `docs/22-persian-ui.md` for RTL and Persian interfaces
 - `docs/28-design-intelligence.md` for premium visual polish and anti-generic UI
+- `docs/29-searchable-design-db.md` for design retrieval and generator usage
+- `docs/30-brand-and-asset-workflows.md` for brand, banner, social, poster, hero visual, and export workflows
 
 This keeps context usage low while preserving high-quality reasoning.
 
@@ -207,6 +263,37 @@ It checks:
 - mixed LTR content such as emails, URLs, code, and identifiers
 - Persian Luxury RTL visual direction for premium legal, finance, and official interfaces
 
+Persian/RTL projects should also retrieve from `data/persian-rtl.json` before implementation.
+
+## Brand, Social, Banner, And Asset Workflows
+
+`docs/30-brand-and-asset-workflows.md` adds workflows for:
+
+- brand packages
+- logo direction
+- banners
+- social posts
+- posters
+- landing hero visuals
+- exact export sizes
+- Playwright screenshot verification when useful
+
+Practical sizes include Instagram post/story, LinkedIn, X/Twitter, YouTube thumbnail, Pinterest, and Facebook/OpenGraph.
+
+## How It Differs From Generic UI Prompt Skills
+
+Imageno1 is not a single mega-prompt. It combines:
+
+- a Codex-first `SKILL.md` router
+- progressive docs loading
+- searchable design data
+- a design-system generator
+- premium design critique gates
+- Next.js, React, Tailwind, shadcn/ui, accessibility, performance, and RTL/Persian execution rules
+- verification scripts and install scripts
+
+The goal is repeatable frontend direction, not random trendy UI.
+
 ## Install For Codex
 
 Clone or download this repository, then run the installer for your OS.
@@ -272,6 +359,10 @@ The verifier checks:
 - frontmatter name is `imageno1-skill`
 - internal title is `Imageno1 Frontend OS v2.0`
 - package version is current
+- required data files exist
+- `scripts/search.js` exists
+- `scripts/design-system.js` exists
+- package scripts exist
 - every docs markdown file is referenced from `SKILL.md`
 - markdown files are not empty
 
@@ -328,10 +419,24 @@ imageno1-skill/
 |   |-- 03-nextjs.md
 |   |-- ...
 |   |-- 27-final-audit.md
-|   `-- 28-design-intelligence.md
+|   |-- 28-design-intelligence.md
+|   |-- 29-searchable-design-db.md
+|   `-- 30-brand-and-asset-workflows.md
+|-- data/
+|   |-- products.json
+|   |-- styles.json
+|   |-- colors.json
+|   |-- typography.json
+|   |-- ux-guidelines.json
+|   |-- charts.json
+|   |-- stacks.json
+|   |-- persian-rtl.json
+|   `-- design-languages.json
 |-- scripts/
 |   |-- install.ps1
 |   |-- install.sh
+|   |-- search.js
+|   |-- design-system.js
 |   `-- verify.js
 |-- README.md
 |-- CHANGELOG.md

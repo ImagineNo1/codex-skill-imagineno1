@@ -1,0 +1,2200 @@
+[
+  {
+    "id": "legal-navy-gold",
+    "name": "Legal Navy Gold",
+    "category": "legal",
+    "tags": [
+      "legal",
+      "rtl",
+      "luxury",
+      "trust",
+      "variant-1"
+    ],
+    "keywords": [
+      "gold",
+      "legal",
+      "luxury",
+      "navy",
+      "rtl",
+      "trust",
+      "variant-1"
+    ],
+    "guidance": "Use for legal interfaces where legal, rtl matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#071A2F",
+      "#102A43",
+      "#F8FAFC",
+      "#C99A45",
+      "#E5E7EB"
+    ]
+  },
+  {
+    "id": "persian-charcoal-ivory",
+    "name": "Persian Charcoal Ivory",
+    "category": "rtl",
+    "tags": [
+      "persian",
+      "formal",
+      "luxury",
+      "variant-1"
+    ],
+    "keywords": [
+      "charcoal",
+      "formal",
+      "ivory",
+      "luxury",
+      "persian",
+      "rtl",
+      "variant-1"
+    ],
+    "guidance": "Use for rtl interfaces where persian, formal matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#111827",
+      "#1F2937",
+      "#F9F5EA",
+      "#B98B2F",
+      "#E7D8B8"
+    ]
+  },
+  {
+    "id": "fintech-trust-blue",
+    "name": "Fintech Trust Blue",
+    "category": "finance",
+    "tags": [
+      "finance",
+      "banking",
+      "trust",
+      "variant-1"
+    ],
+    "keywords": [
+      "banking",
+      "blue",
+      "finance",
+      "fintech",
+      "trust",
+      "variant-1"
+    ],
+    "guidance": "Use for finance interfaces where finance, banking matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#0B1F3A",
+      "#1D4ED8",
+      "#ECFDF5",
+      "#16A34A",
+      "#E5E7EB"
+    ]
+  },
+  {
+    "id": "healthcare-calm",
+    "name": "Healthcare Calm",
+    "category": "healthcare",
+    "tags": [
+      "health",
+      "calm",
+      "accessible",
+      "variant-1"
+    ],
+    "keywords": [
+      "accessible",
+      "calm",
+      "health",
+      "healthcare",
+      "variant-1"
+    ],
+    "guidance": "Use for healthcare interfaces where health, calm matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#F8FAFC",
+      "#DFF3F0",
+      "#2B7A78",
+      "#2563EB",
+      "#334155"
+    ]
+  },
+  {
+    "id": "developer-mono",
+    "name": "Developer Mono",
+    "category": "developer",
+    "tags": [
+      "developer",
+      "vercel",
+      "docs",
+      "variant-1"
+    ],
+    "keywords": [
+      "developer",
+      "docs",
+      "mono",
+      "variant-1",
+      "vercel"
+    ],
+    "guidance": "Use for developer interfaces where developer, vercel matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#050505",
+      "#111111",
+      "#FAFAFA",
+      "#666666",
+      "#0070F3"
+    ]
+  },
+  {
+    "id": "linear-dark",
+    "name": "Linear Dark",
+    "category": "dashboard",
+    "tags": [
+      "linear",
+      "dark",
+      "productivity",
+      "variant-1"
+    ],
+    "keywords": [
+      "dark",
+      "dashboard",
+      "linear",
+      "productivity",
+      "variant-1"
+    ],
+    "guidance": "Use for dashboard interfaces where linear, dark matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#08090A",
+      "#16181D",
+      "#F4F4F5",
+      "#8B5CF6",
+      "#2DD4BF"
+    ]
+  },
+  {
+    "id": "stripe-energy",
+    "name": "Stripe Energy",
+    "category": "landing",
+    "tags": [
+      "stripe",
+      "conversion",
+      "gradient",
+      "variant-1"
+    ],
+    "keywords": [
+      "conversion",
+      "energy",
+      "gradient",
+      "landing",
+      "stripe",
+      "variant-1"
+    ],
+    "guidance": "Use for landing interfaces where stripe, conversion matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#0A2540",
+      "#635BFF",
+      "#00D4FF",
+      "#F6F9FC",
+      "#425466"
+    ]
+  },
+  {
+    "id": "luxury-real-estate",
+    "name": "Luxury Real Estate",
+    "category": "real-estate",
+    "tags": [
+      "luxury",
+      "property",
+      "landing",
+      "variant-1"
+    ],
+    "keywords": [
+      "estate",
+      "landing",
+      "luxury",
+      "property",
+      "real",
+      "real-estate",
+      "variant-1"
+    ],
+    "guidance": "Use for real-estate interfaces where luxury, property matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#0D1117",
+      "#EEE7DA",
+      "#B08D57",
+      "#FFFFFF",
+      "#3B3B3B"
+    ]
+  },
+  {
+    "id": "education-warm",
+    "name": "Education Warm",
+    "category": "education",
+    "tags": [
+      "learning",
+      "friendly",
+      "variant-1"
+    ],
+    "keywords": [
+      "education",
+      "friendly",
+      "learning",
+      "variant-1",
+      "warm"
+    ],
+    "guidance": "Use for education interfaces where learning, friendly matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#FFF7ED",
+      "#1E3A8A",
+      "#F97316",
+      "#0F766E",
+      "#374151"
+    ]
+  },
+  {
+    "id": "wellness-sage",
+    "name": "Wellness Sage",
+    "category": "wellness",
+    "tags": [
+      "wellness",
+      "organic",
+      "variant-1"
+    ],
+    "keywords": [
+      "organic",
+      "sage",
+      "variant-1",
+      "wellness"
+    ],
+    "guidance": "Use for wellness interfaces where wellness, organic matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#F7F4EA",
+      "#8AA399",
+      "#465A4D",
+      "#D6A77A",
+      "#2F3E34"
+    ]
+  },
+  {
+    "id": "legal-navy-gold-2",
+    "name": "Legal Navy Gold 2",
+    "category": "legal",
+    "tags": [
+      "legal",
+      "rtl",
+      "luxury",
+      "trust",
+      "variant-2"
+    ],
+    "keywords": [
+      "2",
+      "gold",
+      "legal",
+      "luxury",
+      "navy",
+      "rtl",
+      "trust",
+      "variant-2"
+    ],
+    "guidance": "Use for legal interfaces where legal, rtl matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#102A43",
+      "#F8FAFC",
+      "#C99A45",
+      "#E5E7EB",
+      "#071A2F"
+    ]
+  },
+  {
+    "id": "persian-charcoal-ivory-2",
+    "name": "Persian Charcoal Ivory 2",
+    "category": "rtl",
+    "tags": [
+      "persian",
+      "formal",
+      "luxury",
+      "variant-2"
+    ],
+    "keywords": [
+      "2",
+      "charcoal",
+      "formal",
+      "ivory",
+      "luxury",
+      "persian",
+      "rtl",
+      "variant-2"
+    ],
+    "guidance": "Use for rtl interfaces where persian, formal matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#1F2937",
+      "#F9F5EA",
+      "#B98B2F",
+      "#E7D8B8",
+      "#111827"
+    ]
+  },
+  {
+    "id": "fintech-trust-blue-2",
+    "name": "Fintech Trust Blue 2",
+    "category": "finance",
+    "tags": [
+      "finance",
+      "banking",
+      "trust",
+      "variant-2"
+    ],
+    "keywords": [
+      "2",
+      "banking",
+      "blue",
+      "finance",
+      "fintech",
+      "trust",
+      "variant-2"
+    ],
+    "guidance": "Use for finance interfaces where finance, banking matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#1D4ED8",
+      "#ECFDF5",
+      "#16A34A",
+      "#E5E7EB",
+      "#0B1F3A"
+    ]
+  },
+  {
+    "id": "healthcare-calm-2",
+    "name": "Healthcare Calm 2",
+    "category": "healthcare",
+    "tags": [
+      "health",
+      "calm",
+      "accessible",
+      "variant-2"
+    ],
+    "keywords": [
+      "2",
+      "accessible",
+      "calm",
+      "health",
+      "healthcare",
+      "variant-2"
+    ],
+    "guidance": "Use for healthcare interfaces where health, calm matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#DFF3F0",
+      "#2B7A78",
+      "#2563EB",
+      "#334155",
+      "#F8FAFC"
+    ]
+  },
+  {
+    "id": "developer-mono-2",
+    "name": "Developer Mono 2",
+    "category": "developer",
+    "tags": [
+      "developer",
+      "vercel",
+      "docs",
+      "variant-2"
+    ],
+    "keywords": [
+      "2",
+      "developer",
+      "docs",
+      "mono",
+      "variant-2",
+      "vercel"
+    ],
+    "guidance": "Use for developer interfaces where developer, vercel matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#111111",
+      "#FAFAFA",
+      "#666666",
+      "#0070F3",
+      "#050505"
+    ]
+  },
+  {
+    "id": "linear-dark-2",
+    "name": "Linear Dark 2",
+    "category": "dashboard",
+    "tags": [
+      "linear",
+      "dark",
+      "productivity",
+      "variant-2"
+    ],
+    "keywords": [
+      "2",
+      "dark",
+      "dashboard",
+      "linear",
+      "productivity",
+      "variant-2"
+    ],
+    "guidance": "Use for dashboard interfaces where linear, dark matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#16181D",
+      "#F4F4F5",
+      "#8B5CF6",
+      "#2DD4BF",
+      "#08090A"
+    ]
+  },
+  {
+    "id": "stripe-energy-2",
+    "name": "Stripe Energy 2",
+    "category": "landing",
+    "tags": [
+      "stripe",
+      "conversion",
+      "gradient",
+      "variant-2"
+    ],
+    "keywords": [
+      "2",
+      "conversion",
+      "energy",
+      "gradient",
+      "landing",
+      "stripe",
+      "variant-2"
+    ],
+    "guidance": "Use for landing interfaces where stripe, conversion matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#635BFF",
+      "#00D4FF",
+      "#F6F9FC",
+      "#425466",
+      "#0A2540"
+    ]
+  },
+  {
+    "id": "luxury-real-estate-2",
+    "name": "Luxury Real Estate 2",
+    "category": "real-estate",
+    "tags": [
+      "luxury",
+      "property",
+      "landing",
+      "variant-2"
+    ],
+    "keywords": [
+      "2",
+      "estate",
+      "landing",
+      "luxury",
+      "property",
+      "real",
+      "real-estate",
+      "variant-2"
+    ],
+    "guidance": "Use for real-estate interfaces where luxury, property matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#EEE7DA",
+      "#B08D57",
+      "#FFFFFF",
+      "#3B3B3B",
+      "#0D1117"
+    ]
+  },
+  {
+    "id": "education-warm-2",
+    "name": "Education Warm 2",
+    "category": "education",
+    "tags": [
+      "learning",
+      "friendly",
+      "variant-2"
+    ],
+    "keywords": [
+      "2",
+      "education",
+      "friendly",
+      "learning",
+      "variant-2",
+      "warm"
+    ],
+    "guidance": "Use for education interfaces where learning, friendly matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#1E3A8A",
+      "#F97316",
+      "#0F766E",
+      "#374151",
+      "#FFF7ED"
+    ]
+  },
+  {
+    "id": "wellness-sage-2",
+    "name": "Wellness Sage 2",
+    "category": "wellness",
+    "tags": [
+      "wellness",
+      "organic",
+      "variant-2"
+    ],
+    "keywords": [
+      "2",
+      "organic",
+      "sage",
+      "variant-2",
+      "wellness"
+    ],
+    "guidance": "Use for wellness interfaces where wellness, organic matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#8AA399",
+      "#465A4D",
+      "#D6A77A",
+      "#2F3E34",
+      "#F7F4EA"
+    ]
+  },
+  {
+    "id": "legal-navy-gold-3",
+    "name": "Legal Navy Gold 3",
+    "category": "legal",
+    "tags": [
+      "legal",
+      "rtl",
+      "luxury",
+      "trust",
+      "variant-3"
+    ],
+    "keywords": [
+      "3",
+      "gold",
+      "legal",
+      "luxury",
+      "navy",
+      "rtl",
+      "trust",
+      "variant-3"
+    ],
+    "guidance": "Use for legal interfaces where legal, rtl matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#F8FAFC",
+      "#C99A45",
+      "#E5E7EB",
+      "#071A2F",
+      "#102A43"
+    ]
+  },
+  {
+    "id": "persian-charcoal-ivory-3",
+    "name": "Persian Charcoal Ivory 3",
+    "category": "rtl",
+    "tags": [
+      "persian",
+      "formal",
+      "luxury",
+      "variant-3"
+    ],
+    "keywords": [
+      "3",
+      "charcoal",
+      "formal",
+      "ivory",
+      "luxury",
+      "persian",
+      "rtl",
+      "variant-3"
+    ],
+    "guidance": "Use for rtl interfaces where persian, formal matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#F9F5EA",
+      "#B98B2F",
+      "#E7D8B8",
+      "#111827",
+      "#1F2937"
+    ]
+  },
+  {
+    "id": "fintech-trust-blue-3",
+    "name": "Fintech Trust Blue 3",
+    "category": "finance",
+    "tags": [
+      "finance",
+      "banking",
+      "trust",
+      "variant-3"
+    ],
+    "keywords": [
+      "3",
+      "banking",
+      "blue",
+      "finance",
+      "fintech",
+      "trust",
+      "variant-3"
+    ],
+    "guidance": "Use for finance interfaces where finance, banking matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#ECFDF5",
+      "#16A34A",
+      "#E5E7EB",
+      "#0B1F3A",
+      "#1D4ED8"
+    ]
+  },
+  {
+    "id": "healthcare-calm-3",
+    "name": "Healthcare Calm 3",
+    "category": "healthcare",
+    "tags": [
+      "health",
+      "calm",
+      "accessible",
+      "variant-3"
+    ],
+    "keywords": [
+      "3",
+      "accessible",
+      "calm",
+      "health",
+      "healthcare",
+      "variant-3"
+    ],
+    "guidance": "Use for healthcare interfaces where health, calm matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#2B7A78",
+      "#2563EB",
+      "#334155",
+      "#F8FAFC",
+      "#DFF3F0"
+    ]
+  },
+  {
+    "id": "developer-mono-3",
+    "name": "Developer Mono 3",
+    "category": "developer",
+    "tags": [
+      "developer",
+      "vercel",
+      "docs",
+      "variant-3"
+    ],
+    "keywords": [
+      "3",
+      "developer",
+      "docs",
+      "mono",
+      "variant-3",
+      "vercel"
+    ],
+    "guidance": "Use for developer interfaces where developer, vercel matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#FAFAFA",
+      "#666666",
+      "#0070F3",
+      "#050505",
+      "#111111"
+    ]
+  },
+  {
+    "id": "linear-dark-3",
+    "name": "Linear Dark 3",
+    "category": "dashboard",
+    "tags": [
+      "linear",
+      "dark",
+      "productivity",
+      "variant-3"
+    ],
+    "keywords": [
+      "3",
+      "dark",
+      "dashboard",
+      "linear",
+      "productivity",
+      "variant-3"
+    ],
+    "guidance": "Use for dashboard interfaces where linear, dark matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#F4F4F5",
+      "#8B5CF6",
+      "#2DD4BF",
+      "#08090A",
+      "#16181D"
+    ]
+  },
+  {
+    "id": "stripe-energy-3",
+    "name": "Stripe Energy 3",
+    "category": "landing",
+    "tags": [
+      "stripe",
+      "conversion",
+      "gradient",
+      "variant-3"
+    ],
+    "keywords": [
+      "3",
+      "conversion",
+      "energy",
+      "gradient",
+      "landing",
+      "stripe",
+      "variant-3"
+    ],
+    "guidance": "Use for landing interfaces where stripe, conversion matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#00D4FF",
+      "#F6F9FC",
+      "#425466",
+      "#0A2540",
+      "#635BFF"
+    ]
+  },
+  {
+    "id": "luxury-real-estate-3",
+    "name": "Luxury Real Estate 3",
+    "category": "real-estate",
+    "tags": [
+      "luxury",
+      "property",
+      "landing",
+      "variant-3"
+    ],
+    "keywords": [
+      "3",
+      "estate",
+      "landing",
+      "luxury",
+      "property",
+      "real",
+      "real-estate",
+      "variant-3"
+    ],
+    "guidance": "Use for real-estate interfaces where luxury, property matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#B08D57",
+      "#FFFFFF",
+      "#3B3B3B",
+      "#0D1117",
+      "#EEE7DA"
+    ]
+  },
+  {
+    "id": "education-warm-3",
+    "name": "Education Warm 3",
+    "category": "education",
+    "tags": [
+      "learning",
+      "friendly",
+      "variant-3"
+    ],
+    "keywords": [
+      "3",
+      "education",
+      "friendly",
+      "learning",
+      "variant-3",
+      "warm"
+    ],
+    "guidance": "Use for education interfaces where learning, friendly matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#F97316",
+      "#0F766E",
+      "#374151",
+      "#FFF7ED",
+      "#1E3A8A"
+    ]
+  },
+  {
+    "id": "wellness-sage-3",
+    "name": "Wellness Sage 3",
+    "category": "wellness",
+    "tags": [
+      "wellness",
+      "organic",
+      "variant-3"
+    ],
+    "keywords": [
+      "3",
+      "organic",
+      "sage",
+      "variant-3",
+      "wellness"
+    ],
+    "guidance": "Use for wellness interfaces where wellness, organic matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#465A4D",
+      "#D6A77A",
+      "#2F3E34",
+      "#F7F4EA",
+      "#8AA399"
+    ]
+  },
+  {
+    "id": "legal-navy-gold-4",
+    "name": "Legal Navy Gold 4",
+    "category": "legal",
+    "tags": [
+      "legal",
+      "rtl",
+      "luxury",
+      "trust",
+      "variant-4"
+    ],
+    "keywords": [
+      "4",
+      "gold",
+      "legal",
+      "luxury",
+      "navy",
+      "rtl",
+      "trust",
+      "variant-4"
+    ],
+    "guidance": "Use for legal interfaces where legal, rtl matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#C99A45",
+      "#E5E7EB",
+      "#071A2F",
+      "#102A43",
+      "#F8FAFC"
+    ]
+  },
+  {
+    "id": "persian-charcoal-ivory-4",
+    "name": "Persian Charcoal Ivory 4",
+    "category": "rtl",
+    "tags": [
+      "persian",
+      "formal",
+      "luxury",
+      "variant-4"
+    ],
+    "keywords": [
+      "4",
+      "charcoal",
+      "formal",
+      "ivory",
+      "luxury",
+      "persian",
+      "rtl",
+      "variant-4"
+    ],
+    "guidance": "Use for rtl interfaces where persian, formal matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#B98B2F",
+      "#E7D8B8",
+      "#111827",
+      "#1F2937",
+      "#F9F5EA"
+    ]
+  },
+  {
+    "id": "fintech-trust-blue-4",
+    "name": "Fintech Trust Blue 4",
+    "category": "finance",
+    "tags": [
+      "finance",
+      "banking",
+      "trust",
+      "variant-4"
+    ],
+    "keywords": [
+      "4",
+      "banking",
+      "blue",
+      "finance",
+      "fintech",
+      "trust",
+      "variant-4"
+    ],
+    "guidance": "Use for finance interfaces where finance, banking matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#16A34A",
+      "#E5E7EB",
+      "#0B1F3A",
+      "#1D4ED8",
+      "#ECFDF5"
+    ]
+  },
+  {
+    "id": "healthcare-calm-4",
+    "name": "Healthcare Calm 4",
+    "category": "healthcare",
+    "tags": [
+      "health",
+      "calm",
+      "accessible",
+      "variant-4"
+    ],
+    "keywords": [
+      "4",
+      "accessible",
+      "calm",
+      "health",
+      "healthcare",
+      "variant-4"
+    ],
+    "guidance": "Use for healthcare interfaces where health, calm matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#2563EB",
+      "#334155",
+      "#F8FAFC",
+      "#DFF3F0",
+      "#2B7A78"
+    ]
+  },
+  {
+    "id": "developer-mono-4",
+    "name": "Developer Mono 4",
+    "category": "developer",
+    "tags": [
+      "developer",
+      "vercel",
+      "docs",
+      "variant-4"
+    ],
+    "keywords": [
+      "4",
+      "developer",
+      "docs",
+      "mono",
+      "variant-4",
+      "vercel"
+    ],
+    "guidance": "Use for developer interfaces where developer, vercel matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#666666",
+      "#0070F3",
+      "#050505",
+      "#111111",
+      "#FAFAFA"
+    ]
+  },
+  {
+    "id": "linear-dark-4",
+    "name": "Linear Dark 4",
+    "category": "dashboard",
+    "tags": [
+      "linear",
+      "dark",
+      "productivity",
+      "variant-4"
+    ],
+    "keywords": [
+      "4",
+      "dark",
+      "dashboard",
+      "linear",
+      "productivity",
+      "variant-4"
+    ],
+    "guidance": "Use for dashboard interfaces where linear, dark matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#8B5CF6",
+      "#2DD4BF",
+      "#08090A",
+      "#16181D",
+      "#F4F4F5"
+    ]
+  },
+  {
+    "id": "stripe-energy-4",
+    "name": "Stripe Energy 4",
+    "category": "landing",
+    "tags": [
+      "stripe",
+      "conversion",
+      "gradient",
+      "variant-4"
+    ],
+    "keywords": [
+      "4",
+      "conversion",
+      "energy",
+      "gradient",
+      "landing",
+      "stripe",
+      "variant-4"
+    ],
+    "guidance": "Use for landing interfaces where stripe, conversion matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#F6F9FC",
+      "#425466",
+      "#0A2540",
+      "#635BFF",
+      "#00D4FF"
+    ]
+  },
+  {
+    "id": "luxury-real-estate-4",
+    "name": "Luxury Real Estate 4",
+    "category": "real-estate",
+    "tags": [
+      "luxury",
+      "property",
+      "landing",
+      "variant-4"
+    ],
+    "keywords": [
+      "4",
+      "estate",
+      "landing",
+      "luxury",
+      "property",
+      "real",
+      "real-estate",
+      "variant-4"
+    ],
+    "guidance": "Use for real-estate interfaces where luxury, property matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#FFFFFF",
+      "#3B3B3B",
+      "#0D1117",
+      "#EEE7DA",
+      "#B08D57"
+    ]
+  },
+  {
+    "id": "education-warm-4",
+    "name": "Education Warm 4",
+    "category": "education",
+    "tags": [
+      "learning",
+      "friendly",
+      "variant-4"
+    ],
+    "keywords": [
+      "4",
+      "education",
+      "friendly",
+      "learning",
+      "variant-4",
+      "warm"
+    ],
+    "guidance": "Use for education interfaces where learning, friendly matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#0F766E",
+      "#374151",
+      "#FFF7ED",
+      "#1E3A8A",
+      "#F97316"
+    ]
+  },
+  {
+    "id": "wellness-sage-4",
+    "name": "Wellness Sage 4",
+    "category": "wellness",
+    "tags": [
+      "wellness",
+      "organic",
+      "variant-4"
+    ],
+    "keywords": [
+      "4",
+      "organic",
+      "sage",
+      "variant-4",
+      "wellness"
+    ],
+    "guidance": "Use for wellness interfaces where wellness, organic matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#D6A77A",
+      "#2F3E34",
+      "#F7F4EA",
+      "#8AA399",
+      "#465A4D"
+    ]
+  },
+  {
+    "id": "legal-navy-gold-5",
+    "name": "Legal Navy Gold 5",
+    "category": "legal",
+    "tags": [
+      "legal",
+      "rtl",
+      "luxury",
+      "trust",
+      "variant-5"
+    ],
+    "keywords": [
+      "5",
+      "gold",
+      "legal",
+      "luxury",
+      "navy",
+      "rtl",
+      "trust",
+      "variant-5"
+    ],
+    "guidance": "Use for legal interfaces where legal, rtl matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#E5E7EB",
+      "#071A2F",
+      "#102A43",
+      "#F8FAFC",
+      "#C99A45"
+    ]
+  },
+  {
+    "id": "persian-charcoal-ivory-5",
+    "name": "Persian Charcoal Ivory 5",
+    "category": "rtl",
+    "tags": [
+      "persian",
+      "formal",
+      "luxury",
+      "variant-5"
+    ],
+    "keywords": [
+      "5",
+      "charcoal",
+      "formal",
+      "ivory",
+      "luxury",
+      "persian",
+      "rtl",
+      "variant-5"
+    ],
+    "guidance": "Use for rtl interfaces where persian, formal matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#E7D8B8",
+      "#111827",
+      "#1F2937",
+      "#F9F5EA",
+      "#B98B2F"
+    ]
+  },
+  {
+    "id": "fintech-trust-blue-5",
+    "name": "Fintech Trust Blue 5",
+    "category": "finance",
+    "tags": [
+      "finance",
+      "banking",
+      "trust",
+      "variant-5"
+    ],
+    "keywords": [
+      "5",
+      "banking",
+      "blue",
+      "finance",
+      "fintech",
+      "trust",
+      "variant-5"
+    ],
+    "guidance": "Use for finance interfaces where finance, banking matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#E5E7EB",
+      "#0B1F3A",
+      "#1D4ED8",
+      "#ECFDF5",
+      "#16A34A"
+    ]
+  },
+  {
+    "id": "healthcare-calm-5",
+    "name": "Healthcare Calm 5",
+    "category": "healthcare",
+    "tags": [
+      "health",
+      "calm",
+      "accessible",
+      "variant-5"
+    ],
+    "keywords": [
+      "5",
+      "accessible",
+      "calm",
+      "health",
+      "healthcare",
+      "variant-5"
+    ],
+    "guidance": "Use for healthcare interfaces where health, calm matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#334155",
+      "#F8FAFC",
+      "#DFF3F0",
+      "#2B7A78",
+      "#2563EB"
+    ]
+  },
+  {
+    "id": "developer-mono-5",
+    "name": "Developer Mono 5",
+    "category": "developer",
+    "tags": [
+      "developer",
+      "vercel",
+      "docs",
+      "variant-5"
+    ],
+    "keywords": [
+      "5",
+      "developer",
+      "docs",
+      "mono",
+      "variant-5",
+      "vercel"
+    ],
+    "guidance": "Use for developer interfaces where developer, vercel matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#0070F3",
+      "#050505",
+      "#111111",
+      "#FAFAFA",
+      "#666666"
+    ]
+  },
+  {
+    "id": "linear-dark-5",
+    "name": "Linear Dark 5",
+    "category": "dashboard",
+    "tags": [
+      "linear",
+      "dark",
+      "productivity",
+      "variant-5"
+    ],
+    "keywords": [
+      "5",
+      "dark",
+      "dashboard",
+      "linear",
+      "productivity",
+      "variant-5"
+    ],
+    "guidance": "Use for dashboard interfaces where linear, dark matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#2DD4BF",
+      "#08090A",
+      "#16181D",
+      "#F4F4F5",
+      "#8B5CF6"
+    ]
+  },
+  {
+    "id": "stripe-energy-5",
+    "name": "Stripe Energy 5",
+    "category": "landing",
+    "tags": [
+      "stripe",
+      "conversion",
+      "gradient",
+      "variant-5"
+    ],
+    "keywords": [
+      "5",
+      "conversion",
+      "energy",
+      "gradient",
+      "landing",
+      "stripe",
+      "variant-5"
+    ],
+    "guidance": "Use for landing interfaces where stripe, conversion matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#425466",
+      "#0A2540",
+      "#635BFF",
+      "#00D4FF",
+      "#F6F9FC"
+    ]
+  },
+  {
+    "id": "luxury-real-estate-5",
+    "name": "Luxury Real Estate 5",
+    "category": "real-estate",
+    "tags": [
+      "luxury",
+      "property",
+      "landing",
+      "variant-5"
+    ],
+    "keywords": [
+      "5",
+      "estate",
+      "landing",
+      "luxury",
+      "property",
+      "real",
+      "real-estate",
+      "variant-5"
+    ],
+    "guidance": "Use for real-estate interfaces where luxury, property matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#3B3B3B",
+      "#0D1117",
+      "#EEE7DA",
+      "#B08D57",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "id": "education-warm-5",
+    "name": "Education Warm 5",
+    "category": "education",
+    "tags": [
+      "learning",
+      "friendly",
+      "variant-5"
+    ],
+    "keywords": [
+      "5",
+      "education",
+      "friendly",
+      "learning",
+      "variant-5",
+      "warm"
+    ],
+    "guidance": "Use for education interfaces where learning, friendly matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#374151",
+      "#FFF7ED",
+      "#1E3A8A",
+      "#F97316",
+      "#0F766E"
+    ]
+  },
+  {
+    "id": "wellness-sage-5",
+    "name": "Wellness Sage 5",
+    "category": "wellness",
+    "tags": [
+      "wellness",
+      "organic",
+      "variant-5"
+    ],
+    "keywords": [
+      "5",
+      "organic",
+      "sage",
+      "variant-5",
+      "wellness"
+    ],
+    "guidance": "Use for wellness interfaces where wellness, organic matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#2F3E34",
+      "#F7F4EA",
+      "#8AA399",
+      "#465A4D",
+      "#D6A77A"
+    ]
+  },
+  {
+    "id": "legal-navy-gold-6",
+    "name": "Legal Navy Gold 6",
+    "category": "legal",
+    "tags": [
+      "legal",
+      "rtl",
+      "luxury",
+      "trust",
+      "variant-6"
+    ],
+    "keywords": [
+      "6",
+      "gold",
+      "legal",
+      "luxury",
+      "navy",
+      "rtl",
+      "trust",
+      "variant-6"
+    ],
+    "guidance": "Use for legal interfaces where legal, rtl matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#071A2F",
+      "#102A43",
+      "#F8FAFC",
+      "#C99A45",
+      "#E5E7EB"
+    ]
+  },
+  {
+    "id": "persian-charcoal-ivory-6",
+    "name": "Persian Charcoal Ivory 6",
+    "category": "rtl",
+    "tags": [
+      "persian",
+      "formal",
+      "luxury",
+      "variant-6"
+    ],
+    "keywords": [
+      "6",
+      "charcoal",
+      "formal",
+      "ivory",
+      "luxury",
+      "persian",
+      "rtl",
+      "variant-6"
+    ],
+    "guidance": "Use for rtl interfaces where persian, formal matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#111827",
+      "#1F2937",
+      "#F9F5EA",
+      "#B98B2F",
+      "#E7D8B8"
+    ]
+  },
+  {
+    "id": "fintech-trust-blue-6",
+    "name": "Fintech Trust Blue 6",
+    "category": "finance",
+    "tags": [
+      "finance",
+      "banking",
+      "trust",
+      "variant-6"
+    ],
+    "keywords": [
+      "6",
+      "banking",
+      "blue",
+      "finance",
+      "fintech",
+      "trust",
+      "variant-6"
+    ],
+    "guidance": "Use for finance interfaces where finance, banking matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#0B1F3A",
+      "#1D4ED8",
+      "#ECFDF5",
+      "#16A34A",
+      "#E5E7EB"
+    ]
+  },
+  {
+    "id": "healthcare-calm-6",
+    "name": "Healthcare Calm 6",
+    "category": "healthcare",
+    "tags": [
+      "health",
+      "calm",
+      "accessible",
+      "variant-6"
+    ],
+    "keywords": [
+      "6",
+      "accessible",
+      "calm",
+      "health",
+      "healthcare",
+      "variant-6"
+    ],
+    "guidance": "Use for healthcare interfaces where health, calm matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#F8FAFC",
+      "#DFF3F0",
+      "#2B7A78",
+      "#2563EB",
+      "#334155"
+    ]
+  },
+  {
+    "id": "developer-mono-6",
+    "name": "Developer Mono 6",
+    "category": "developer",
+    "tags": [
+      "developer",
+      "vercel",
+      "docs",
+      "variant-6"
+    ],
+    "keywords": [
+      "6",
+      "developer",
+      "docs",
+      "mono",
+      "variant-6",
+      "vercel"
+    ],
+    "guidance": "Use for developer interfaces where developer, vercel matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#050505",
+      "#111111",
+      "#FAFAFA",
+      "#666666",
+      "#0070F3"
+    ]
+  },
+  {
+    "id": "linear-dark-6",
+    "name": "Linear Dark 6",
+    "category": "dashboard",
+    "tags": [
+      "linear",
+      "dark",
+      "productivity",
+      "variant-6"
+    ],
+    "keywords": [
+      "6",
+      "dark",
+      "dashboard",
+      "linear",
+      "productivity",
+      "variant-6"
+    ],
+    "guidance": "Use for dashboard interfaces where linear, dark matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#08090A",
+      "#16181D",
+      "#F4F4F5",
+      "#8B5CF6",
+      "#2DD4BF"
+    ]
+  },
+  {
+    "id": "stripe-energy-6",
+    "name": "Stripe Energy 6",
+    "category": "landing",
+    "tags": [
+      "stripe",
+      "conversion",
+      "gradient",
+      "variant-6"
+    ],
+    "keywords": [
+      "6",
+      "conversion",
+      "energy",
+      "gradient",
+      "landing",
+      "stripe",
+      "variant-6"
+    ],
+    "guidance": "Use for landing interfaces where stripe, conversion matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#0A2540",
+      "#635BFF",
+      "#00D4FF",
+      "#F6F9FC",
+      "#425466"
+    ]
+  },
+  {
+    "id": "luxury-real-estate-6",
+    "name": "Luxury Real Estate 6",
+    "category": "real-estate",
+    "tags": [
+      "luxury",
+      "property",
+      "landing",
+      "variant-6"
+    ],
+    "keywords": [
+      "6",
+      "estate",
+      "landing",
+      "luxury",
+      "property",
+      "real",
+      "real-estate",
+      "variant-6"
+    ],
+    "guidance": "Use for real-estate interfaces where luxury, property matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#0D1117",
+      "#EEE7DA",
+      "#B08D57",
+      "#FFFFFF",
+      "#3B3B3B"
+    ]
+  },
+  {
+    "id": "education-warm-6",
+    "name": "Education Warm 6",
+    "category": "education",
+    "tags": [
+      "learning",
+      "friendly",
+      "variant-6"
+    ],
+    "keywords": [
+      "6",
+      "education",
+      "friendly",
+      "learning",
+      "variant-6",
+      "warm"
+    ],
+    "guidance": "Use for education interfaces where learning, friendly matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#FFF7ED",
+      "#1E3A8A",
+      "#F97316",
+      "#0F766E",
+      "#374151"
+    ]
+  },
+  {
+    "id": "wellness-sage-6",
+    "name": "Wellness Sage 6",
+    "category": "wellness",
+    "tags": [
+      "wellness",
+      "organic",
+      "variant-6"
+    ],
+    "keywords": [
+      "6",
+      "organic",
+      "sage",
+      "variant-6",
+      "wellness"
+    ],
+    "guidance": "Use for wellness interfaces where wellness, organic matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#F7F4EA",
+      "#8AA399",
+      "#465A4D",
+      "#D6A77A",
+      "#2F3E34"
+    ]
+  },
+  {
+    "id": "legal-navy-gold-7",
+    "name": "Legal Navy Gold 7",
+    "category": "legal",
+    "tags": [
+      "legal",
+      "rtl",
+      "luxury",
+      "trust",
+      "variant-7"
+    ],
+    "keywords": [
+      "7",
+      "gold",
+      "legal",
+      "luxury",
+      "navy",
+      "rtl",
+      "trust",
+      "variant-7"
+    ],
+    "guidance": "Use for legal interfaces where legal, rtl matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#102A43",
+      "#F8FAFC",
+      "#C99A45",
+      "#E5E7EB",
+      "#071A2F"
+    ]
+  },
+  {
+    "id": "persian-charcoal-ivory-7",
+    "name": "Persian Charcoal Ivory 7",
+    "category": "rtl",
+    "tags": [
+      "persian",
+      "formal",
+      "luxury",
+      "variant-7"
+    ],
+    "keywords": [
+      "7",
+      "charcoal",
+      "formal",
+      "ivory",
+      "luxury",
+      "persian",
+      "rtl",
+      "variant-7"
+    ],
+    "guidance": "Use for rtl interfaces where persian, formal matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#1F2937",
+      "#F9F5EA",
+      "#B98B2F",
+      "#E7D8B8",
+      "#111827"
+    ]
+  },
+  {
+    "id": "fintech-trust-blue-7",
+    "name": "Fintech Trust Blue 7",
+    "category": "finance",
+    "tags": [
+      "finance",
+      "banking",
+      "trust",
+      "variant-7"
+    ],
+    "keywords": [
+      "7",
+      "banking",
+      "blue",
+      "finance",
+      "fintech",
+      "trust",
+      "variant-7"
+    ],
+    "guidance": "Use for finance interfaces where finance, banking matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#1D4ED8",
+      "#ECFDF5",
+      "#16A34A",
+      "#E5E7EB",
+      "#0B1F3A"
+    ]
+  },
+  {
+    "id": "healthcare-calm-7",
+    "name": "Healthcare Calm 7",
+    "category": "healthcare",
+    "tags": [
+      "health",
+      "calm",
+      "accessible",
+      "variant-7"
+    ],
+    "keywords": [
+      "7",
+      "accessible",
+      "calm",
+      "health",
+      "healthcare",
+      "variant-7"
+    ],
+    "guidance": "Use for healthcare interfaces where health, calm matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#DFF3F0",
+      "#2B7A78",
+      "#2563EB",
+      "#334155",
+      "#F8FAFC"
+    ]
+  },
+  {
+    "id": "developer-mono-7",
+    "name": "Developer Mono 7",
+    "category": "developer",
+    "tags": [
+      "developer",
+      "vercel",
+      "docs",
+      "variant-7"
+    ],
+    "keywords": [
+      "7",
+      "developer",
+      "docs",
+      "mono",
+      "variant-7",
+      "vercel"
+    ],
+    "guidance": "Use for developer interfaces where developer, vercel matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#111111",
+      "#FAFAFA",
+      "#666666",
+      "#0070F3",
+      "#050505"
+    ]
+  },
+  {
+    "id": "linear-dark-7",
+    "name": "Linear Dark 7",
+    "category": "dashboard",
+    "tags": [
+      "linear",
+      "dark",
+      "productivity",
+      "variant-7"
+    ],
+    "keywords": [
+      "7",
+      "dark",
+      "dashboard",
+      "linear",
+      "productivity",
+      "variant-7"
+    ],
+    "guidance": "Use for dashboard interfaces where linear, dark matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#16181D",
+      "#F4F4F5",
+      "#8B5CF6",
+      "#2DD4BF",
+      "#08090A"
+    ]
+  },
+  {
+    "id": "stripe-energy-7",
+    "name": "Stripe Energy 7",
+    "category": "landing",
+    "tags": [
+      "stripe",
+      "conversion",
+      "gradient",
+      "variant-7"
+    ],
+    "keywords": [
+      "7",
+      "conversion",
+      "energy",
+      "gradient",
+      "landing",
+      "stripe",
+      "variant-7"
+    ],
+    "guidance": "Use for landing interfaces where stripe, conversion matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#635BFF",
+      "#00D4FF",
+      "#F6F9FC",
+      "#425466",
+      "#0A2540"
+    ]
+  },
+  {
+    "id": "luxury-real-estate-7",
+    "name": "Luxury Real Estate 7",
+    "category": "real-estate",
+    "tags": [
+      "luxury",
+      "property",
+      "landing",
+      "variant-7"
+    ],
+    "keywords": [
+      "7",
+      "estate",
+      "landing",
+      "luxury",
+      "property",
+      "real",
+      "real-estate",
+      "variant-7"
+    ],
+    "guidance": "Use for real-estate interfaces where luxury, property matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#EEE7DA",
+      "#B08D57",
+      "#FFFFFF",
+      "#3B3B3B",
+      "#0D1117"
+    ]
+  },
+  {
+    "id": "education-warm-7",
+    "name": "Education Warm 7",
+    "category": "education",
+    "tags": [
+      "learning",
+      "friendly",
+      "variant-7"
+    ],
+    "keywords": [
+      "7",
+      "education",
+      "friendly",
+      "learning",
+      "variant-7",
+      "warm"
+    ],
+    "guidance": "Use for education interfaces where learning, friendly matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#1E3A8A",
+      "#F97316",
+      "#0F766E",
+      "#374151",
+      "#FFF7ED"
+    ]
+  },
+  {
+    "id": "wellness-sage-7",
+    "name": "Wellness Sage 7",
+    "category": "wellness",
+    "tags": [
+      "wellness",
+      "organic",
+      "variant-7"
+    ],
+    "keywords": [
+      "7",
+      "organic",
+      "sage",
+      "variant-7",
+      "wellness"
+    ],
+    "guidance": "Use for wellness interfaces where wellness, organic matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#8AA399",
+      "#465A4D",
+      "#D6A77A",
+      "#2F3E34",
+      "#F7F4EA"
+    ]
+  },
+  {
+    "id": "legal-navy-gold-8",
+    "name": "Legal Navy Gold 8",
+    "category": "legal",
+    "tags": [
+      "legal",
+      "rtl",
+      "luxury",
+      "trust",
+      "variant-8"
+    ],
+    "keywords": [
+      "8",
+      "gold",
+      "legal",
+      "luxury",
+      "navy",
+      "rtl",
+      "trust",
+      "variant-8"
+    ],
+    "guidance": "Use for legal interfaces where legal, rtl matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#F8FAFC",
+      "#C99A45",
+      "#E5E7EB",
+      "#071A2F",
+      "#102A43"
+    ]
+  },
+  {
+    "id": "persian-charcoal-ivory-8",
+    "name": "Persian Charcoal Ivory 8",
+    "category": "rtl",
+    "tags": [
+      "persian",
+      "formal",
+      "luxury",
+      "variant-8"
+    ],
+    "keywords": [
+      "8",
+      "charcoal",
+      "formal",
+      "ivory",
+      "luxury",
+      "persian",
+      "rtl",
+      "variant-8"
+    ],
+    "guidance": "Use for rtl interfaces where persian, formal matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#F9F5EA",
+      "#B98B2F",
+      "#E7D8B8",
+      "#111827",
+      "#1F2937"
+    ]
+  },
+  {
+    "id": "fintech-trust-blue-8",
+    "name": "Fintech Trust Blue 8",
+    "category": "finance",
+    "tags": [
+      "finance",
+      "banking",
+      "trust",
+      "variant-8"
+    ],
+    "keywords": [
+      "8",
+      "banking",
+      "blue",
+      "finance",
+      "fintech",
+      "trust",
+      "variant-8"
+    ],
+    "guidance": "Use for finance interfaces where finance, banking matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#ECFDF5",
+      "#16A34A",
+      "#E5E7EB",
+      "#0B1F3A",
+      "#1D4ED8"
+    ]
+  },
+  {
+    "id": "healthcare-calm-8",
+    "name": "Healthcare Calm 8",
+    "category": "healthcare",
+    "tags": [
+      "health",
+      "calm",
+      "accessible",
+      "variant-8"
+    ],
+    "keywords": [
+      "8",
+      "accessible",
+      "calm",
+      "health",
+      "healthcare",
+      "variant-8"
+    ],
+    "guidance": "Use for healthcare interfaces where health, calm matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#2B7A78",
+      "#2563EB",
+      "#334155",
+      "#F8FAFC",
+      "#DFF3F0"
+    ]
+  },
+  {
+    "id": "developer-mono-8",
+    "name": "Developer Mono 8",
+    "category": "developer",
+    "tags": [
+      "developer",
+      "vercel",
+      "docs",
+      "variant-8"
+    ],
+    "keywords": [
+      "8",
+      "developer",
+      "docs",
+      "mono",
+      "variant-8",
+      "vercel"
+    ],
+    "guidance": "Use for developer interfaces where developer, vercel matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#FAFAFA",
+      "#666666",
+      "#0070F3",
+      "#050505",
+      "#111111"
+    ]
+  },
+  {
+    "id": "linear-dark-8",
+    "name": "Linear Dark 8",
+    "category": "dashboard",
+    "tags": [
+      "linear",
+      "dark",
+      "productivity",
+      "variant-8"
+    ],
+    "keywords": [
+      "8",
+      "dark",
+      "dashboard",
+      "linear",
+      "productivity",
+      "variant-8"
+    ],
+    "guidance": "Use for dashboard interfaces where linear, dark matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#F4F4F5",
+      "#8B5CF6",
+      "#2DD4BF",
+      "#08090A",
+      "#16181D"
+    ]
+  },
+  {
+    "id": "stripe-energy-8",
+    "name": "Stripe Energy 8",
+    "category": "landing",
+    "tags": [
+      "stripe",
+      "conversion",
+      "gradient",
+      "variant-8"
+    ],
+    "keywords": [
+      "8",
+      "conversion",
+      "energy",
+      "gradient",
+      "landing",
+      "stripe",
+      "variant-8"
+    ],
+    "guidance": "Use for landing interfaces where stripe, conversion matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#00D4FF",
+      "#F6F9FC",
+      "#425466",
+      "#0A2540",
+      "#635BFF"
+    ]
+  },
+  {
+    "id": "luxury-real-estate-8",
+    "name": "Luxury Real Estate 8",
+    "category": "real-estate",
+    "tags": [
+      "luxury",
+      "property",
+      "landing",
+      "variant-8"
+    ],
+    "keywords": [
+      "8",
+      "estate",
+      "landing",
+      "luxury",
+      "property",
+      "real",
+      "real-estate",
+      "variant-8"
+    ],
+    "guidance": "Use for real-estate interfaces where luxury, property matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#B08D57",
+      "#FFFFFF",
+      "#3B3B3B",
+      "#0D1117",
+      "#EEE7DA"
+    ]
+  },
+  {
+    "id": "education-warm-8",
+    "name": "Education Warm 8",
+    "category": "education",
+    "tags": [
+      "learning",
+      "friendly",
+      "variant-8"
+    ],
+    "keywords": [
+      "8",
+      "education",
+      "friendly",
+      "learning",
+      "variant-8",
+      "warm"
+    ],
+    "guidance": "Use for education interfaces where learning, friendly matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#F97316",
+      "#0F766E",
+      "#374151",
+      "#FFF7ED",
+      "#1E3A8A"
+    ]
+  },
+  {
+    "id": "wellness-sage-8",
+    "name": "Wellness Sage 8",
+    "category": "wellness",
+    "tags": [
+      "wellness",
+      "organic",
+      "variant-8"
+    ],
+    "keywords": [
+      "8",
+      "organic",
+      "sage",
+      "variant-8",
+      "wellness"
+    ],
+    "guidance": "Use for wellness interfaces where wellness, organic matter. Keep accents under control and verify contrast.",
+    "colors": [
+      "#465A4D",
+      "#D6A77A",
+      "#2F3E34",
+      "#F7F4EA",
+      "#8AA399"
+    ]
+  }
+]

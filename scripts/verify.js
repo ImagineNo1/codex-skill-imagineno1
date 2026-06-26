@@ -33,6 +33,20 @@ const requiredDocs = [
   "26-review-checklist.md",
   "27-final-audit.md",
   "28-design-intelligence.md",
+  "29-searchable-design-db.md",
+  "30-brand-and-asset-workflows.md",
+];
+
+const requiredData = [
+  "products.json",
+  "styles.json",
+  "colors.json",
+  "typography.json",
+  "ux-guidelines.json",
+  "charts.json",
+  "stacks.json",
+  "persian-rtl.json",
+  "design-languages.json",
 ];
 
 const errors = [];
@@ -95,18 +109,40 @@ if (exists("SKILL.md")) {
   if (!/^# Imageno1 Frontend OS v2\.0\s*$/m.test(skill)) {
     errors.push("SKILL.md must use title `Imageno1 Frontend OS v2.0`.");
   }
-  if (!/Version:\s*2\.1\.0/.test(skill)) {
-    errors.push("SKILL.md must include Version: 2.1.0.");
+  if (!/Version:\s*2\.2\.0/.test(skill)) {
+    errors.push("SKILL.md must include Version: 2.2.0.");
   }
 }
 
 if (exists("package.json")) {
   const pkg = JSON.parse(read("package.json"));
-  if (pkg.version !== "2.1.0") {
-    errors.push("package.json version must be 2.1.0.");
+  if (pkg.version !== "2.2.0") {
+    errors.push("package.json version must be 2.2.0.");
+  }
+  for (const script of ["search", "design-system", "verify"]) {
+    if (!pkg.scripts || !pkg.scripts[script]) {
+      errors.push(`package.json script is missing: ${script}`);
+    }
   }
 } else {
   errors.push("package.json is missing.");
+}
+
+if (!exists("data")) {
+  errors.push("data/ is missing.");
+}
+
+for (const dataFile of requiredData) {
+  const relative = path.join("data", dataFile);
+  if (!exists(relative)) {
+    errors.push(`Required data file is missing: ${relative}`);
+  }
+}
+
+for (const scriptFile of ["scripts/search.js", "scripts/design-system.js", "scripts/verify.js"]) {
+  if (!exists(scriptFile)) {
+    errors.push(`Required script is missing: ${scriptFile}`);
+  }
 }
 
 for (const doc of requiredDocs) {
@@ -152,6 +188,17 @@ for (const file of walk(root)) {
       }
     }
   }
+  if (file.toLowerCase().endsWith(".json")) {
+    const content = fs.readFileSync(file, "utf8");
+    if (content.trim().length === 0) {
+      errors.push(`Data file is empty: ${path.relative(root, file)}`);
+    }
+    try {
+      JSON.parse(content);
+    } catch (error) {
+      errors.push(`Data file is invalid JSON: ${path.relative(root, file)}`);
+    }
+  }
 }
 
 if (errors.length > 0) {
@@ -162,4 +209,4 @@ if (errors.length > 0) {
   process.exit(1);
 }
 
-console.log("Verification passed: Imageno1 Frontend OS v2.1 is complete.");
+console.log("Verification passed: Imageno1 Frontend OS v2.2 is complete.");

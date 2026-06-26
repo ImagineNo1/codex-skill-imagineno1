@@ -1,0 +1,818 @@
+[
+  {
+    "id": "apple-calm",
+    "name": "Apple Calm",
+    "category": "premium",
+    "tags": [
+      "apple",
+      "minimal",
+      "white-space",
+      "clarity"
+    ],
+    "keywords": [
+      "apple",
+      "calm",
+      "clarity",
+      "minimal",
+      "premium",
+      "white-space"
+    ],
+    "guidance": "Use generous spacing, low chrome, crisp typography, and high-confidence simplicity."
+  },
+  {
+    "id": "linear-precision",
+    "name": "Linear Precision",
+    "category": "productivity",
+    "tags": [
+      "linear",
+      "dark",
+      "dashboard",
+      "precision"
+    ],
+    "keywords": [
+      "dark",
+      "dashboard",
+      "linear",
+      "precision",
+      "productivity"
+    ],
+    "guidance": "Use exact alignment, sharp hierarchy, compact density, and refined active states."
+  },
+  {
+    "id": "stripe-conversion",
+    "name": "Stripe Conversion",
+    "category": "marketing",
+    "tags": [
+      "stripe",
+      "landing",
+      "conversion",
+      "gradient"
+    ],
+    "keywords": [
+      "conversion",
+      "gradient",
+      "landing",
+      "marketing",
+      "stripe"
+    ],
+    "guidance": "Use energetic but restrained accents, strong CTA path, and trust-building sections."
+  },
+  {
+    "id": "vercel-developer-premium",
+    "name": "Vercel Developer Premium",
+    "category": "developer",
+    "tags": [
+      "vercel",
+      "monochrome",
+      "docs",
+      "code"
+    ],
+    "keywords": [
+      "code",
+      "developer",
+      "docs",
+      "monochrome",
+      "premium",
+      "vercel"
+    ],
+    "guidance": "Use monochrome confidence, code-first clarity, and minimal ornament."
+  },
+  {
+    "id": "raycast-command-center",
+    "name": "Raycast Command Center",
+    "category": "utility",
+    "tags": [
+      "raycast",
+      "command",
+      "keyboard",
+      "compact"
+    ],
+    "keywords": [
+      "center",
+      "command",
+      "compact",
+      "keyboard",
+      "raycast",
+      "utility"
+    ],
+    "guidance": "Use compact lists, shortcut hints, command palette behavior, and immediate feedback."
+  },
+  {
+    "id": "github-utility",
+    "name": "GitHub Utility",
+    "category": "utility",
+    "tags": [
+      "github",
+      "durable",
+      "collaboration",
+      "states"
+    ],
+    "keywords": [
+      "collaboration",
+      "durable",
+      "github",
+      "states",
+      "utility"
+    ],
+    "guidance": "Use practical navigation, clear permissions, robust states, and low decoration."
+  },
+  {
+    "id": "notion-workspace",
+    "name": "Notion Workspace",
+    "category": "workspace",
+    "tags": [
+      "notion",
+      "calm",
+      "blocks",
+      "editorial"
+    ],
+    "keywords": [
+      "blocks",
+      "calm",
+      "editorial",
+      "notion",
+      "workspace"
+    ],
+    "guidance": "Use soft hierarchy, calm surfaces, readable blocks, and approachable productivity."
+  },
+  {
+    "id": "persian-luxury-rtl",
+    "name": "Persian Luxury RTL",
+    "category": "rtl",
+    "tags": [
+      "persian",
+      "luxury",
+      "legal",
+      "gold"
+    ],
+    "keywords": [
+      "gold",
+      "legal",
+      "luxury",
+      "persian",
+      "rtl"
+    ],
+    "guidance": "Use formal Persian type, deep surfaces, restrained gold, and dignified spacing."
+  },
+  {
+    "id": "enterprise-admin-clean",
+    "name": "Enterprise Admin Clean",
+    "category": "admin",
+    "tags": [
+      "enterprise",
+      "admin",
+      "dense",
+      "table"
+    ],
+    "keywords": [
+      "admin",
+      "clean",
+      "dense",
+      "enterprise",
+      "table"
+    ],
+    "guidance": "Use predictable controls, dense layout, clear tables, and minimal decoration."
+  },
+  {
+    "id": "swiss-editorial",
+    "name": "Swiss Editorial",
+    "category": "editorial",
+    "tags": [
+      "grid",
+      "typography",
+      "minimal",
+      "content"
+    ],
+    "keywords": [
+      "content",
+      "editorial",
+      "grid",
+      "minimal",
+      "swiss",
+      "typography"
+    ],
+    "guidance": "Use strong grid, disciplined type scale, and content-led hierarchy."
+  },
+  {
+    "id": "bento-product",
+    "name": "Bento Product",
+    "category": "saas",
+    "tags": [
+      "bento",
+      "features",
+      "cards",
+      "landing"
+    ],
+    "keywords": [
+      "bento",
+      "cards",
+      "features",
+      "landing",
+      "product",
+      "saas"
+    ],
+    "guidance": "Use structured feature tiles with varied importance, not identical card grids."
+  },
+  {
+    "id": "glass-utility",
+    "name": "Glass Utility",
+    "category": "modern",
+    "tags": [
+      "glass",
+      "blur",
+      "dark",
+      "premium"
+    ],
+    "keywords": [
+      "blur",
+      "dark",
+      "glass",
+      "modern",
+      "premium",
+      "utility"
+    ],
+    "guidance": "Use blur sparingly for overlays and hero depth; keep text contrast strong."
+  },
+  {
+    "id": "soft-saas",
+    "name": "Soft SaaS",
+    "category": "saas",
+    "tags": [
+      "soft",
+      "rounded",
+      "friendly",
+      "dashboard"
+    ],
+    "keywords": [
+      "dashboard",
+      "friendly",
+      "rounded",
+      "saas",
+      "soft"
+    ],
+    "guidance": "Use gentle surfaces, friendly radius, and low-contrast dividers without losing readability."
+  },
+  {
+    "id": "high-contrast-pro",
+    "name": "High Contrast Pro",
+    "category": "enterprise",
+    "tags": [
+      "contrast",
+      "accessibility",
+      "bold",
+      "serious"
+    ],
+    "keywords": [
+      "accessibility",
+      "bold",
+      "contrast",
+      "enterprise",
+      "high",
+      "pro",
+      "serious"
+    ],
+    "guidance": "Use stark hierarchy, strong focus states, and direct action clarity."
+  },
+  {
+    "id": "editorial-luxury",
+    "name": "Editorial Luxury",
+    "category": "luxury",
+    "tags": [
+      "serif",
+      "luxury",
+      "fashion",
+      "real-estate"
+    ],
+    "keywords": [
+      "editorial",
+      "fashion",
+      "luxury",
+      "real-estate",
+      "serif"
+    ],
+    "guidance": "Use refined serif headings, large imagery, and sparse composition."
+  },
+  {
+    "id": "data-command",
+    "name": "Data Command",
+    "category": "dashboard",
+    "tags": [
+      "charts",
+      "dense",
+      "analytics",
+      "monitoring"
+    ],
+    "keywords": [
+      "analytics",
+      "charts",
+      "command",
+      "dashboard",
+      "data",
+      "dense",
+      "monitoring"
+    ],
+    "guidance": "Use dense metrics, stable chart dimensions, and alert-first hierarchy."
+  },
+  {
+    "id": "calm-healthcare",
+    "name": "Calm Healthcare",
+    "category": "healthcare",
+    "tags": [
+      "health",
+      "calm",
+      "trust",
+      "forms"
+    ],
+    "keywords": [
+      "calm",
+      "forms",
+      "health",
+      "healthcare",
+      "trust"
+    ],
+    "guidance": "Use soft medical color, reassuring copy, and accessible controls."
+  },
+  {
+    "id": "finance-trust",
+    "name": "Finance Trust",
+    "category": "finance",
+    "tags": [
+      "finance",
+      "security",
+      "numbers",
+      "trust"
+    ],
+    "keywords": [
+      "finance",
+      "numbers",
+      "security",
+      "trust"
+    ],
+    "guidance": "Use precise typography, tabular numbers, conservative color, and strong validation states."
+  },
+  {
+    "id": "creator-studio",
+    "name": "Creator Studio",
+    "category": "creator",
+    "tags": [
+      "media",
+      "analytics",
+      "content",
+      "modern"
+    ],
+    "keywords": [
+      "analytics",
+      "content",
+      "creator",
+      "media",
+      "modern",
+      "studio"
+    ],
+    "guidance": "Use preview-first layout, content cards, and performance insights."
+  },
+  {
+    "id": "mobile-native-clean",
+    "name": "Mobile Native Clean",
+    "category": "mobile",
+    "tags": [
+      "mobile",
+      "touch",
+      "ios",
+      "android"
+    ],
+    "keywords": [
+      "android",
+      "clean",
+      "ios",
+      "mobile",
+      "native",
+      "touch"
+    ],
+    "guidance": "Use large targets, clear thumb zones, and concise cards."
+  },
+  {
+    "id": "dark-console",
+    "name": "Dark Console",
+    "category": "developer",
+    "tags": [
+      "dark",
+      "terminal",
+      "code",
+      "ops"
+    ],
+    "keywords": [
+      "code",
+      "console",
+      "dark",
+      "developer",
+      "ops",
+      "terminal"
+    ],
+    "guidance": "Use dark surfaces, monospace accents, and clear severity colors."
+  },
+  {
+    "id": "warm-editorial",
+    "name": "Warm Editorial",
+    "category": "content",
+    "tags": [
+      "warm",
+      "blog",
+      "news",
+      "reading"
+    ],
+    "keywords": [
+      "blog",
+      "content",
+      "editorial",
+      "news",
+      "reading",
+      "warm"
+    ],
+    "guidance": "Use readable serif/sans pairing, warm neutral background, and calm links."
+  },
+  {
+    "id": "luxury-minimal",
+    "name": "Luxury Minimal",
+    "category": "luxury",
+    "tags": [
+      "premium",
+      "minimal",
+      "white-space",
+      "brand"
+    ],
+    "keywords": [
+      "brand",
+      "luxury",
+      "minimal",
+      "premium",
+      "white-space"
+    ],
+    "guidance": "Use very few elements, excellent imagery, and subtle typography contrast."
+  },
+  {
+    "id": "operational-dense",
+    "name": "Operational Dense",
+    "category": "operations",
+    "tags": [
+      "dense",
+      "admin",
+      "workflow",
+      "table"
+    ],
+    "keywords": [
+      "admin",
+      "dense",
+      "operational",
+      "operations",
+      "table",
+      "workflow"
+    ],
+    "guidance": "Use compact controls, sticky context, and clear exceptions."
+  },
+  {
+    "id": "friendly-onboarding",
+    "name": "Friendly Onboarding",
+    "category": "onboarding",
+    "tags": [
+      "friendly",
+      "steps",
+      "forms",
+      "help"
+    ],
+    "keywords": [
+      "forms",
+      "friendly",
+      "help",
+      "onboarding",
+      "steps"
+    ],
+    "guidance": "Use progressive disclosure, reassuring microcopy, and obvious progress."
+  },
+  {
+    "id": "security-serious",
+    "name": "Security Serious",
+    "category": "security",
+    "tags": [
+      "security",
+      "enterprise",
+      "alerts",
+      "dark"
+    ],
+    "keywords": [
+      "alerts",
+      "dark",
+      "enterprise",
+      "security",
+      "serious"
+    ],
+    "guidance": "Use serious tone, evidence panels, and controlled severity color."
+  },
+  {
+    "id": "marketplace-clean",
+    "name": "Marketplace Clean",
+    "category": "commerce",
+    "tags": [
+      "cards",
+      "filters",
+      "shop",
+      "conversion"
+    ],
+    "keywords": [
+      "cards",
+      "clean",
+      "commerce",
+      "conversion",
+      "filters",
+      "marketplace",
+      "shop"
+    ],
+    "guidance": "Use product-first cards, filters, price clarity, and trust markers."
+  },
+  {
+    "id": "premium-form-flow",
+    "name": "Premium Form Flow",
+    "category": "forms",
+    "tags": [
+      "forms",
+      "quote",
+      "wizard",
+      "conversion"
+    ],
+    "keywords": [
+      "conversion",
+      "flow",
+      "form",
+      "forms",
+      "premium",
+      "quote",
+      "wizard"
+    ],
+    "guidance": "Use step cards, validation guidance, and clear progress."
+  },
+  {
+    "id": "dashboard-neo-brutal-accent",
+    "name": "Dashboard Neo-Brutal Accent",
+    "category": "experimental",
+    "tags": [
+      "brutal",
+      "accent",
+      "dashboard",
+      "youth"
+    ],
+    "keywords": [
+      "accent",
+      "brutal",
+      "dashboard",
+      "experimental",
+      "neo",
+      "youth"
+    ],
+    "guidance": "Use sparingly for youth products; keep data readable."
+  },
+  {
+    "id": "modern-government",
+    "name": "Modern Government",
+    "category": "public",
+    "tags": [
+      "government",
+      "accessible",
+      "plain",
+      "forms"
+    ],
+    "keywords": [
+      "accessible",
+      "forms",
+      "government",
+      "modern",
+      "plain",
+      "public"
+    ],
+    "guidance": "Use plain language, strong accessibility, and clear service status."
+  },
+  {
+    "id": "learning-platform-calm",
+    "name": "Learning Platform Calm",
+    "category": "education",
+    "tags": [
+      "education",
+      "progress",
+      "content",
+      "calm"
+    ],
+    "keywords": [
+      "calm",
+      "content",
+      "education",
+      "learning",
+      "platform",
+      "progress"
+    ],
+    "guidance": "Use progress cards, readable lessons, and gentle motivation."
+  },
+  {
+    "id": "travel-magazine",
+    "name": "Travel Magazine",
+    "category": "travel",
+    "tags": [
+      "travel",
+      "imagery",
+      "booking",
+      "editorial"
+    ],
+    "keywords": [
+      "booking",
+      "editorial",
+      "imagery",
+      "magazine",
+      "travel"
+    ],
+    "guidance": "Use immersive imagery with clear price/date controls."
+  },
+  {
+    "id": "wellness-organic",
+    "name": "Wellness Organic",
+    "category": "wellness",
+    "tags": [
+      "wellness",
+      "organic",
+      "soft",
+      "nature"
+    ],
+    "keywords": [
+      "nature",
+      "organic",
+      "soft",
+      "wellness"
+    ],
+    "guidance": "Use warm neutrals, soft greens, and spacious rhythm."
+  },
+  {
+    "id": "ai-workflow-neutral",
+    "name": "AI Workflow Neutral",
+    "category": "ai",
+    "tags": [
+      "ai",
+      "workflow",
+      "neutral",
+      "product"
+    ],
+    "keywords": [
+      "ai",
+      "neutral",
+      "product",
+      "workflow"
+    ],
+    "guidance": "Use workflow clarity instead of clichéd AI gradients."
+  },
+  {
+    "id": "legal-authority",
+    "name": "Legal Authority",
+    "category": "legal",
+    "tags": [
+      "law",
+      "authority",
+      "navy",
+      "formal"
+    ],
+    "keywords": [
+      "authority",
+      "formal",
+      "law",
+      "legal",
+      "navy"
+    ],
+    "guidance": "Use formal hierarchy, document cues, and trust-focused composition."
+  },
+  {
+    "id": "portfolio-gallery",
+    "name": "Portfolio Gallery",
+    "category": "creative",
+    "tags": [
+      "gallery",
+      "portfolio",
+      "visual",
+      "minimal"
+    ],
+    "keywords": [
+      "creative",
+      "gallery",
+      "minimal",
+      "portfolio",
+      "visual"
+    ],
+    "guidance": "Use image-led layout and minimal UI chrome."
+  },
+  {
+    "id": "command-analytics",
+    "name": "Command Analytics",
+    "category": "analytics",
+    "tags": [
+      "dashboard",
+      "command",
+      "filter",
+      "charts"
+    ],
+    "keywords": [
+      "analytics",
+      "charts",
+      "command",
+      "dashboard",
+      "filter"
+    ],
+    "guidance": "Use filter bars, compact KPIs, and high-signal charts."
+  },
+  {
+    "id": "premium-rtl-editorial",
+    "name": "Premium RTL Editorial",
+    "category": "rtl",
+    "tags": [
+      "persian",
+      "rtl",
+      "editorial",
+      "content"
+    ],
+    "keywords": [
+      "content",
+      "editorial",
+      "persian",
+      "premium",
+      "rtl"
+    ],
+    "guidance": "Use Persian reading rhythm, elegant headings, and mirrored layout logic."
+  },
+  {
+    "id": "b2b-enterprise-trust",
+    "name": "B2B Enterprise Trust",
+    "category": "enterprise",
+    "tags": [
+      "b2b",
+      "trust",
+      "landing",
+      "saas"
+    ],
+    "keywords": [
+      "b2b",
+      "enterprise",
+      "landing",
+      "saas",
+      "trust"
+    ],
+    "guidance": "Use proof, security, ROI, and sober conversion hierarchy."
+  },
+  {
+    "id": "minimal-documentation",
+    "name": "Minimal Documentation",
+    "category": "docs",
+    "tags": [
+      "documentation",
+      "developer",
+      "search",
+      "minimal"
+    ],
+    "keywords": [
+      "developer",
+      "docs",
+      "documentation",
+      "minimal",
+      "search"
+    ],
+    "guidance": "Use strong search, side nav, versioning, and code legibility."
+  },
+  {
+    "id": "event-energy",
+    "name": "Event Energy",
+    "category": "events",
+    "tags": [
+      "event",
+      "ticket",
+      "energy",
+      "landing"
+    ],
+    "keywords": [
+      "energy",
+      "event",
+      "events",
+      "landing",
+      "ticket"
+    ],
+    "guidance": "Use high-impact hero, schedule clarity, and ticket CTA path."
+  },
+  {
+    "id": "calm-support-inbox",
+    "name": "Calm Support Inbox",
+    "category": "support",
+    "tags": [
+      "support",
+      "inbox",
+      "workflow",
+      "calm"
+    ],
+    "keywords": [
+      "calm",
+      "inbox",
+      "support",
+      "workflow"
+    ],
+    "guidance": "Use message density, SLA states, and clear assignment controls."
+  }
+]

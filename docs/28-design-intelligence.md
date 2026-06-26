@@ -10,6 +10,17 @@ Design Intelligence turns clean frontend implementation into high-end product UI
 
 Choose one visual language before designing. Every spacing, type, color, card, CTA, table, and interaction choice should support that direction.
 
+## Retrieval Before Guessing
+
+- Do not guess palettes blindly; search `data/colors.json` first with `node scripts/search.js "<query>" --domain color`.
+- Do not guess font pairings blindly; search `data/typography.json` first with `node scripts/search.js "<query>" --domain typography`.
+- For product-specific UI, search `data/products.json` first.
+- For dashboards, search `data/charts.json` before choosing visualization patterns.
+- For workflow or interaction issues, search `data/ux-guidelines.json`.
+- For stack-sensitive decisions, search `data/stacks.json`.
+- For Persian projects, apply `data/persian-rtl.json`.
+- For major UI work, run `node scripts/design-system.js "<product query>"` before implementation.
+
 ## Visual Language Menu
 
 - Apple Calm: clarity, restraint, large readable type, generous whitespace, almost invisible chrome.

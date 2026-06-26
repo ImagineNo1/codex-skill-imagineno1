@@ -1,12 +1,14 @@
 {
   "name": "imageno1-skill",
-  "version": "2.1.0",
-  "description": "Imageno1 Frontend OS v2.1: an execution-driven Codex frontend operating system with premium design intelligence for high-end UI/UX, Next.js, React, Tailwind, shadcn/ui, dashboards, landing pages, admin panels, accessibility, performance, and RTL Persian interfaces.",
+  "version": "2.2.0",
+  "description": "Imageno1 Frontend OS v2.2: an execution-driven Codex frontend operating system with searchable design intelligence, design-system generation, premium UI/UX, Next.js, React, Tailwind, shadcn/ui, dashboards, landing pages, admin panels, accessibility, performance, and RTL Persian interfaces.",
   "private": true,
   "license": "MIT",
   "type": "commonjs",
   "scripts": {
     "install:skill": "node -e \"const { spawnSync } = require('child_process'); const win = process.platform === 'win32'; const cmd = win ? 'powershell' : 'sh'; const args = win ? ['-ExecutionPolicy','Bypass','-File','scripts/install.ps1'] : ['scripts/install.sh']; const result = spawnSync(cmd, args, { stdio: 'inherit' }); process.exit(result.status ?? 1);\"",
+    "search": "node scripts/search.js",
+    "design-system": "node scripts/design-system.js",
     "verify": "node scripts/verify.js",
     "lint:docs": "node scripts/verify.js"
   },

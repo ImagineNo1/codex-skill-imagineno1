@@ -1,0 +1,1570 @@
+[
+  {
+    "id": "primary-action-hierarchy-guideline-1",
+    "name": "Primary Action Hierarchy Guideline 1",
+    "category": "ux",
+    "tags": [
+      "primary",
+      "action",
+      "hierarchy",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "action",
+      "guideline",
+      "heuristic",
+      "hierarchy",
+      "primary",
+      "ux"
+    ],
+    "guidance": "Design primary action hierarchy so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "keyboard-navigation-guideline-1",
+    "name": "Keyboard Navigation Guideline 1",
+    "category": "ux",
+    "tags": [
+      "keyboard",
+      "navigation",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "guideline",
+      "heuristic",
+      "keyboard",
+      "navigation",
+      "ux"
+    ],
+    "guidance": "Design keyboard navigation so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "empty-state-recovery-guideline-1",
+    "name": "Empty State Recovery Guideline 1",
+    "category": "ux",
+    "tags": [
+      "empty",
+      "state",
+      "recovery",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "empty",
+      "guideline",
+      "heuristic",
+      "recovery",
+      "state",
+      "ux"
+    ],
+    "guidance": "Design empty state recovery so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "form-validation-guideline-1",
+    "name": "Form Validation Guideline 1",
+    "category": "ux",
+    "tags": [
+      "form",
+      "validation",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "form",
+      "guideline",
+      "heuristic",
+      "ux",
+      "validation"
+    ],
+    "guidance": "Design form validation so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "error-prevention-guideline-1",
+    "name": "Error Prevention Guideline 1",
+    "category": "ux",
+    "tags": [
+      "error",
+      "prevention",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "error",
+      "guideline",
+      "heuristic",
+      "prevention",
+      "ux"
+    ],
+    "guidance": "Design error prevention so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "loading-skeletons-guideline-1",
+    "name": "Loading Skeletons Guideline 1",
+    "category": "ux",
+    "tags": [
+      "loading",
+      "skeletons",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "guideline",
+      "heuristic",
+      "loading",
+      "skeletons",
+      "ux"
+    ],
+    "guidance": "Design loading skeletons so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "progressive-disclosure-guideline-1",
+    "name": "Progressive Disclosure Guideline 1",
+    "category": "ux",
+    "tags": [
+      "progressive",
+      "disclosure",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "disclosure",
+      "guideline",
+      "heuristic",
+      "progressive",
+      "ux"
+    ],
+    "guidance": "Design progressive disclosure so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "filter-design-guideline-1",
+    "name": "Filter Design Guideline 1",
+    "category": "ux",
+    "tags": [
+      "filter",
+      "design",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "design",
+      "filter",
+      "guideline",
+      "heuristic",
+      "ux"
+    ],
+    "guidance": "Design filter design so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "search-result-relevance-guideline-1",
+    "name": "Search Result Relevance Guideline 1",
+    "category": "ux",
+    "tags": [
+      "search",
+      "result",
+      "relevance",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "guideline",
+      "heuristic",
+      "relevance",
+      "result",
+      "search",
+      "ux"
+    ],
+    "guidance": "Design search result relevance so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "mobile-thumb-zones-guideline-1",
+    "name": "Mobile Thumb Zones Guideline 1",
+    "category": "ux",
+    "tags": [
+      "mobile",
+      "thumb",
+      "zones",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "guideline",
+      "heuristic",
+      "mobile",
+      "thumb",
+      "ux",
+      "zones"
+    ],
+    "guidance": "Design mobile thumb zones so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "modal-focus-trap-guideline-1",
+    "name": "Modal Focus Trap Guideline 1",
+    "category": "ux",
+    "tags": [
+      "modal",
+      "focus",
+      "trap",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "focus",
+      "guideline",
+      "heuristic",
+      "modal",
+      "trap",
+      "ux"
+    ],
+    "guidance": "Design modal focus trap so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "toast-feedback-guideline-1",
+    "name": "Toast Feedback Guideline 1",
+    "category": "ux",
+    "tags": [
+      "toast",
+      "feedback",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "feedback",
+      "guideline",
+      "heuristic",
+      "toast",
+      "ux"
+    ],
+    "guidance": "Design toast feedback so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "bulk-action-safety-guideline-1",
+    "name": "Bulk Action Safety Guideline 1",
+    "category": "ux",
+    "tags": [
+      "bulk",
+      "action",
+      "safety",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "action",
+      "bulk",
+      "guideline",
+      "heuristic",
+      "safety",
+      "ux"
+    ],
+    "guidance": "Design bulk action safety so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "destructive-confirmation-guideline-1",
+    "name": "Destructive Confirmation Guideline 1",
+    "category": "ux",
+    "tags": [
+      "destructive",
+      "confirmation",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "confirmation",
+      "destructive",
+      "guideline",
+      "heuristic",
+      "ux"
+    ],
+    "guidance": "Design destructive confirmation so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "onboarding-progress-guideline-1",
+    "name": "Onboarding Progress Guideline 1",
+    "category": "ux",
+    "tags": [
+      "onboarding",
+      "progress",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "guideline",
+      "heuristic",
+      "onboarding",
+      "progress",
+      "ux"
+    ],
+    "guidance": "Design onboarding progress so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "pricing-comparison-guideline-1",
+    "name": "Pricing Comparison Guideline 1",
+    "category": "ux",
+    "tags": [
+      "pricing",
+      "comparison",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "comparison",
+      "guideline",
+      "heuristic",
+      "pricing",
+      "ux"
+    ],
+    "guidance": "Design pricing comparison so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "checkout-trust-guideline-1",
+    "name": "Checkout Trust Guideline 1",
+    "category": "ux",
+    "tags": [
+      "checkout",
+      "trust",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "checkout",
+      "guideline",
+      "heuristic",
+      "trust",
+      "ux"
+    ],
+    "guidance": "Design checkout trust so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "dashboard-drilldown-guideline-1",
+    "name": "Dashboard Drilldown Guideline 1",
+    "category": "ux",
+    "tags": [
+      "dashboard",
+      "drilldown",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "dashboard",
+      "drilldown",
+      "guideline",
+      "heuristic",
+      "ux"
+    ],
+    "guidance": "Design dashboard drilldown so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "chart-labeling-guideline-1",
+    "name": "Chart Labeling Guideline 1",
+    "category": "ux",
+    "tags": [
+      "chart",
+      "labeling",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "chart",
+      "guideline",
+      "heuristic",
+      "labeling",
+      "ux"
+    ],
+    "guidance": "Design chart labeling so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "table-density-guideline-1",
+    "name": "Table Density Guideline 1",
+    "category": "ux",
+    "tags": [
+      "table",
+      "density",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "density",
+      "guideline",
+      "heuristic",
+      "table",
+      "ux"
+    ],
+    "guidance": "Design table density so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "permission-states-guideline-1",
+    "name": "Permission States Guideline 1",
+    "category": "ux",
+    "tags": [
+      "permission",
+      "states",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "guideline",
+      "heuristic",
+      "permission",
+      "states",
+      "ux"
+    ],
+    "guidance": "Design permission states so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "audit-trail-visibility-guideline-1",
+    "name": "Audit Trail Visibility Guideline 1",
+    "category": "ux",
+    "tags": [
+      "audit",
+      "trail",
+      "visibility",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "audit",
+      "guideline",
+      "heuristic",
+      "trail",
+      "ux",
+      "visibility"
+    ],
+    "guidance": "Design audit trail visibility so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "dark-mode-contrast-guideline-1",
+    "name": "Dark Mode Contrast Guideline 1",
+    "category": "ux",
+    "tags": [
+      "dark",
+      "mode",
+      "contrast",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "contrast",
+      "dark",
+      "guideline",
+      "heuristic",
+      "mode",
+      "ux"
+    ],
+    "guidance": "Design dark mode contrast so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "rtl-mirroring-guideline-1",
+    "name": "Rtl Mirroring Guideline 1",
+    "category": "ux",
+    "tags": [
+      "RTL",
+      "mirroring",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "RTL",
+      "guideline",
+      "heuristic",
+      "mirroring",
+      "rtl",
+      "ux"
+    ],
+    "guidance": "Design RTL mirroring so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "mixed-ltr-isolation-guideline-1",
+    "name": "Mixed Ltr Isolation Guideline 1",
+    "category": "ux",
+    "tags": [
+      "mixed",
+      "LTR",
+      "isolation",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "LTR",
+      "guideline",
+      "heuristic",
+      "isolation",
+      "ltr",
+      "mixed",
+      "ux"
+    ],
+    "guidance": "Design mixed LTR isolation so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "responsive-cards-guideline-1",
+    "name": "Responsive Cards Guideline 1",
+    "category": "ux",
+    "tags": [
+      "responsive",
+      "cards",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "cards",
+      "guideline",
+      "heuristic",
+      "responsive",
+      "ux"
+    ],
+    "guidance": "Design responsive cards so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "sticky-headers-guideline-1",
+    "name": "Sticky Headers Guideline 1",
+    "category": "ux",
+    "tags": [
+      "sticky",
+      "headers",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "guideline",
+      "headers",
+      "heuristic",
+      "sticky",
+      "ux"
+    ],
+    "guidance": "Design sticky headers so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "command-palette-guideline-1",
+    "name": "Command Palette Guideline 1",
+    "category": "ux",
+    "tags": [
+      "command",
+      "palette",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "command",
+      "guideline",
+      "heuristic",
+      "palette",
+      "ux"
+    ],
+    "guidance": "Design command palette so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "notification-triage-guideline-1",
+    "name": "Notification Triage Guideline 1",
+    "category": "ux",
+    "tags": [
+      "notification",
+      "triage",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "guideline",
+      "heuristic",
+      "notification",
+      "triage",
+      "ux"
+    ],
+    "guidance": "Design notification triage so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "settings-grouping-guideline-1",
+    "name": "Settings Grouping Guideline 1",
+    "category": "ux",
+    "tags": [
+      "settings",
+      "grouping",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "grouping",
+      "guideline",
+      "heuristic",
+      "settings",
+      "ux"
+    ],
+    "guidance": "Design settings grouping so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "live-preview-guideline-1",
+    "name": "Live Preview Guideline 1",
+    "category": "ux",
+    "tags": [
+      "live",
+      "preview",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "guideline",
+      "heuristic",
+      "live",
+      "preview",
+      "ux"
+    ],
+    "guidance": "Design live preview so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "wizard-steps-guideline-1",
+    "name": "Wizard Steps Guideline 1",
+    "category": "ux",
+    "tags": [
+      "wizard",
+      "steps",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "guideline",
+      "heuristic",
+      "steps",
+      "ux",
+      "wizard"
+    ],
+    "guidance": "Design wizard steps so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "date-formatting-guideline-1",
+    "name": "Date Formatting Guideline 1",
+    "category": "ux",
+    "tags": [
+      "date",
+      "formatting",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "date",
+      "formatting",
+      "guideline",
+      "heuristic",
+      "ux"
+    ],
+    "guidance": "Design date formatting so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "currency-formatting-guideline-1",
+    "name": "Currency Formatting Guideline 1",
+    "category": "ux",
+    "tags": [
+      "currency",
+      "formatting",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "currency",
+      "formatting",
+      "guideline",
+      "heuristic",
+      "ux"
+    ],
+    "guidance": "Design currency formatting so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "status-taxonomy-guideline-1",
+    "name": "Status Taxonomy Guideline 1",
+    "category": "ux",
+    "tags": [
+      "status",
+      "taxonomy",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "guideline",
+      "heuristic",
+      "status",
+      "taxonomy",
+      "ux"
+    ],
+    "guidance": "Design status taxonomy so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "microcopy-clarity-guideline-1",
+    "name": "Microcopy Clarity Guideline 1",
+    "category": "ux",
+    "tags": [
+      "microcopy",
+      "clarity",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "clarity",
+      "guideline",
+      "heuristic",
+      "microcopy",
+      "ux"
+    ],
+    "guidance": "Design microcopy clarity so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "help-text-placement-guideline-1",
+    "name": "Help Text Placement Guideline 1",
+    "category": "ux",
+    "tags": [
+      "help",
+      "text",
+      "placement",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "guideline",
+      "help",
+      "heuristic",
+      "placement",
+      "text",
+      "ux"
+    ],
+    "guidance": "Design help text placement so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "disabled-state-reason-guideline-1",
+    "name": "Disabled State Reason Guideline 1",
+    "category": "ux",
+    "tags": [
+      "disabled",
+      "state",
+      "reason",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "disabled",
+      "guideline",
+      "heuristic",
+      "reason",
+      "state",
+      "ux"
+    ],
+    "guidance": "Design disabled state reason so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "optimistic-update-guideline-1",
+    "name": "Optimistic Update Guideline 1",
+    "category": "ux",
+    "tags": [
+      "optimistic",
+      "update",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "guideline",
+      "heuristic",
+      "optimistic",
+      "update",
+      "ux"
+    ],
+    "guidance": "Design optimistic update so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "undo-pattern-guideline-1",
+    "name": "Undo Pattern Guideline 1",
+    "category": "ux",
+    "tags": [
+      "undo",
+      "pattern",
+      "heuristic"
+    ],
+    "keywords": [
+      "1",
+      "guideline",
+      "heuristic",
+      "pattern",
+      "undo",
+      "ux"
+    ],
+    "guidance": "Design undo pattern so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "primary-action-hierarchy-guideline-2",
+    "name": "Primary Action Hierarchy Guideline 2",
+    "category": "ux",
+    "tags": [
+      "primary",
+      "action",
+      "hierarchy",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "action",
+      "guideline",
+      "heuristic",
+      "hierarchy",
+      "primary",
+      "ux"
+    ],
+    "guidance": "Design primary action hierarchy so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "keyboard-navigation-guideline-2",
+    "name": "Keyboard Navigation Guideline 2",
+    "category": "ux",
+    "tags": [
+      "keyboard",
+      "navigation",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "guideline",
+      "heuristic",
+      "keyboard",
+      "navigation",
+      "ux"
+    ],
+    "guidance": "Design keyboard navigation so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "empty-state-recovery-guideline-2",
+    "name": "Empty State Recovery Guideline 2",
+    "category": "ux",
+    "tags": [
+      "empty",
+      "state",
+      "recovery",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "empty",
+      "guideline",
+      "heuristic",
+      "recovery",
+      "state",
+      "ux"
+    ],
+    "guidance": "Design empty state recovery so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "form-validation-guideline-2",
+    "name": "Form Validation Guideline 2",
+    "category": "ux",
+    "tags": [
+      "form",
+      "validation",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "form",
+      "guideline",
+      "heuristic",
+      "ux",
+      "validation"
+    ],
+    "guidance": "Design form validation so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "error-prevention-guideline-2",
+    "name": "Error Prevention Guideline 2",
+    "category": "ux",
+    "tags": [
+      "error",
+      "prevention",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "error",
+      "guideline",
+      "heuristic",
+      "prevention",
+      "ux"
+    ],
+    "guidance": "Design error prevention so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "loading-skeletons-guideline-2",
+    "name": "Loading Skeletons Guideline 2",
+    "category": "ux",
+    "tags": [
+      "loading",
+      "skeletons",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "guideline",
+      "heuristic",
+      "loading",
+      "skeletons",
+      "ux"
+    ],
+    "guidance": "Design loading skeletons so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "progressive-disclosure-guideline-2",
+    "name": "Progressive Disclosure Guideline 2",
+    "category": "ux",
+    "tags": [
+      "progressive",
+      "disclosure",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "disclosure",
+      "guideline",
+      "heuristic",
+      "progressive",
+      "ux"
+    ],
+    "guidance": "Design progressive disclosure so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "filter-design-guideline-2",
+    "name": "Filter Design Guideline 2",
+    "category": "ux",
+    "tags": [
+      "filter",
+      "design",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "design",
+      "filter",
+      "guideline",
+      "heuristic",
+      "ux"
+    ],
+    "guidance": "Design filter design so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "search-result-relevance-guideline-2",
+    "name": "Search Result Relevance Guideline 2",
+    "category": "ux",
+    "tags": [
+      "search",
+      "result",
+      "relevance",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "guideline",
+      "heuristic",
+      "relevance",
+      "result",
+      "search",
+      "ux"
+    ],
+    "guidance": "Design search result relevance so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "mobile-thumb-zones-guideline-2",
+    "name": "Mobile Thumb Zones Guideline 2",
+    "category": "ux",
+    "tags": [
+      "mobile",
+      "thumb",
+      "zones",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "guideline",
+      "heuristic",
+      "mobile",
+      "thumb",
+      "ux",
+      "zones"
+    ],
+    "guidance": "Design mobile thumb zones so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "modal-focus-trap-guideline-2",
+    "name": "Modal Focus Trap Guideline 2",
+    "category": "ux",
+    "tags": [
+      "modal",
+      "focus",
+      "trap",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "focus",
+      "guideline",
+      "heuristic",
+      "modal",
+      "trap",
+      "ux"
+    ],
+    "guidance": "Design modal focus trap so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "toast-feedback-guideline-2",
+    "name": "Toast Feedback Guideline 2",
+    "category": "ux",
+    "tags": [
+      "toast",
+      "feedback",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "feedback",
+      "guideline",
+      "heuristic",
+      "toast",
+      "ux"
+    ],
+    "guidance": "Design toast feedback so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "bulk-action-safety-guideline-2",
+    "name": "Bulk Action Safety Guideline 2",
+    "category": "ux",
+    "tags": [
+      "bulk",
+      "action",
+      "safety",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "action",
+      "bulk",
+      "guideline",
+      "heuristic",
+      "safety",
+      "ux"
+    ],
+    "guidance": "Design bulk action safety so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "destructive-confirmation-guideline-2",
+    "name": "Destructive Confirmation Guideline 2",
+    "category": "ux",
+    "tags": [
+      "destructive",
+      "confirmation",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "confirmation",
+      "destructive",
+      "guideline",
+      "heuristic",
+      "ux"
+    ],
+    "guidance": "Design destructive confirmation so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "onboarding-progress-guideline-2",
+    "name": "Onboarding Progress Guideline 2",
+    "category": "ux",
+    "tags": [
+      "onboarding",
+      "progress",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "guideline",
+      "heuristic",
+      "onboarding",
+      "progress",
+      "ux"
+    ],
+    "guidance": "Design onboarding progress so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "pricing-comparison-guideline-2",
+    "name": "Pricing Comparison Guideline 2",
+    "category": "ux",
+    "tags": [
+      "pricing",
+      "comparison",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "comparison",
+      "guideline",
+      "heuristic",
+      "pricing",
+      "ux"
+    ],
+    "guidance": "Design pricing comparison so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "checkout-trust-guideline-2",
+    "name": "Checkout Trust Guideline 2",
+    "category": "ux",
+    "tags": [
+      "checkout",
+      "trust",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "checkout",
+      "guideline",
+      "heuristic",
+      "trust",
+      "ux"
+    ],
+    "guidance": "Design checkout trust so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "dashboard-drilldown-guideline-2",
+    "name": "Dashboard Drilldown Guideline 2",
+    "category": "ux",
+    "tags": [
+      "dashboard",
+      "drilldown",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "dashboard",
+      "drilldown",
+      "guideline",
+      "heuristic",
+      "ux"
+    ],
+    "guidance": "Design dashboard drilldown so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "chart-labeling-guideline-2",
+    "name": "Chart Labeling Guideline 2",
+    "category": "ux",
+    "tags": [
+      "chart",
+      "labeling",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "chart",
+      "guideline",
+      "heuristic",
+      "labeling",
+      "ux"
+    ],
+    "guidance": "Design chart labeling so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "table-density-guideline-2",
+    "name": "Table Density Guideline 2",
+    "category": "ux",
+    "tags": [
+      "table",
+      "density",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "density",
+      "guideline",
+      "heuristic",
+      "table",
+      "ux"
+    ],
+    "guidance": "Design table density so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "permission-states-guideline-2",
+    "name": "Permission States Guideline 2",
+    "category": "ux",
+    "tags": [
+      "permission",
+      "states",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "guideline",
+      "heuristic",
+      "permission",
+      "states",
+      "ux"
+    ],
+    "guidance": "Design permission states so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "audit-trail-visibility-guideline-2",
+    "name": "Audit Trail Visibility Guideline 2",
+    "category": "ux",
+    "tags": [
+      "audit",
+      "trail",
+      "visibility",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "audit",
+      "guideline",
+      "heuristic",
+      "trail",
+      "ux",
+      "visibility"
+    ],
+    "guidance": "Design audit trail visibility so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "dark-mode-contrast-guideline-2",
+    "name": "Dark Mode Contrast Guideline 2",
+    "category": "ux",
+    "tags": [
+      "dark",
+      "mode",
+      "contrast",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "contrast",
+      "dark",
+      "guideline",
+      "heuristic",
+      "mode",
+      "ux"
+    ],
+    "guidance": "Design dark mode contrast so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "rtl-mirroring-guideline-2",
+    "name": "Rtl Mirroring Guideline 2",
+    "category": "ux",
+    "tags": [
+      "RTL",
+      "mirroring",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "RTL",
+      "guideline",
+      "heuristic",
+      "mirroring",
+      "rtl",
+      "ux"
+    ],
+    "guidance": "Design RTL mirroring so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "mixed-ltr-isolation-guideline-2",
+    "name": "Mixed Ltr Isolation Guideline 2",
+    "category": "ux",
+    "tags": [
+      "mixed",
+      "LTR",
+      "isolation",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "LTR",
+      "guideline",
+      "heuristic",
+      "isolation",
+      "ltr",
+      "mixed",
+      "ux"
+    ],
+    "guidance": "Design mixed LTR isolation so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "responsive-cards-guideline-2",
+    "name": "Responsive Cards Guideline 2",
+    "category": "ux",
+    "tags": [
+      "responsive",
+      "cards",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "cards",
+      "guideline",
+      "heuristic",
+      "responsive",
+      "ux"
+    ],
+    "guidance": "Design responsive cards so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "sticky-headers-guideline-2",
+    "name": "Sticky Headers Guideline 2",
+    "category": "ux",
+    "tags": [
+      "sticky",
+      "headers",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "guideline",
+      "headers",
+      "heuristic",
+      "sticky",
+      "ux"
+    ],
+    "guidance": "Design sticky headers so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "command-palette-guideline-2",
+    "name": "Command Palette Guideline 2",
+    "category": "ux",
+    "tags": [
+      "command",
+      "palette",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "command",
+      "guideline",
+      "heuristic",
+      "palette",
+      "ux"
+    ],
+    "guidance": "Design command palette so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "notification-triage-guideline-2",
+    "name": "Notification Triage Guideline 2",
+    "category": "ux",
+    "tags": [
+      "notification",
+      "triage",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "guideline",
+      "heuristic",
+      "notification",
+      "triage",
+      "ux"
+    ],
+    "guidance": "Design notification triage so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "settings-grouping-guideline-2",
+    "name": "Settings Grouping Guideline 2",
+    "category": "ux",
+    "tags": [
+      "settings",
+      "grouping",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "grouping",
+      "guideline",
+      "heuristic",
+      "settings",
+      "ux"
+    ],
+    "guidance": "Design settings grouping so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "live-preview-guideline-2",
+    "name": "Live Preview Guideline 2",
+    "category": "ux",
+    "tags": [
+      "live",
+      "preview",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "guideline",
+      "heuristic",
+      "live",
+      "preview",
+      "ux"
+    ],
+    "guidance": "Design live preview so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "wizard-steps-guideline-2",
+    "name": "Wizard Steps Guideline 2",
+    "category": "ux",
+    "tags": [
+      "wizard",
+      "steps",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "guideline",
+      "heuristic",
+      "steps",
+      "ux",
+      "wizard"
+    ],
+    "guidance": "Design wizard steps so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "date-formatting-guideline-2",
+    "name": "Date Formatting Guideline 2",
+    "category": "ux",
+    "tags": [
+      "date",
+      "formatting",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "date",
+      "formatting",
+      "guideline",
+      "heuristic",
+      "ux"
+    ],
+    "guidance": "Design date formatting so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "currency-formatting-guideline-2",
+    "name": "Currency Formatting Guideline 2",
+    "category": "ux",
+    "tags": [
+      "currency",
+      "formatting",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "currency",
+      "formatting",
+      "guideline",
+      "heuristic",
+      "ux"
+    ],
+    "guidance": "Design currency formatting so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "status-taxonomy-guideline-2",
+    "name": "Status Taxonomy Guideline 2",
+    "category": "ux",
+    "tags": [
+      "status",
+      "taxonomy",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "guideline",
+      "heuristic",
+      "status",
+      "taxonomy",
+      "ux"
+    ],
+    "guidance": "Design status taxonomy so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "microcopy-clarity-guideline-2",
+    "name": "Microcopy Clarity Guideline 2",
+    "category": "ux",
+    "tags": [
+      "microcopy",
+      "clarity",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "clarity",
+      "guideline",
+      "heuristic",
+      "microcopy",
+      "ux"
+    ],
+    "guidance": "Design microcopy clarity so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "help-text-placement-guideline-2",
+    "name": "Help Text Placement Guideline 2",
+    "category": "ux",
+    "tags": [
+      "help",
+      "text",
+      "placement",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "guideline",
+      "help",
+      "heuristic",
+      "placement",
+      "text",
+      "ux"
+    ],
+    "guidance": "Design help text placement so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "disabled-state-reason-guideline-2",
+    "name": "Disabled State Reason Guideline 2",
+    "category": "ux",
+    "tags": [
+      "disabled",
+      "state",
+      "reason",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "disabled",
+      "guideline",
+      "heuristic",
+      "reason",
+      "state",
+      "ux"
+    ],
+    "guidance": "Design disabled state reason so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "optimistic-update-guideline-2",
+    "name": "Optimistic Update Guideline 2",
+    "category": "ux",
+    "tags": [
+      "optimistic",
+      "update",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "guideline",
+      "heuristic",
+      "optimistic",
+      "update",
+      "ux"
+    ],
+    "guidance": "Design optimistic update so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  },
+  {
+    "id": "undo-pattern-guideline-2",
+    "name": "Undo Pattern Guideline 2",
+    "category": "ux",
+    "tags": [
+      "undo",
+      "pattern",
+      "heuristic"
+    ],
+    "keywords": [
+      "2",
+      "guideline",
+      "heuristic",
+      "pattern",
+      "undo",
+      "ux"
+    ],
+    "guidance": "Design undo pattern so users can understand state, recover from mistakes, and act without hidden instructions. Validate keyboard, mobile, and edge cases."
+  }
+]

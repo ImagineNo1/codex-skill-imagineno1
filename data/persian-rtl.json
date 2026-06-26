@@ -1,0 +1,215 @@
+[
+  {
+    "id": "rtl-app-shell",
+    "name": "RTL app shell",
+    "category": "rtl",
+    "tags": [
+      "sidebar",
+      "nav",
+      "persian"
+    ],
+    "keywords": [
+      "app",
+      "nav",
+      "persian",
+      "rtl",
+      "shell",
+      "sidebar"
+    ],
+    "guidance": "Place navigation and hierarchy according to RTL reading flow; verify drawer direction and active states."
+  },
+  {
+    "id": "persian-legal-tone",
+    "name": "Persian legal tone",
+    "category": "copy",
+    "tags": [
+      "legal",
+      "formal"
+    ],
+    "keywords": [
+      "copy",
+      "formal",
+      "legal",
+      "persian",
+      "tone"
+    ],
+    "guidance": "Use precise, respectful, formal copy; avoid playful SaaS phrases."
+  },
+  {
+    "id": "jalali-date-display",
+    "name": "Jalali date display",
+    "category": "format",
+    "tags": [
+      "date",
+      "calendar"
+    ],
+    "keywords": [
+      "calendar",
+      "date",
+      "display",
+      "format",
+      "jalali"
+    ],
+    "guidance": "Use Jalali dates when expected; keep Gregorian only when product context requires it."
+  },
+  {
+    "id": "toman-rial-clarity",
+    "name": "Toman/Rial clarity",
+    "category": "currency",
+    "tags": [
+      "price",
+      "finance"
+    ],
+    "keywords": [
+      "clarity",
+      "currency",
+      "finance",
+      "price",
+      "rial",
+      "toman"
+    ],
+    "guidance": "Choose Toman or Rial explicitly and keep formatting consistent."
+  },
+  {
+    "id": "mixed-ltr-isolation",
+    "name": "Mixed LTR isolation",
+    "category": "text",
+    "tags": [
+      "email",
+      "url",
+      "code"
+    ],
+    "keywords": [
+      "code",
+      "email",
+      "isolation",
+      "ltr",
+      "mixed",
+      "text",
+      "url"
+    ],
+    "guidance": "Isolate emails, URLs, ticket IDs, and code snippets to prevent bidi confusion."
+  },
+  {
+    "id": "persian-typography-scale",
+    "name": "Persian typography scale",
+    "category": "type",
+    "tags": [
+      "font",
+      "readability"
+    ],
+    "keywords": [
+      "font",
+      "persian",
+      "readability",
+      "scale",
+      "type",
+      "typography"
+    ],
+    "guidance": "Use Persian-capable fonts, avoid negative tracking, and test at small UI sizes."
+  },
+  {
+    "id": "rtl-table-actions",
+    "name": "RTL table actions",
+    "category": "table",
+    "tags": [
+      "actions",
+      "admin"
+    ],
+    "keywords": [
+      "actions",
+      "admin",
+      "rtl",
+      "table"
+    ],
+    "guidance": "Align text and row actions to match RTL scanning; keep numeric comparison readable."
+  },
+  {
+    "id": "directional-icon-mirroring",
+    "name": "Directional icon mirroring",
+    "category": "icons",
+    "tags": [
+      "chevron",
+      "arrow"
+    ],
+    "keywords": [
+      "arrow",
+      "chevron",
+      "directional",
+      "icon",
+      "icons",
+      "mirroring"
+    ],
+    "guidance": "Mirror spatial arrows; never mirror brand or semantic icons."
+  },
+  {
+    "id": "luxury-legal-palette",
+    "name": "Luxury legal palette",
+    "category": "color",
+    "tags": [
+      "navy",
+      "gold"
+    ],
+    "keywords": [
+      "color",
+      "gold",
+      "legal",
+      "luxury",
+      "navy",
+      "palette"
+    ],
+    "guidance": "Use navy/charcoal/ivory with restrained gold accents for authority."
+  },
+  {
+    "id": "persian-form-flow",
+    "name": "Persian form flow",
+    "category": "forms",
+    "tags": [
+      "labels",
+      "errors"
+    ],
+    "keywords": [
+      "errors",
+      "flow",
+      "form",
+      "forms",
+      "labels",
+      "persian"
+    ],
+    "guidance": "Align labels, help, errors, and icons for RTL; isolate numeric fields when needed."
+  },
+  {
+    "id": "admin-live-preview-rtl",
+    "name": "Admin live preview RTL",
+    "category": "admin",
+    "tags": [
+      "preview",
+      "settings"
+    ],
+    "keywords": [
+      "admin",
+      "live",
+      "preview",
+      "rtl",
+      "settings"
+    ],
+    "guidance": "Show RTL live preview for public-facing Persian content before save."
+  },
+  {
+    "id": "persian-empty-states",
+    "name": "Persian empty states",
+    "category": "empty",
+    "tags": [
+      "copy",
+      "ux"
+    ],
+    "keywords": [
+      "copy",
+      "empty",
+      "persian",
+      "states",
+      "ux"
+    ],
+    "guidance": "Use concise recovery-oriented Persian copy; avoid blame and vague messages."
+  }
+]

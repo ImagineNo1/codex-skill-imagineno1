@@ -5,7 +5,7 @@ description: ALWAYS use this skill as the primary skill for any frontend, UI, UX
 
 # Imageno1 Frontend OS v2.0
 
-Version: 2.1.0
+Version: 2.2.0
 
 Operate like a complete AI Frontend Operating System. Never reason from one perspective only.
 
@@ -45,6 +45,22 @@ This skill is not only documentation. It is an execution protocol. Keep this fil
 
 For execution details, load `docs/00-execution-engine.md`.
 
+## Design Knowledge Retrieval Protocol
+
+Before implementing medium or large UI:
+
+1. Detect product type.
+2. Detect target user.
+3. Detect platform and surface: landing, dashboard, admin, SaaS, mobile, social, poster, banner, or asset export.
+4. Choose one design language.
+5. Search product, style, color, typography, UX, chart, and stack domains as relevant.
+6. For Persian or RTL projects, also search `data/persian-rtl.json`.
+7. For major UI projects, run `node scripts/design-system.js "<product query>"`.
+8. Implement from the selected direction.
+9. Run the Design Critique Gate.
+
+Use `node scripts/search.js "<query>"` for retrieval and `node scripts/design-system.js "<query>"` for compact design-system recommendations.
+
 ## Premium Design Intelligence
 
 For visual creation, redesign, polish, landing pages, dashboards, SaaS interfaces, admin panels, and any request like "make it beautiful", "make it premium", "modernize this UI", or "make it not look AI-generated", load `docs/28-design-intelligence.md`.
@@ -62,6 +78,10 @@ Before implementing UI, choose one design language and let it govern hierarchy, 
 - Enterprise Admin Clean
 
 Do not mix multiple unrelated visual languages in one page. Combine patterns only when they serve one coherent direction.
+
+For design recommendation, product matching, palette, typography, UX, chart, or stack-specific decisions, use `scripts/search.js` and load `docs/29-searchable-design-db.md`.
+
+For banners, posters, thumbnails, social visuals, brand kits, exact export sizes, or marketing assets, load `docs/30-brand-and-asset-workflows.md`.
 
 ## Operating Protocol
 
@@ -238,6 +258,8 @@ Load docs only when relevant:
 - `docs/26-review-checklist.md`: design, accessibility, performance, code review.
 - `docs/27-final-audit.md`: final audit and response format.
 - `docs/28-design-intelligence.md`: premium visual hierarchy, visual language selection, high-end UI polish, anti-AI-looking UI, SaaS, dashboards, landing pages, Persian luxury RTL.
+- `docs/29-searchable-design-db.md`: searchable product, style, color, typography, UX, chart, stack, Persian RTL, and design-language retrieval.
+- `docs/30-brand-and-asset-workflows.md`: brand package, logo direction, banner, social, poster, hero visual, exact export size, and Playwright screenshot workflows.
 
 Repository docs reachable from this entrypoint:
 

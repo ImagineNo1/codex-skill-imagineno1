@@ -1,0 +1,200 @@
+[
+  {
+    "id": "nextjs",
+    "name": "nextjs",
+    "category": "frontend",
+    "tags": [
+      "app-router",
+      "rsc",
+      "metadata",
+      "cache"
+    ],
+    "keywords": [
+      "app-router",
+      "cache",
+      "frontend",
+      "metadata",
+      "nextjs",
+      "rsc"
+    ],
+    "guidance": "Prefer Server Components, inspect local Next docs when required, keep client boundaries small."
+  },
+  {
+    "id": "react",
+    "name": "react",
+    "category": "frontend",
+    "tags": [
+      "hooks",
+      "state",
+      "composition"
+    ],
+    "keywords": [
+      "composition",
+      "frontend",
+      "hooks",
+      "react",
+      "state"
+    ],
+    "guidance": "Keep state local, avoid effects for derivations, use composition for reusable UI."
+  },
+  {
+    "id": "typescript",
+    "name": "typescript",
+    "category": "frontend",
+    "tags": [
+      "types",
+      "safety"
+    ],
+    "keywords": [
+      "frontend",
+      "safety",
+      "types",
+      "typescript"
+    ],
+    "guidance": "Encode component contracts, avoid any, use discriminated unions for complex states."
+  },
+  {
+    "id": "tailwind",
+    "name": "tailwind",
+    "category": "styling",
+    "tags": [
+      "tokens",
+      "responsive"
+    ],
+    "keywords": [
+      "responsive",
+      "styling",
+      "tailwind",
+      "tokens"
+    ],
+    "guidance": "Use tokenized utilities, mobile-first breakpoints, and avoid arbitrary values without reason."
+  },
+  {
+    "id": "shadcn",
+    "name": "shadcn",
+    "category": "components",
+    "tags": [
+      "radix",
+      "variants"
+    ],
+    "keywords": [
+      "components",
+      "radix",
+      "shadcn",
+      "variants"
+    ],
+    "guidance": "Inspect components.json, extend variants, preserve Radix accessibility behavior."
+  },
+  {
+    "id": "radix",
+    "name": "radix",
+    "category": "components",
+    "tags": [
+      "accessibility",
+      "primitives"
+    ],
+    "keywords": [
+      "accessibility",
+      "components",
+      "primitives",
+      "radix"
+    ],
+    "guidance": "Respect focus, roles, portals, and data-state styling."
+  },
+  {
+    "id": "tanstack",
+    "name": "tanstack",
+    "category": "data",
+    "tags": [
+      "table",
+      "query"
+    ],
+    "keywords": [
+      "data",
+      "query",
+      "table",
+      "tanstack"
+    ],
+    "guidance": "Use for complex table/query state; define empty/loading/error paths."
+  },
+  {
+    "id": "zustand",
+    "name": "zustand",
+    "category": "state",
+    "tags": [
+      "client",
+      "store"
+    ],
+    "keywords": [
+      "client",
+      "state",
+      "store",
+      "zustand"
+    ],
+    "guidance": "Use small stores with selectors; avoid globalizing local state."
+  },
+  {
+    "id": "redux",
+    "name": "redux",
+    "category": "state",
+    "tags": [
+      "enterprise",
+      "predictable"
+    ],
+    "keywords": [
+      "enterprise",
+      "predictable",
+      "redux",
+      "state"
+    ],
+    "guidance": "Use for broad app state with clear slices; avoid boilerplate for local UI."
+  },
+  {
+    "id": "prisma",
+    "name": "prisma",
+    "category": "data",
+    "tags": [
+      "database",
+      "server"
+    ],
+    "keywords": [
+      "data",
+      "database",
+      "prisma",
+      "server"
+    ],
+    "guidance": "Keep DB access server-side; model loading/error states in UI."
+  },
+  {
+    "id": "drizzle",
+    "name": "drizzle",
+    "category": "data",
+    "tags": [
+      "database",
+      "typed"
+    ],
+    "keywords": [
+      "data",
+      "database",
+      "drizzle",
+      "typed"
+    ],
+    "guidance": "Use typed queries server-side and keep schema concepts out of generic UI."
+  },
+  {
+    "id": "rtl",
+    "name": "rtl",
+    "category": "i18n",
+    "tags": [
+      "persian",
+      "direction"
+    ],
+    "keywords": [
+      "direction",
+      "i18n",
+      "persian",
+      "rtl"
+    ],
+    "guidance": "Use logical properties, dir boundaries, icon mirroring checks, and mixed-LTR isolation."
+  }
+]
