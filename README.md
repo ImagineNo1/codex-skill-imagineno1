@@ -2,7 +2,7 @@
 
 `imageno1-skill` is an execution-driven Codex skill for production frontend work. It is designed to behave like a Staff Frontend Engineer, Senior Product Designer, Design System Architect, UX Researcher, Accessibility Expert, Performance Engineer, Technical Lead, and Senior Code Reviewer at the same time.
 
-It is not only a documentation pack. It is a frontend operating system with an execution engine, progressive handbook loading, quality gates, and delivery rules.
+It is not only a documentation pack. It is a frontend operating system with an execution engine, progressive handbook loading, premium design intelligence, quality gates, and delivery rules.
 
 ## What This Skill Does
 
@@ -19,6 +19,41 @@ Use `imageno1-skill` for:
 - RTL Persian interfaces
 - Design systems and component architecture
 - Frontend refactoring and UI code review
+
+## Premium Design Intelligence
+
+Version 2.1 adds `docs/28-design-intelligence.md`, a premium UI/UX module for high-end visual output.
+
+Use it automatically for:
+
+- landing pages
+- dashboards
+- SaaS products
+- admin panels
+- visual redesigns
+- UI polish
+- `make it beautiful`
+- `make it premium`
+- `modernize this UI`
+- `make it not look AI-generated`
+
+It covers premium hierarchy, color psychology, typography, spacing, grid rhythm, Gestalt principles, cards, CTAs, empty states, onboarding, pricing, trust sections, data-heavy UI, micro-interactions, premium dark mode, and anti-AI-looking UI rules.
+
+## Visual Language Selection
+
+Before implementing visual UI, the skill chooses one coherent design language:
+
+- Apple Calm
+- Linear Precision
+- Stripe Conversion
+- Vercel Developer Premium
+- Raycast Command Center
+- GitHub Utility
+- Notion Workspace
+- Persian Luxury RTL
+- Enterprise Admin Clean
+
+The skill explicitly avoids mixing unrelated visual languages in one page.
 
 ## Execution Engine
 
@@ -56,6 +91,7 @@ It loads only the docs relevant to the current request:
 - `docs/07-accessibility.md` for WCAG, keyboard, ARIA, and focus work
 - `docs/08-performance.md` for Core Web Vitals, images, fonts, bundle, and rendering cost
 - `docs/21-rtl.md` and `docs/22-persian-ui.md` for RTL and Persian interfaces
+- `docs/28-design-intelligence.md` for premium visual polish and anti-generic UI
 
 This keeps context usage low while preserving high-quality reasoning.
 
@@ -128,6 +164,33 @@ The skill is designed to avoid finishing until these are satisfied or explicitly
 - No unnecessary re-renders
 - No obvious performance issues
 
+## Design Critique Gate
+
+For visual UI work, the skill scores:
+
+- visual hierarchy
+- typography
+- spacing
+- color system
+- component consistency
+- interaction quality
+- premium feel
+- non-AI look
+- RTL polish when relevant
+
+If any score is below 90/100, the skill improves the design before final delivery unless blocked.
+
+## Anti-AI-Looking UI Rules
+
+The Design Intelligence module pushes against generic AI-looking UI:
+
+- no random gradient blobs
+- no fake decorative dashboards
+- no identical feature-card walls unless content demands it
+- no vague placeholder copy
+- no inconsistent radii, shadows, colors, or spacing
+- no mixing Apple, Stripe, Linear, and Notion aesthetics without a unifying direction
+
 ## RTL and Persian Support
 
 Imageno1 Frontend OS treats RTL as architecture, not a final alignment pass.
@@ -142,6 +205,7 @@ It checks:
 - Jalali dates when appropriate
 - Toman/Rial formatting consistency
 - mixed LTR content such as emails, URLs, code, and identifiers
+- Persian Luxury RTL visual direction for premium legal, finance, and official interfaces
 
 ## Install For Codex
 
@@ -207,7 +271,7 @@ The verifier checks:
 - all required docs files exist
 - frontmatter name is `imageno1-skill`
 - internal title is `Imageno1 Frontend OS v2.0`
-- package version is `2.0.0`
+- package version is current
 - every docs markdown file is referenced from `SKILL.md`
 - markdown files are not empty
 
@@ -263,7 +327,8 @@ imageno1-skill/
 |   |-- 02-ui-principles.md
 |   |-- 03-nextjs.md
 |   |-- ...
-|   `-- 27-final-audit.md
+|   |-- 27-final-audit.md
+|   `-- 28-design-intelligence.md
 |-- scripts/
 |   |-- install.ps1
 |   |-- install.sh

@@ -32,6 +32,7 @@ const requiredDocs = [
   "25-refactoring.md",
   "26-review-checklist.md",
   "27-final-audit.md",
+  "28-design-intelligence.md",
 ];
 
 const errors = [];
@@ -94,15 +95,15 @@ if (exists("SKILL.md")) {
   if (!/^# Imageno1 Frontend OS v2\.0\s*$/m.test(skill)) {
     errors.push("SKILL.md must use title `Imageno1 Frontend OS v2.0`.");
   }
-  if (!/Version:\s*2\.0\.0/.test(skill)) {
-    errors.push("SKILL.md must include Version: 2.0.0.");
+  if (!/Version:\s*2\.1\.0/.test(skill)) {
+    errors.push("SKILL.md must include Version: 2.1.0.");
   }
 }
 
 if (exists("package.json")) {
   const pkg = JSON.parse(read("package.json"));
-  if (pkg.version !== "2.0.0") {
-    errors.push("package.json version must be 2.0.0.");
+  if (pkg.version !== "2.1.0") {
+    errors.push("package.json version must be 2.1.0.");
   }
 } else {
   errors.push("package.json is missing.");
@@ -161,4 +162,4 @@ if (errors.length > 0) {
   process.exit(1);
 }
 
-console.log("Verification passed: Imageno1 Frontend OS v2.0 is complete.");
+console.log("Verification passed: Imageno1 Frontend OS v2.1 is complete.");

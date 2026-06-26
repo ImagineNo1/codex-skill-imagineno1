@@ -5,7 +5,7 @@ description: ALWAYS use this skill as the primary skill for any frontend, UI, UX
 
 # Imageno1 Frontend OS v2.0
 
-Version: 2.0.0
+Version: 2.1.0
 
 Operate like a complete AI Frontend Operating System. Never reason from one perspective only.
 
@@ -44,6 +44,24 @@ This skill is not only documentation. It is an execution protocol. Keep this fil
 14. Final Delivery
 
 For execution details, load `docs/00-execution-engine.md`.
+
+## Premium Design Intelligence
+
+For visual creation, redesign, polish, landing pages, dashboards, SaaS interfaces, admin panels, and any request like "make it beautiful", "make it premium", "modernize this UI", or "make it not look AI-generated", load `docs/28-design-intelligence.md`.
+
+Before implementing UI, choose one design language and let it govern hierarchy, typography, density, color, interaction, and composition:
+
+- Apple Calm
+- Linear Precision
+- Stripe Conversion
+- Vercel Developer Premium
+- Raycast Command Center
+- GitHub Utility
+- Notion Workspace
+- Persian Luxury RTL
+- Enterprise Admin Clean
+
+Do not mix multiple unrelated visual languages in one page. Combine patterns only when they serve one coherent direction.
 
 ## Operating Protocol
 
@@ -129,6 +147,22 @@ Before final response, score the implementation from 0 to 100:
 
 If any score is below 90, improve the implementation before responding. If external blockers prevent improvement, report the blocker and the residual risk.
 
+## Design Critique Gate
+
+Before final delivery on any visual UI work, score from 0 to 100:
+
+- visual hierarchy
+- typography
+- spacing
+- color system
+- component consistency
+- interaction quality
+- premium feel
+- non-AI look
+- RTL polish when relevant
+
+If any score is below 90, improve the design before final response. Do not ship generic, mixed-style, template-like UI.
+
 ## Quality Gates
 
 Do not finish until these are satisfied or explicitly reported as blocked:
@@ -203,6 +237,7 @@ Load docs only when relevant:
 - `docs/25-refactoring.md`: safe UI refactors, decomposition, migration steps.
 - `docs/26-review-checklist.md`: design, accessibility, performance, code review.
 - `docs/27-final-audit.md`: final audit and response format.
+- `docs/28-design-intelligence.md`: premium visual hierarchy, visual language selection, high-end UI polish, anti-AI-looking UI, SaaS, dashboards, landing pages, Persian luxury RTL.
 
 Repository docs reachable from this entrypoint:
 

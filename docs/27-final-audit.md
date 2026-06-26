@@ -25,6 +25,10 @@ When project conventions conflict with these rules, inspect first and change onl
 
 - Verify changed files match the user request.
 - Verify visual hierarchy and spacing are intentional.
+- Verify the chosen design language is explicit and coherent.
+- Verify the UI does not mix unrelated visual languages.
+- Verify the interface does not look generic, template-like, or AI-generated.
+- Verify premium polish: type rhythm, whitespace, color restraint, component consistency, and interaction states.
 - Verify accessibility states and keyboard paths.
 - Verify responsive behavior for mobile and desktop.
 - Verify RTL behavior for Persian interfaces.
@@ -133,6 +137,9 @@ When project conventions conflict with these rules, inspect first and change onl
 - The states are present and coherent.
 - The layout is stable across realistic content sizes.
 - The design uses tokens and consistent variants.
+- The design passes the Design Critique Gate at 90/100 or above.
+- The page has one clear visual direction.
+- The UI quality is premium for its product category.
 - The accessibility path is intentional.
 - The final response names changed files, decisions, checks, validation, and risks.
 - The next engineer can extend the work without reverse-engineering taste decisions.

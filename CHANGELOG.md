@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2.1.0 - 2026-06-26
+
+- Added Design Intelligence module.
+- Added visual language selection.
+- Added Design Critique Gate.
+- Improved premium UI/UX output quality.
+- Improved anti-generic AI UI rules.
+- Expanded final audit with premium hierarchy, typography, spacing, color, consistency, interaction, dark mode, and RTL polish checks.
+
 ## 2.0.0 - 2026-06-26
 
 - Upgraded `imageno1-skill` into Imageno1 Frontend OS v2.0.

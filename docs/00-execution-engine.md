@@ -42,6 +42,22 @@ Run this workflow internally for every frontend task:
 
 Do not jump directly into coding unless the task is trivial and fully localized.
 
+## Visual Language Selection
+
+Before implementing UI, choose one design language:
+
+- Apple Calm: minimal surfaces, high clarity, generous whitespace, quiet confidence.
+- Linear Precision: sharp hierarchy, dense but clean layouts, exact alignment, calm dark mode.
+- Stripe Conversion: polished gradients only when useful, strong CTA path, trust-building composition.
+- Vercel Developer Premium: restrained monochrome, crisp developer-product details, excellent code/content hierarchy.
+- Raycast Command Center: compact command surfaces, fast scanning, keyboard-first interaction.
+- GitHub Utility: product utility, durable patterns, clear states, practical navigation.
+- Notion Workspace: calm work surfaces, readable blocks, soft hierarchy, low-friction editing.
+- Persian Luxury RTL: formal RTL typography, deep contrast, restrained gold/accent use, premium legal/finance tone.
+- Enterprise Admin Clean: dense information, predictable controls, low ornament, high operational clarity.
+
+Use one design language per page. Do not mix unrelated visual languages unless they are intentionally unified into one coherent direction.
+
 ## Understand Request
 
 - Identify the user-facing outcome.
@@ -197,6 +213,22 @@ Score 0 to 100:
 - Dark Mode
 
 If any score is below 90, improve the implementation before responding. If improvement is blocked, explain the blocker and risk.
+
+## Design Critique Gate
+
+For landing pages, dashboards, SaaS products, admin panels, visual redesigns, and UI polish tasks, score:
+
+- visual hierarchy
+- typography
+- spacing
+- color system
+- component consistency
+- interaction quality
+- premium feel
+- non-AI look
+- RTL polish when relevant
+
+If any score is below 90, revise the design before delivery.
 
 ## Quality Gates
 
