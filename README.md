@@ -1,6 +1,6 @@
 # Imageno1 Frontend OS v2.0
 
-`imageno1-skill` is an execution-driven Codex skill for production frontend work. It is designed to behave like a Staff Frontend Engineer, Senior Product Designer, Design System Architect, UX Researcher, Accessibility Expert, Performance Engineer, Technical Lead, and Senior Code Reviewer at the same time.
+`imageno1-skill` is an execution-driven Codex super-skill for production frontend, UI/UX, product design, brand, visual asset, and design-system work. It is designed to behave like a Staff Frontend Engineer, Senior Product Designer, Design System Architect, UX Researcher, Accessibility Expert, Performance Engineer, Technical Lead, Brand Designer, and Senior Code Reviewer at the same time.
 
 It is not only a documentation pack. It is a frontend operating system with an execution engine, searchable design database, design-system generator, progressive handbook loading, premium design intelligence, quality gates, and delivery rules.
 
@@ -18,6 +18,7 @@ Use `imageno1-skill` for:
 - Accessibility and responsive design
 - RTL Persian interfaces
 - Design systems and component architecture
+- Brand identity, logo direction, corporate identity, banners, social assets, slides, and icon systems
 - Frontend refactoring and UI code review
 
 ## Premium Design Intelligence
@@ -41,25 +42,47 @@ It covers premium hierarchy, color psychology, typography, spacing, grid rhythm,
 
 ## Searchable Design Database
 
-Imageno1 includes original JSON design knowledge bases:
+Imageno1 includes original JSON design knowledge bases plus expanded UI UX Pro Max intelligence:
 
 - `data/products.json`
+- `data/ui-reasoning.json`
 - `data/styles.json`
 - `data/colors.json`
 - `data/typography.json`
+- `data/google-fonts.json`
 - `data/ux-guidelines.json`
+- `data/app-interface.json`
+- `data/react-performance.json`
+- `data/landing.json`
 - `data/charts.json`
+- `data/icons.json`
+- `data/icon-styles.json`
+- `data/logo-design.json`
+- `data/cip-design.json`
+- `data/slides-design.json`
 - `data/stacks.json`
 - `data/persian-rtl.json`
 - `data/design-languages.json`
+- `data/design-prompts.json`
+- `data/draft-prompts.json`
 
 Use the dependency-free search CLI:
 
 ```bash
 npm run search -- "Persian SaaS dashboard" -- --domain product
+npm run search -- "fintech banking trust" -- --domain reasoning
+npm run search -- "hero social proof booking" -- --domain landing
 npm run search -- "luxury legal" -- --domain color
 npm run search -- "rtl Persian admin" -- --domain typography
+npm run search -- "luxury editorial serif" -- --domain google-fonts
+npm run search -- "sidebar navigation" -- --domain icons
+npm run search -- "rounded friendly navigation icon" -- --domain icon-styles
 npm run search -- "analytics dashboard" -- --domain chart
+npm run search -- "touch target accessibility label" -- --domain app
+npm run search -- "promise all suspense cache" -- --domain performance
+npm run search -- "tech startup logo" -- --domain logo
+npm run search -- "business card premium stationery" -- --domain cip
+npm run search -- "investor pitch problem slide" -- --domain slides
 npm run search -- "server components" -- --stack nextjs
 ```
 
@@ -77,9 +100,41 @@ For major UI projects, run:
 npm run design-system -- "Persian legal SaaS dashboard"
 ```
 
+For medium or large UI/UX/design/brand/asset work, run the complete retrieval stack:
+
+```bash
+npm run super-run -- "Persian legal SaaS dashboard"
+```
+
+## Imported UI UX Pro Max Execution Tools
+
+Version 2.5 imports the auxiliary execution layer from UI UX Pro Max into Codex-native folders:
+
+- `references/brand/` - brand voice, visual identity, messaging, assets, approval, logo usage
+- `references/design/` - logo, CIP, slides, banner, social photo, icon design routing
+- `references/design-system/` - primitive, semantic, component tokens and Tailwind integration
+- `references/ui-styling/` - shadcn/ui, Tailwind, responsive, accessibility, canvas design
+- `tools/logo/` - logo search and Gemini image generation
+- `tools/cip/` - corporate identity search, prompt generation, Gemini mockups, HTML render
+- `tools/icon/` - SVG icon generation with Gemini text output
+- `tools/brand/` - brand context, asset validation, color extraction, token sync
+- `tools/design-system/` - token generation/validation, slide search, slide generation, validators
+- `tools/ui-styling/` - shadcn component add helper and Tailwind config generator
+
+Convenience commands:
+
+```bash
+npm run logo:search -- "tech startup modern" -- --design-brief -p "BrandName"
+npm run cip:search -- "business card premium" -- --cip-brief -b "BrandName"
+npm run slides:search -- "investor pitch problem slide" -- --context --position 2 --total 10
+```
+
+Generation commands that call Gemini require `GEMINI_API_KEY` in the environment or a local `.env` file.
+
 The generator returns:
 
 - design language
+- industry reasoning
 - product match
 - color palette
 - typography
@@ -87,6 +142,11 @@ The generator returns:
 - radius/elevation
 - component tone
 - chart style
+- landing pattern
+- icon guidance
+- prompt direction
+- performance guidance
+- app-interface guidance
 - landing/dashboard recommendations
 - RTL notes when relevant
 - implementation checklist

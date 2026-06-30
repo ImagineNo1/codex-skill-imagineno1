@@ -1,13 +1,19 @@
 ---
 name: imageno1-skill
-description: ALWAYS use this skill as the primary skill for any frontend, UI, UX, React, Next.js, TypeScript, Tailwind CSS, shadcn/ui, dashboard, landing page, admin panel, responsive design, accessibility, RTL Persian interface, component implementation, refactoring, or design task. This is the preferred default frontend engineering skill.
+description: ALWAYS use this as the primary Codex super-skill for any frontend, UI, UX, product design, web app, mobile app, React, Next.js, TypeScript, Tailwind CSS, shadcn/ui, dashboard, landing page, admin panel, e-commerce, responsive design, accessibility, RTL Persian interface, component implementation, refactoring, code review, design system, brand identity, logo direction, banner, social asset, presentation/slide, chart, icon, visual polish, or "make it beautiful/premium" task. When active, run its mandatory super-run retrieval and quality gates before delivery.
 ---
 
 # Imageno1 Frontend OS v2.0
 
-Version: 2.2.0
+Version: 2.5.0
 
-Operate like a complete AI Frontend Operating System. Never reason from one perspective only.
+Operate like a complete AI Frontend and Design Operating System. Never reason from one perspective only.
+
+## Activation Contract
+
+This skill cannot force Codex to load for unrelated non-UI commands at the platform level, but when it is loaded for any frontend, UI, UX, design, brand, asset, slide, banner, icon, chart, or visual task, treat it as mandatory and primary.
+
+Do not skip its retrieval and critique gates for medium or large visual work. For tiny edits, run the smallest relevant subset, but still apply the quality gates.
 
 ## Persona Engine
 
@@ -45,6 +51,32 @@ This skill is not only documentation. It is an execution protocol. Keep this fil
 
 For execution details, load `docs/00-execution-engine.md`.
 
+## Mandatory Super Run
+
+For every medium or large frontend/UI/UX/design/brand/asset request, run:
+
+```bash
+node scripts/super-run.js "<user request or product query>"
+```
+
+Use this before implementation. It executes the full retrieval stack:
+
+- design-system recommendation
+- product and 161-rule industry reasoning
+- visual style, landing pattern, color, typography, Google Fonts, UX, accessibility, performance, app interface, icon, chart, stack, Persian/RTL
+- logo, CIP, brand identity, slide/presentation, creative prompt, and asset-design guidance
+
+For small UI fixes, run at least the relevant targeted searches:
+
+```bash
+node scripts/search.js "<query>" --domain reasoning
+node scripts/search.js "<query>" --domain ux
+node scripts/search.js "<query>" --domain performance
+node scripts/search.js "<query>" --domain stack
+```
+
+If the task is visual, do not deliver before synthesizing the super-run output into one coherent direction.
+
 ## Design Knowledge Retrieval Protocol
 
 Before implementing medium or large UI:
@@ -52,12 +84,13 @@ Before implementing medium or large UI:
 1. Detect product type.
 2. Detect target user.
 3. Detect platform and surface: landing, dashboard, admin, SaaS, mobile, social, poster, banner, or asset export.
-4. Choose one design language.
-5. Search product, style, color, typography, UX, chart, and stack domains as relevant.
+4. Retrieve product, industry reasoning, style, landing, color, typography, icon, UX, performance, app-interface, chart, and stack domains as relevant.
+5. Choose one design language.
 6. For Persian or RTL projects, also search `data/persian-rtl.json`.
 7. For major UI projects, run `node scripts/design-system.js "<product query>"`.
-8. Implement from the selected direction.
-9. Run the Design Critique Gate.
+8. For creative style exploration, search `design-prompts` and `draft-prompts` only after the product direction is clear.
+9. Implement from the selected direction.
+10. Run the Design Critique Gate.
 
 Use `node scripts/search.js "<query>"` for retrieval and `node scripts/design-system.js "<query>"` for compact design-system recommendations.
 
@@ -82,6 +115,39 @@ Do not mix multiple unrelated visual languages in one page. Combine patterns onl
 For design recommendation, product matching, palette, typography, UX, chart, or stack-specific decisions, use `scripts/search.js` and load `docs/29-searchable-design-db.md`.
 
 For banners, posters, thumbnails, social visuals, brand kits, exact export sizes, or marketing assets, load `docs/30-brand-and-asset-workflows.md`.
+
+## UI UX Pro Max Intelligence Add-On
+
+This skill includes a Codex-native synthesis of UI UX Pro Max style intelligence. Use it as a retrieval layer, not as a replacement for inspecting the user's project.
+
+Core imported domains:
+
+- `ui-reasoning`: 161 product-category rules covering pattern, style priority, color mood, typography mood, effects, decision rules, severity, and anti-patterns.
+- `landing`: conversion structures, section order, CTA placement, color strategy, effects, and optimization notes.
+- `products`, `styles`, `colors`, `typography`, `charts`, `ux`: expanded product, visual style, palette, font, data visualization, and UX guidance.
+- `stacks`: stack-specific implementation guidance across React, Next.js, Vue, Nuxt, Svelte, Astro, Angular, Laravel, Tailwind, shadcn/ui, Three.js, SwiftUI, React Native, Flutter, Jetpack Compose, JavaFX, WPF, WinUI, UWP, Avalonia, and Uno.
+- `react-performance`: async, rendering, bundle, caching, and interaction performance rules for React and Next.js.
+- `app-interface`: mobile/app interface accessibility, touch target, safe-area, form, and state rules.
+- `icons`: semantic icon recommendations and import/use hints.
+- `google-fonts`: searchable Google Fonts metadata for specific font matching.
+- `design-prompts` and `draft-prompts`: broad visual-style prompt references for unusual creative directions.
+- `logo-design`: logo styles, logo palettes, industries, symbols, typography, psychology, and anti-patterns.
+- `cip-design`: corporate identity deliverables, mockup contexts, material/finish guidance, and industry applications.
+- `slides-design`: pitch, strategy, slide layout, copywriting, chart, color, typography, and Duarte-style sparkline guidance.
+- `icon-styles`: outlined, filled, duotone, rounded, sharp, flat, gradient, and other icon system directions.
+
+Retrieval examples:
+
+- `node scripts/search.js "fintech banking trust" --domain reasoning`
+- `node scripts/search.js "hero social proof booking" --domain landing`
+- `node scripts/search.js "promise all suspense cache" --domain performance`
+- `node scripts/search.js "touch target accessibility label" --domain app`
+- `node scripts/search.js "sidebar navigation" --domain icons`
+- `node scripts/search.js "luxury editorial serif" --domain google-fonts`
+- `node scripts/search.js "tech startup logo" --domain logo`
+- `node scripts/search.js "business card premium stationery" --domain cip`
+- `node scripts/search.js "investor pitch problem slide" --domain slides`
+- `node scripts/search.js "rounded friendly navigation icon" --domain icon-styles`
 
 ## Operating Protocol
 
@@ -258,13 +324,53 @@ Load docs only when relevant:
 - `docs/26-review-checklist.md`: design, accessibility, performance, code review.
 - `docs/27-final-audit.md`: final audit and response format.
 - `docs/28-design-intelligence.md`: premium visual hierarchy, visual language selection, high-end UI polish, anti-AI-looking UI, SaaS, dashboards, landing pages, Persian luxury RTL.
-- `docs/29-searchable-design-db.md`: searchable product, style, color, typography, UX, chart, stack, Persian RTL, and design-language retrieval.
+- `docs/29-searchable-design-db.md`: searchable product, ui-reasoning, landing, style, color, typography, google-fonts, icons, UX, app-interface, react-performance, chart, stack, Persian RTL, design-prompt, draft-prompt, and design-language retrieval.
 - `docs/30-brand-and-asset-workflows.md`: brand package, logo direction, banner, social, poster, hero visual, exact export size, and Playwright screenshot workflows.
+- `docs/31-super-skill-orchestration.md`: mandatory super-run workflow, subsystem routing, and hard rules for using the complete skill stack.
+
+Searchable data reachable from scripts:
+
+- `data/ui-reasoning.json`
+- `data/landing.json`
+- `data/app-interface.json`
+- `data/react-performance.json`
+- `data/icons.json`
+- `data/google-fonts.json`
+- `data/design-prompts.json`
+- `data/draft-prompts.json`
+- `data/logo-design.json`
+- `data/cip-design.json`
+- `data/slides-design.json`
+- `data/icon-styles.json`
 
 Repository docs reachable from this entrypoint:
 
 - `README.md`
 - `CHANGELOG.md`
+
+## Imported Execution References
+
+Load these only when the matching subsystem is relevant:
+
+- Brand: `references/brand/voice-framework.md`, `references/brand/visual-identity.md`, `references/brand/messaging-framework.md`, `references/brand/consistency-checklist.md`, `references/brand/brand-guideline-template.md`, `references/brand/asset-organization.md`, `references/brand/color-palette-management.md`, `references/brand/typography-specifications.md`, `references/brand/logo-usage-rules.md`, `references/brand/approval-checklist.md`, `references/brand/update.md`.
+- Design routing: `references/design/design-routing.md`.
+- Logo: `references/design/logo-design.md`, `references/design/logo-style-guide.md`, `references/design/logo-color-psychology.md`, `references/design/logo-prompt-engineering.md`.
+- CIP: `references/design/cip-design.md`, `references/design/cip-deliverable-guide.md`, `references/design/cip-style-guide.md`, `references/design/cip-prompt-engineering.md`.
+- Icon design: `references/design/icon-design.md`.
+- Banner and social assets: `references/design/banner-sizes-and-styles.md`, `references/banner-design/banner-sizes-and-styles.md`, `references/design/social-photos-design.md`.
+- Slides: `references/design/slides.md`, `references/design/slides-create.md`, `references/design/slides-layout-patterns.md`, `references/design/slides-html-template.md`, `references/design/slides-copywriting-formulas.md`, `references/design/slides-strategies.md`, `references/slides/create.md`, `references/slides/layout-patterns.md`, `references/slides/html-template.md`, `references/slides/copywriting-formulas.md`, `references/slides/slide-strategies.md`.
+- Design system tokens: `references/design-system/token-architecture.md`, `references/design-system/primitive-tokens.md`, `references/design-system/semantic-tokens.md`, `references/design-system/component-tokens.md`, `references/design-system/component-specs.md`, `references/design-system/states-and-variants.md`, `references/design-system/tailwind-integration.md`.
+- UI styling: `references/ui-styling/shadcn-components.md`, `references/ui-styling/shadcn-theming.md`, `references/ui-styling/shadcn-accessibility.md`, `references/ui-styling/tailwind-utilities.md`, `references/ui-styling/tailwind-responsive.md`, `references/ui-styling/tailwind-customization.md`, `references/ui-styling/canvas-design-system.md`.
+- Templates: `templates/brand-guidelines-starter.md`, `templates/design-tokens-starter.json`.
+
+Imported executable tools:
+
+- Logo search/generation: `tools/logo/search.py`, `tools/logo/generate.py`, `tools/logo/core.py`; CSV data in `data/logo/`.
+- CIP search/generation/rendering: `tools/cip/search.py`, `tools/cip/generate.py`, `tools/cip/render-html.py`, `tools/cip/core.py`; CSV data in `data/cip/`.
+- Icon SVG generation: `tools/icon/generate.py`; style data in `data/icon/`.
+- Brand utilities: `tools/brand/inject-brand-context.cjs`, `tools/brand/sync-brand-to-tokens.cjs`, `tools/brand/validate-asset.cjs`, `tools/brand/extract-colors.cjs`.
+- Design-system utilities: `tools/design-system/generate-tokens.cjs`, `tools/design-system/validate-tokens.cjs`, `tools/design-system/search-slides.py`, `tools/design-system/slide_search_core.py`, `tools/design-system/generate-slide.py`, `tools/design-system/slide-token-validator.py`, `tools/design-system/html-token-validator.py`, `tools/design-system/fetch-background.py`, `tools/design-system/embed-tokens.cjs`; slide CSV data in `tools/data/`.
+- UI styling utilities: `tools/ui-styling/shadcn_add.py`, `tools/ui-styling/tailwind_config_gen.py`.
 
 ## Required Discovery Commands
 

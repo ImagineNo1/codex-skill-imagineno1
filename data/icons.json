@@ -1,0 +1,4103 @@
+[
+  {
+    "id": "phosphor-list",
+    "name": "list",
+    "category": "Navigation",
+    "tags": [
+      "navigation",
+      "phosphor",
+      "outline",
+      "mobile",
+      "drawer",
+      "toggle",
+      "sidebar"
+    ],
+    "keywords": [
+      "list",
+      "hamburger",
+      "menu",
+      "navigation",
+      "toggle",
+      "bars",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "mobile",
+      "drawer",
+      "sidebar"
+    ],
+    "guidance": "Phosphor list. Import: import { List } from '@phosphor-icons/react'. Usage: <List size={20} weight=regular />. Best for: Mobile navigation drawer toggle sidebar. Style: Outline.",
+    "details": {
+      "Category": "Navigation",
+      "Icon Name": "list",
+      "Keywords": "hamburger menu navigation toggle bars",
+      "Library": "Phosphor",
+      "Import Code": "import { List } from '@phosphor-icons/react'",
+      "Usage": "<List size={20} weight=regular />",
+      "Best For": "Mobile navigation drawer toggle sidebar",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-arrow-left",
+    "name": "arrow-left",
+    "category": "Navigation",
+    "tags": [
+      "navigation",
+      "phosphor",
+      "outline",
+      "back",
+      "button",
+      "breadcrumb"
+    ],
+    "keywords": [
+      "arrow-left",
+      "back",
+      "previous",
+      "return",
+      "navigate",
+      "arrowleft",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "button",
+      "breadcrumb",
+      "navigation"
+    ],
+    "guidance": "Phosphor arrow-left. Import: import { ArrowLeft } from '@phosphor-icons/react'. Usage: <ArrowLeft size={20} weight=regular />. Best for: Back button breadcrumb navigation. Style: Outline.",
+    "details": {
+      "Category": "Navigation",
+      "Icon Name": "arrow-left",
+      "Keywords": "back previous return navigate",
+      "Library": "Phosphor",
+      "Import Code": "import { ArrowLeft } from '@phosphor-icons/react'",
+      "Usage": "<ArrowLeft size={20} weight=regular />",
+      "Best For": "Back button breadcrumb navigation",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-arrow-right",
+    "name": "arrow-right",
+    "category": "Navigation",
+    "tags": [
+      "navigation",
+      "phosphor",
+      "outline",
+      "forward",
+      "button",
+      "next",
+      "step",
+      "cta"
+    ],
+    "keywords": [
+      "arrow-right",
+      "next",
+      "forward",
+      "continue",
+      "navigate",
+      "arrowright",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "button",
+      "step",
+      "cta"
+    ],
+    "guidance": "Phosphor arrow-right. Import: import { ArrowRight } from '@phosphor-icons/react'. Usage: <ArrowRight size={20} weight=regular />. Best for: Forward button next step CTA. Style: Outline.",
+    "details": {
+      "Category": "Navigation",
+      "Icon Name": "arrow-right",
+      "Keywords": "next forward continue navigate",
+      "Library": "Phosphor",
+      "Import Code": "import { ArrowRight } from '@phosphor-icons/react'",
+      "Usage": "<ArrowRight size={20} weight=regular />",
+      "Best For": "Forward button next step CTA",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-caret-down",
+    "name": "caret-down",
+    "category": "Navigation",
+    "tags": [
+      "navigation",
+      "phosphor",
+      "outline",
+      "dropdown",
+      "toggle",
+      "accordion",
+      "header"
+    ],
+    "keywords": [
+      "caret-down",
+      "dropdown",
+      "expand",
+      "accordion",
+      "select",
+      "caretdown",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "toggle",
+      "header"
+    ],
+    "guidance": "Phosphor caret-down. Import: import { CaretDown } from '@phosphor-icons/react'. Usage: <CaretDown size={20} weight=regular />. Best for: Dropdown toggle accordion header. Style: Outline.",
+    "details": {
+      "Category": "Navigation",
+      "Icon Name": "caret-down",
+      "Keywords": "dropdown expand accordion select",
+      "Library": "Phosphor",
+      "Import Code": "import { CaretDown } from '@phosphor-icons/react'",
+      "Usage": "<CaretDown size={20} weight=regular />",
+      "Best For": "Dropdown toggle accordion header",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-caret-up",
+    "name": "caret-up",
+    "category": "Navigation",
+    "tags": [
+      "navigation",
+      "phosphor",
+      "outline",
+      "accordion",
+      "collapse",
+      "minimize"
+    ],
+    "keywords": [
+      "caret-up",
+      "collapse",
+      "close",
+      "accordion",
+      "minimize",
+      "caretup",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor caret-up. Import: import { CaretUp } from '@phosphor-icons/react'. Usage: <CaretUp size={20} weight=regular />. Best for: Accordion collapse minimize. Style: Outline.",
+    "details": {
+      "Category": "Navigation",
+      "Icon Name": "caret-up",
+      "Keywords": "collapse close accordion minimize",
+      "Library": "Phosphor",
+      "Import Code": "import { CaretUp } from '@phosphor-icons/react'",
+      "Usage": "<CaretUp size={20} weight=regular />",
+      "Best For": "Accordion collapse minimize",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-house",
+    "name": "house",
+    "category": "Navigation",
+    "tags": [
+      "navigation",
+      "phosphor",
+      "outline",
+      "home",
+      "main",
+      "page"
+    ],
+    "keywords": [
+      "house",
+      "homepage",
+      "main",
+      "dashboard",
+      "start",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "home",
+      "navigation",
+      "page"
+    ],
+    "guidance": "Phosphor house. Import: import { House } from '@phosphor-icons/react'. Usage: <House size={20} weight=regular />. Best for: Home navigation main page. Style: Outline.",
+    "details": {
+      "Category": "Navigation",
+      "Icon Name": "house",
+      "Keywords": "homepage main dashboard start",
+      "Library": "Phosphor",
+      "Import Code": "import { House } from '@phosphor-icons/react'",
+      "Usage": "<House size={20} weight=regular />",
+      "Best For": "Home navigation main page",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-x",
+    "name": "x",
+    "category": "Navigation",
+    "tags": [
+      "navigation",
+      "phosphor",
+      "outline",
+      "modal",
+      "close",
+      "dismiss",
+      "button"
+    ],
+    "keywords": [
+      "x",
+      "close",
+      "cancel",
+      "dismiss",
+      "remove",
+      "exit",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "modal",
+      "button"
+    ],
+    "guidance": "Phosphor x. Import: import { X } from '@phosphor-icons/react'. Usage: <X size={20} weight=regular />. Best for: Modal close dismiss button. Style: Outline.",
+    "details": {
+      "Category": "Navigation",
+      "Icon Name": "x",
+      "Keywords": "close cancel dismiss remove exit",
+      "Library": "Phosphor",
+      "Import Code": "import { X } from '@phosphor-icons/react'",
+      "Usage": "<X size={20} weight=regular />",
+      "Best For": "Modal close dismiss button",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-arrow-square-out",
+    "name": "arrow-square-out",
+    "category": "Navigation",
+    "tags": [
+      "navigation",
+      "phosphor",
+      "outline",
+      "external",
+      "link",
+      "indicator"
+    ],
+    "keywords": [
+      "arrow-square-out",
+      "open",
+      "new",
+      "tab",
+      "external",
+      "link",
+      "arrowsquareout",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "indicator"
+    ],
+    "guidance": "Phosphor arrow-square-out. Import: import { ArrowSquareOut } from '@phosphor-icons/react'. Usage: <ArrowSquareOut size={20} weight=regular />. Best for: External link indicator. Style: Outline.",
+    "details": {
+      "Category": "Navigation",
+      "Icon Name": "arrow-square-out",
+      "Keywords": "open new tab external link",
+      "Library": "Phosphor",
+      "Import Code": "import { ArrowSquareOut } from '@phosphor-icons/react'",
+      "Usage": "<ArrowSquareOut size={20} weight=regular />",
+      "Best For": "External link indicator",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-plus",
+    "name": "plus",
+    "category": "Action",
+    "tags": [
+      "action",
+      "phosphor",
+      "outline",
+      "add",
+      "button",
+      "create",
+      "new",
+      "item"
+    ],
+    "keywords": [
+      "plus",
+      "add",
+      "create",
+      "new",
+      "insert",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "button",
+      "item"
+    ],
+    "guidance": "Phosphor plus. Import: import { Plus } from '@phosphor-icons/react'. Usage: <Plus size={20} weight=regular />. Best for: Add button create new item. Style: Outline.",
+    "details": {
+      "Category": "Action",
+      "Icon Name": "plus",
+      "Keywords": "add create new insert",
+      "Library": "Phosphor",
+      "Import Code": "import { Plus } from '@phosphor-icons/react'",
+      "Usage": "<Plus size={20} weight=regular />",
+      "Best For": "Add button create new item",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-minus",
+    "name": "minus",
+    "category": "Action",
+    "tags": [
+      "action",
+      "phosphor",
+      "outline",
+      "remove",
+      "item",
+      "quantity",
+      "decrease"
+    ],
+    "keywords": [
+      "minus",
+      "remove",
+      "subtract",
+      "decrease",
+      "delete",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "item",
+      "quantity"
+    ],
+    "guidance": "Phosphor minus. Import: import { Minus } from '@phosphor-icons/react'. Usage: <Minus size={20} weight=regular />. Best for: Remove item quantity decrease. Style: Outline.",
+    "details": {
+      "Category": "Action",
+      "Icon Name": "minus",
+      "Keywords": "remove subtract decrease delete",
+      "Library": "Phosphor",
+      "Import Code": "import { Minus } from '@phosphor-icons/react'",
+      "Usage": "<Minus size={20} weight=regular />",
+      "Best For": "Remove item quantity decrease",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-trash",
+    "name": "trash",
+    "category": "Action",
+    "tags": [
+      "action",
+      "phosphor",
+      "outline",
+      "delete",
+      "destructive"
+    ],
+    "keywords": [
+      "trash",
+      "delete",
+      "remove",
+      "discard",
+      "bin",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "action",
+      "destructive"
+    ],
+    "guidance": "Phosphor trash. Import: import { Trash } from '@phosphor-icons/react'. Usage: <Trash size={20} weight=regular />. Best for: Delete action destructive. Style: Outline.",
+    "details": {
+      "Category": "Action",
+      "Icon Name": "trash",
+      "Keywords": "delete remove discard bin",
+      "Library": "Phosphor",
+      "Import Code": "import { Trash } from '@phosphor-icons/react'",
+      "Usage": "<Trash size={20} weight=regular />",
+      "Best For": "Delete action destructive",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-pencil-simple",
+    "name": "pencil-simple",
+    "category": "Action",
+    "tags": [
+      "action",
+      "phosphor",
+      "outline",
+      "edit",
+      "button",
+      "modify",
+      "content"
+    ],
+    "keywords": [
+      "pencil-simple",
+      "pencil",
+      "modify",
+      "change",
+      "update",
+      "pencilsimple",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "edit",
+      "button",
+      "content"
+    ],
+    "guidance": "Phosphor pencil-simple. Import: import { PencilSimple } from '@phosphor-icons/react'. Usage: <PencilSimple size={20} weight=regular />. Best for: Edit button modify content. Style: Outline.",
+    "details": {
+      "Category": "Action",
+      "Icon Name": "pencil-simple",
+      "Keywords": "pencil modify change update",
+      "Library": "Phosphor",
+      "Import Code": "import { PencilSimple } from '@phosphor-icons/react'",
+      "Usage": "<PencilSimple size={20} weight=regular />",
+      "Best For": "Edit button modify content",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-floppy-disk",
+    "name": "floppy-disk",
+    "category": "Action",
+    "tags": [
+      "action",
+      "phosphor",
+      "outline",
+      "save",
+      "button",
+      "persist",
+      "changes"
+    ],
+    "keywords": [
+      "floppy-disk",
+      "disk",
+      "store",
+      "persist",
+      "save",
+      "floppydisk",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "button",
+      "changes"
+    ],
+    "guidance": "Phosphor floppy-disk. Import: import { FloppyDisk } from '@phosphor-icons/react'. Usage: <FloppyDisk size={20} weight=regular />. Best for: Save button persist changes. Style: Outline.",
+    "details": {
+      "Category": "Action",
+      "Icon Name": "floppy-disk",
+      "Keywords": "disk store persist save",
+      "Library": "Phosphor",
+      "Import Code": "import { FloppyDisk } from '@phosphor-icons/react'",
+      "Usage": "<FloppyDisk size={20} weight=regular />",
+      "Best For": "Save button persist changes",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-download-simple",
+    "name": "download-simple",
+    "category": "Action",
+    "tags": [
+      "action",
+      "phosphor",
+      "outline",
+      "download",
+      "file",
+      "export"
+    ],
+    "keywords": [
+      "download-simple",
+      "export",
+      "save",
+      "file",
+      "download",
+      "downloadsimple",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor download-simple. Import: import { DownloadSimple } from '@phosphor-icons/react'. Usage: <DownloadSimple size={20} weight=regular />. Best for: Download file export. Style: Outline.",
+    "details": {
+      "Category": "Action",
+      "Icon Name": "download-simple",
+      "Keywords": "export save file download",
+      "Library": "Phosphor",
+      "Import Code": "import { DownloadSimple } from '@phosphor-icons/react'",
+      "Usage": "<DownloadSimple size={20} weight=regular />",
+      "Best For": "Download file export",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-upload-simple",
+    "name": "upload-simple",
+    "category": "Action",
+    "tags": [
+      "action",
+      "phosphor",
+      "outline",
+      "upload",
+      "file",
+      "import"
+    ],
+    "keywords": [
+      "upload-simple",
+      "import",
+      "file",
+      "attach",
+      "upload",
+      "uploadsimple",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor upload-simple. Import: import { UploadSimple } from '@phosphor-icons/react'. Usage: <UploadSimple size={20} weight=regular />. Best for: Upload file import. Style: Outline.",
+    "details": {
+      "Category": "Action",
+      "Icon Name": "upload-simple",
+      "Keywords": "import file attach upload",
+      "Library": "Phosphor",
+      "Import Code": "import { UploadSimple } from '@phosphor-icons/react'",
+      "Usage": "<UploadSimple size={20} weight=regular />",
+      "Best For": "Upload file import",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-copy",
+    "name": "copy",
+    "category": "Action",
+    "tags": [
+      "action",
+      "phosphor",
+      "outline",
+      "copy",
+      "to",
+      "clipboard"
+    ],
+    "keywords": [
+      "copy",
+      "duplicate",
+      "clipboard",
+      "paste",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "to"
+    ],
+    "guidance": "Phosphor copy. Import: import { Copy } from '@phosphor-icons/react'. Usage: <Copy size={20} weight=regular />. Best for: Copy to clipboard. Style: Outline.",
+    "details": {
+      "Category": "Action",
+      "Icon Name": "copy",
+      "Keywords": "duplicate clipboard paste",
+      "Library": "Phosphor",
+      "Import Code": "import { Copy } from '@phosphor-icons/react'",
+      "Usage": "<Copy size={20} weight=regular />",
+      "Best For": "Copy to clipboard",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-share",
+    "name": "share",
+    "category": "Action",
+    "tags": [
+      "action",
+      "phosphor",
+      "outline",
+      "share",
+      "button",
+      "social"
+    ],
+    "keywords": [
+      "share",
+      "social",
+      "distribute",
+      "send",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "button"
+    ],
+    "guidance": "Phosphor share. Import: import { Share } from '@phosphor-icons/react'. Usage: <Share size={20} weight=regular />. Best for: Share button social. Style: Outline.",
+    "details": {
+      "Category": "Action",
+      "Icon Name": "share",
+      "Keywords": "social distribute send",
+      "Library": "Phosphor",
+      "Import Code": "import { Share } from '@phosphor-icons/react'",
+      "Usage": "<Share size={20} weight=regular />",
+      "Best For": "Share button social",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-magnifying-glass",
+    "name": "magnifying-glass",
+    "category": "Action",
+    "tags": [
+      "action",
+      "phosphor",
+      "outline",
+      "search",
+      "input",
+      "bar"
+    ],
+    "keywords": [
+      "magnifying-glass",
+      "find",
+      "lookup",
+      "filter",
+      "query",
+      "magnifyingglass",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "search",
+      "input",
+      "bar"
+    ],
+    "guidance": "Phosphor magnifying-glass. Import: import { MagnifyingGlass } from '@phosphor-icons/react'. Usage: <MagnifyingGlass size={20} weight=regular />. Best for: Search input bar. Style: Outline.",
+    "details": {
+      "Category": "Action",
+      "Icon Name": "magnifying-glass",
+      "Keywords": "find lookup filter query",
+      "Library": "Phosphor",
+      "Import Code": "import { MagnifyingGlass } from '@phosphor-icons/react'",
+      "Usage": "<MagnifyingGlass size={20} weight=regular />",
+      "Best For": "Search input bar",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-funnel",
+    "name": "funnel",
+    "category": "Action",
+    "tags": [
+      "action",
+      "phosphor",
+      "outline",
+      "filter",
+      "dropdown",
+      "sort"
+    ],
+    "keywords": [
+      "funnel",
+      "sort",
+      "refine",
+      "narrow",
+      "options",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "filter",
+      "dropdown"
+    ],
+    "guidance": "Phosphor funnel. Import: import { Funnel } from '@phosphor-icons/react'. Usage: <Funnel size={20} weight=regular />. Best for: Filter dropdown sort. Style: Outline.",
+    "details": {
+      "Category": "Action",
+      "Icon Name": "funnel",
+      "Keywords": "sort refine narrow options",
+      "Library": "Phosphor",
+      "Import Code": "import { Funnel } from '@phosphor-icons/react'",
+      "Usage": "<Funnel size={20} weight=regular />",
+      "Best For": "Filter dropdown sort",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-gear",
+    "name": "gear",
+    "category": "Action",
+    "tags": [
+      "action",
+      "phosphor",
+      "outline",
+      "settings",
+      "page",
+      "configuration"
+    ],
+    "keywords": [
+      "gear",
+      "cog",
+      "preferences",
+      "config",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "settings",
+      "page",
+      "configuration"
+    ],
+    "guidance": "Phosphor gear. Import: import { Gear } from '@phosphor-icons/react'. Usage: <Gear size={20} weight=regular />. Best for: Settings page configuration. Style: Outline.",
+    "details": {
+      "Category": "Action",
+      "Icon Name": "gear",
+      "Keywords": "gear cog preferences config",
+      "Library": "Phosphor",
+      "Import Code": "import { Gear } from '@phosphor-icons/react'",
+      "Usage": "<Gear size={20} weight=regular />",
+      "Best For": "Settings page configuration",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-check",
+    "name": "check",
+    "category": "Status",
+    "tags": [
+      "status",
+      "phosphor",
+      "outline",
+      "success",
+      "state",
+      "checkmark"
+    ],
+    "keywords": [
+      "check",
+      "success",
+      "done",
+      "complete",
+      "verified",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "state",
+      "checkmark"
+    ],
+    "guidance": "Phosphor check. Import: import { Check } from '@phosphor-icons/react'. Usage: <Check size={20} weight=regular />. Best for: Success state checkmark. Style: Outline.",
+    "details": {
+      "Category": "Status",
+      "Icon Name": "check",
+      "Keywords": "success done complete verified",
+      "Library": "Phosphor",
+      "Import Code": "import { Check } from '@phosphor-icons/react'",
+      "Usage": "<Check size={20} weight=regular />",
+      "Best For": "Success state checkmark",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-check-circle",
+    "name": "check-circle",
+    "category": "Status",
+    "tags": [
+      "status",
+      "phosphor",
+      "outline",
+      "success",
+      "badge",
+      "verified"
+    ],
+    "keywords": [
+      "check-circle",
+      "success",
+      "verified",
+      "approved",
+      "complete",
+      "checkcircle",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "badge"
+    ],
+    "guidance": "Phosphor check-circle. Import: import { CheckCircle } from '@phosphor-icons/react'. Usage: <CheckCircle size={20} weight=regular />. Best for: Success badge verified. Style: Outline.",
+    "details": {
+      "Category": "Status",
+      "Icon Name": "check-circle",
+      "Keywords": "success verified approved complete",
+      "Library": "Phosphor",
+      "Import Code": "import { CheckCircle } from '@phosphor-icons/react'",
+      "Usage": "<CheckCircle size={20} weight=regular />",
+      "Best For": "Success badge verified",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-x-circle",
+    "name": "x-circle",
+    "category": "Status",
+    "tags": [
+      "status",
+      "phosphor",
+      "outline",
+      "error",
+      "state",
+      "failed"
+    ],
+    "keywords": [
+      "x-circle",
+      "error",
+      "failed",
+      "cancel",
+      "rejected",
+      "xcircle",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "state"
+    ],
+    "guidance": "Phosphor x-circle. Import: import { XCircle } from '@phosphor-icons/react'. Usage: <XCircle size={20} weight=regular />. Best for: Error state failed. Style: Outline.",
+    "details": {
+      "Category": "Status",
+      "Icon Name": "x-circle",
+      "Keywords": "error failed cancel rejected",
+      "Library": "Phosphor",
+      "Import Code": "import { XCircle } from '@phosphor-icons/react'",
+      "Usage": "<XCircle size={20} weight=regular />",
+      "Best For": "Error state failed",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-warning",
+    "name": "warning",
+    "category": "Status",
+    "tags": [
+      "status",
+      "phosphor",
+      "outline",
+      "warning",
+      "message",
+      "caution"
+    ],
+    "keywords": [
+      "warning",
+      "caution",
+      "attention",
+      "danger",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "message"
+    ],
+    "guidance": "Phosphor warning. Import: import { Warning } from '@phosphor-icons/react'. Usage: <Warning size={20} weight=regular />. Best for: Warning message caution. Style: Outline.",
+    "details": {
+      "Category": "Status",
+      "Icon Name": "warning",
+      "Keywords": "warning caution attention danger",
+      "Library": "Phosphor",
+      "Import Code": "import { Warning } from '@phosphor-icons/react'",
+      "Usage": "<Warning size={20} weight=regular />",
+      "Best For": "Warning message caution",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-warning-circle",
+    "name": "warning-circle",
+    "category": "Status",
+    "tags": [
+      "status",
+      "phosphor",
+      "outline",
+      "info",
+      "notice",
+      "alert"
+    ],
+    "keywords": [
+      "warning-circle",
+      "info",
+      "notice",
+      "information",
+      "help",
+      "warningcircle",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "alert"
+    ],
+    "guidance": "Phosphor warning-circle. Import: import { WarningCircle } from '@phosphor-icons/react'. Usage: <WarningCircle size={20} weight=regular />. Best for: Info notice alert. Style: Outline.",
+    "details": {
+      "Category": "Status",
+      "Icon Name": "warning-circle",
+      "Keywords": "info notice information help",
+      "Library": "Phosphor",
+      "Import Code": "import { WarningCircle } from '@phosphor-icons/react'",
+      "Usage": "<WarningCircle size={20} weight=regular />",
+      "Best For": "Info notice alert",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-info",
+    "name": "info",
+    "category": "Status",
+    "tags": [
+      "status",
+      "phosphor",
+      "outline",
+      "information",
+      "tooltip",
+      "help"
+    ],
+    "keywords": [
+      "info",
+      "information",
+      "help",
+      "tooltip",
+      "details",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor info. Import: import { Info } from '@phosphor-icons/react'. Usage: <Info size={20} weight=regular />. Best for: Information tooltip help. Style: Outline.",
+    "details": {
+      "Category": "Status",
+      "Icon Name": "info",
+      "Keywords": "information help tooltip details",
+      "Library": "Phosphor",
+      "Import Code": "import { Info } from '@phosphor-icons/react'",
+      "Usage": "<Info size={20} weight=regular />",
+      "Best For": "Information tooltip help",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-circle-notch",
+    "name": "circle-notch",
+    "category": "Status",
+    "tags": [
+      "status",
+      "phosphor",
+      "outline",
+      "loading",
+      "state",
+      "spinner"
+    ],
+    "keywords": [
+      "circle-notch",
+      "loading",
+      "spinner",
+      "processing",
+      "wait",
+      "circlenotch",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "classname",
+      "animate-spin",
+      "state"
+    ],
+    "guidance": "Phosphor circle-notch. Import: import { CircleNotch } from '@phosphor-icons/react'. Usage: <CircleNotch size={20} weight=regular className=animate-spin />. Best for: Loading state spinner. Style: Outline.",
+    "details": {
+      "Category": "Status",
+      "Icon Name": "circle-notch",
+      "Keywords": "loading spinner processing wait",
+      "Library": "Phosphor",
+      "Import Code": "import { CircleNotch } from '@phosphor-icons/react'",
+      "Usage": "<CircleNotch size={20} weight=regular className=animate-spin />",
+      "Best For": "Loading state spinner",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-clock",
+    "name": "clock",
+    "category": "Status",
+    "tags": [
+      "status",
+      "phosphor",
+      "outline",
+      "pending",
+      "time",
+      "schedule"
+    ],
+    "keywords": [
+      "clock",
+      "time",
+      "schedule",
+      "pending",
+      "wait",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor clock. Import: import { Clock } from '@phosphor-icons/react'. Usage: <Clock size={20} weight=regular />. Best for: Pending time schedule. Style: Outline.",
+    "details": {
+      "Category": "Status",
+      "Icon Name": "clock",
+      "Keywords": "time schedule pending wait",
+      "Library": "Phosphor",
+      "Import Code": "import { Clock } from '@phosphor-icons/react'",
+      "Usage": "<Clock size={20} weight=regular />",
+      "Best For": "Pending time schedule",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-envelope",
+    "name": "envelope",
+    "category": "Communication",
+    "tags": [
+      "communication",
+      "phosphor",
+      "outline",
+      "email",
+      "contact",
+      "inbox"
+    ],
+    "keywords": [
+      "envelope",
+      "email",
+      "message",
+      "inbox",
+      "letter",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "contact"
+    ],
+    "guidance": "Phosphor envelope. Import: import { Envelope } from '@phosphor-icons/react'. Usage: <Envelope size={20} weight=regular />. Best for: Email contact inbox. Style: Outline.",
+    "details": {
+      "Category": "Communication",
+      "Icon Name": "envelope",
+      "Keywords": "email message inbox letter",
+      "Library": "Phosphor",
+      "Import Code": "import { Envelope } from '@phosphor-icons/react'",
+      "Usage": "<Envelope size={20} weight=regular />",
+      "Best For": "Email contact inbox",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-chat-circle",
+    "name": "chat-circle",
+    "category": "Communication",
+    "tags": [
+      "communication",
+      "phosphor",
+      "outline",
+      "chat",
+      "comment",
+      "message"
+    ],
+    "keywords": [
+      "chat-circle",
+      "chat",
+      "comment",
+      "bubble",
+      "conversation",
+      "chatcircle",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "message"
+    ],
+    "guidance": "Phosphor chat-circle. Import: import { ChatCircle } from '@phosphor-icons/react'. Usage: <ChatCircle size={20} weight=regular />. Best for: Chat comment message. Style: Outline.",
+    "details": {
+      "Category": "Communication",
+      "Icon Name": "chat-circle",
+      "Keywords": "chat comment bubble conversation",
+      "Library": "Phosphor",
+      "Import Code": "import { ChatCircle } from '@phosphor-icons/react'",
+      "Usage": "<ChatCircle size={20} weight=regular />",
+      "Best For": "Chat comment message",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-phone",
+    "name": "phone",
+    "category": "Communication",
+    "tags": [
+      "communication",
+      "phosphor",
+      "outline",
+      "phone",
+      "contact",
+      "call"
+    ],
+    "keywords": [
+      "phone",
+      "call",
+      "mobile",
+      "telephone",
+      "contact",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor phone. Import: import { Phone } from '@phosphor-icons/react'. Usage: <Phone size={20} weight=regular />. Best for: Phone contact call. Style: Outline.",
+    "details": {
+      "Category": "Communication",
+      "Icon Name": "phone",
+      "Keywords": "call mobile telephone contact",
+      "Library": "Phosphor",
+      "Import Code": "import { Phone } from '@phosphor-icons/react'",
+      "Usage": "<Phone size={20} weight=regular />",
+      "Best For": "Phone contact call",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-paper-plane-tilt",
+    "name": "paper-plane-tilt",
+    "category": "Communication",
+    "tags": [
+      "communication",
+      "phosphor",
+      "outline",
+      "send",
+      "message",
+      "submit"
+    ],
+    "keywords": [
+      "paper-plane-tilt",
+      "submit",
+      "dispatch",
+      "message",
+      "airplane",
+      "paperplanetilt",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "send"
+    ],
+    "guidance": "Phosphor paper-plane-tilt. Import: import { PaperPlaneTilt } from '@phosphor-icons/react'. Usage: <PaperPlaneTilt size={20} weight=regular />. Best for: Send message submit. Style: Outline.",
+    "details": {
+      "Category": "Communication",
+      "Icon Name": "paper-plane-tilt",
+      "Keywords": "submit dispatch message airplane",
+      "Library": "Phosphor",
+      "Import Code": "import { PaperPlaneTilt } from '@phosphor-icons/react'",
+      "Usage": "<PaperPlaneTilt size={20} weight=regular />",
+      "Best For": "Send message submit",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-bell",
+    "name": "bell",
+    "category": "Communication",
+    "tags": [
+      "communication",
+      "phosphor",
+      "outline",
+      "notification",
+      "bell",
+      "alert"
+    ],
+    "keywords": [
+      "bell",
+      "notification",
+      "alert",
+      "ring",
+      "reminder",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor bell. Import: import { Bell } from '@phosphor-icons/react'. Usage: <Bell size={20} weight=regular />. Best for: Notification bell alert. Style: Outline.",
+    "details": {
+      "Category": "Communication",
+      "Icon Name": "bell",
+      "Keywords": "notification alert ring reminder",
+      "Library": "Phosphor",
+      "Import Code": "import { Bell } from '@phosphor-icons/react'",
+      "Usage": "<Bell size={20} weight=regular />",
+      "Best For": "Notification bell alert",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-user",
+    "name": "user",
+    "category": "User",
+    "tags": [
+      "user",
+      "phosphor",
+      "outline",
+      "profile",
+      "account"
+    ],
+    "keywords": [
+      "user",
+      "profile",
+      "account",
+      "person",
+      "avatar",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor user. Import: import { User } from '@phosphor-icons/react'. Usage: <User size={20} weight=regular />. Best for: User profile account. Style: Outline.",
+    "details": {
+      "Category": "User",
+      "Icon Name": "user",
+      "Keywords": "profile account person avatar",
+      "Library": "Phosphor",
+      "Import Code": "import { User } from '@phosphor-icons/react'",
+      "Usage": "<User size={20} weight=regular />",
+      "Best For": "User profile account",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-users",
+    "name": "users",
+    "category": "User",
+    "tags": [
+      "user",
+      "phosphor",
+      "outline",
+      "team",
+      "group",
+      "members"
+    ],
+    "keywords": [
+      "users",
+      "team",
+      "group",
+      "people",
+      "members",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor users. Import: import { Users } from '@phosphor-icons/react'. Usage: <Users size={20} weight=regular />. Best for: Team group members. Style: Outline.",
+    "details": {
+      "Category": "User",
+      "Icon Name": "users",
+      "Keywords": "team group people members",
+      "Library": "Phosphor",
+      "Import Code": "import { Users } from '@phosphor-icons/react'",
+      "Usage": "<Users size={20} weight=regular />",
+      "Best For": "Team group members",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-user-plus",
+    "name": "user-plus",
+    "category": "User",
+    "tags": [
+      "user",
+      "phosphor",
+      "outline",
+      "add",
+      "invite"
+    ],
+    "keywords": [
+      "user-plus",
+      "add",
+      "invite",
+      "new",
+      "member",
+      "userplus",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "user"
+    ],
+    "guidance": "Phosphor user-plus. Import: import { UserPlus } from '@phosphor-icons/react'. Usage: <UserPlus size={20} weight=regular />. Best for: Add user invite. Style: Outline.",
+    "details": {
+      "Category": "User",
+      "Icon Name": "user-plus",
+      "Keywords": "add invite new member",
+      "Library": "Phosphor",
+      "Import Code": "import { UserPlus } from '@phosphor-icons/react'",
+      "Usage": "<UserPlus size={20} weight=regular />",
+      "Best For": "Add user invite",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-sign-in",
+    "name": "sign-in",
+    "category": "User",
+    "tags": [
+      "user",
+      "phosphor",
+      "outline",
+      "login",
+      "signin"
+    ],
+    "keywords": [
+      "sign-in",
+      "signin",
+      "authenticate",
+      "enter",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "login"
+    ],
+    "guidance": "Phosphor sign-in. Import: import { SignIn } from '@phosphor-icons/react'. Usage: <SignIn size={20} weight=regular />. Best for: Login signin. Style: Outline.",
+    "details": {
+      "Category": "User",
+      "Icon Name": "sign-in",
+      "Keywords": "signin authenticate enter",
+      "Library": "Phosphor",
+      "Import Code": "import { SignIn } from '@phosphor-icons/react'",
+      "Usage": "<SignIn size={20} weight=regular />",
+      "Best For": "Login signin",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-sign-out",
+    "name": "sign-out",
+    "category": "User",
+    "tags": [
+      "user",
+      "phosphor",
+      "outline",
+      "logout",
+      "signout"
+    ],
+    "keywords": [
+      "sign-out",
+      "signout",
+      "exit",
+      "leave",
+      "logout",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor sign-out. Import: import { SignOut } from '@phosphor-icons/react'. Usage: <SignOut size={20} weight=regular />. Best for: Logout signout. Style: Outline.",
+    "details": {
+      "Category": "User",
+      "Icon Name": "sign-out",
+      "Keywords": "signout exit leave logout",
+      "Library": "Phosphor",
+      "Import Code": "import { SignOut } from '@phosphor-icons/react'",
+      "Usage": "<SignOut size={20} weight=regular />",
+      "Best For": "Logout signout",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-image",
+    "name": "image",
+    "category": "Media",
+    "tags": [
+      "media",
+      "phosphor",
+      "outline",
+      "image",
+      "photo",
+      "gallery"
+    ],
+    "keywords": [
+      "image",
+      "photo",
+      "picture",
+      "gallery",
+      "thumbnail",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor image. Import: import { Image } from '@phosphor-icons/react'. Usage: <Image size={20} weight=regular />. Best for: Image photo gallery. Style: Outline.",
+    "details": {
+      "Category": "Media",
+      "Icon Name": "image",
+      "Keywords": "photo picture gallery thumbnail",
+      "Library": "Phosphor",
+      "Import Code": "import { Image } from '@phosphor-icons/react'",
+      "Usage": "<Image size={20} weight=regular />",
+      "Best For": "Image photo gallery",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-video",
+    "name": "video",
+    "category": "Media",
+    "tags": [
+      "media",
+      "phosphor",
+      "outline",
+      "video",
+      "player"
+    ],
+    "keywords": [
+      "video",
+      "movie",
+      "film",
+      "play",
+      "record",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "player",
+      "media"
+    ],
+    "guidance": "Phosphor video. Import: import { Video } from '@phosphor-icons/react'. Usage: <Video size={20} weight=regular />. Best for: Video player media. Style: Outline.",
+    "details": {
+      "Category": "Media",
+      "Icon Name": "video",
+      "Keywords": "movie film play record",
+      "Library": "Phosphor",
+      "Import Code": "import { Video } from '@phosphor-icons/react'",
+      "Usage": "<Video size={20} weight=regular />",
+      "Best For": "Video player media",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-play",
+    "name": "play",
+    "category": "Media",
+    "tags": [
+      "media",
+      "phosphor",
+      "outline",
+      "play",
+      "button",
+      "video",
+      "audio"
+    ],
+    "keywords": [
+      "play",
+      "start",
+      "video",
+      "audio",
+      "media",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "button"
+    ],
+    "guidance": "Phosphor play. Import: import { Play } from '@phosphor-icons/react'. Usage: <Play size={20} weight=regular />. Best for: Play button video audio. Style: Outline.",
+    "details": {
+      "Category": "Media",
+      "Icon Name": "play",
+      "Keywords": "start video audio media",
+      "Library": "Phosphor",
+      "Import Code": "import { Play } from '@phosphor-icons/react'",
+      "Usage": "<Play size={20} weight=regular />",
+      "Best For": "Play button video audio",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-pause",
+    "name": "pause",
+    "category": "Media",
+    "tags": [
+      "media",
+      "phosphor",
+      "outline",
+      "pause",
+      "button"
+    ],
+    "keywords": [
+      "pause",
+      "stop",
+      "halt",
+      "video",
+      "audio",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "button",
+      "media"
+    ],
+    "guidance": "Phosphor pause. Import: import { Pause } from '@phosphor-icons/react'. Usage: <Pause size={20} weight=regular />. Best for: Pause button media. Style: Outline.",
+    "details": {
+      "Category": "Media",
+      "Icon Name": "pause",
+      "Keywords": "stop halt video audio",
+      "Library": "Phosphor",
+      "Import Code": "import { Pause } from '@phosphor-icons/react'",
+      "Usage": "<Pause size={20} weight=regular />",
+      "Best For": "Pause button media",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-speaker-high",
+    "name": "speaker-high",
+    "category": "Media",
+    "tags": [
+      "media",
+      "phosphor",
+      "outline",
+      "volume",
+      "audio",
+      "sound"
+    ],
+    "keywords": [
+      "speaker-high",
+      "sound",
+      "audio",
+      "speaker",
+      "music",
+      "speakerhigh",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "volume"
+    ],
+    "guidance": "Phosphor speaker-high. Import: import { SpeakerHigh } from '@phosphor-icons/react'. Usage: <SpeakerHigh size={20} weight=regular />. Best for: Volume audio sound. Style: Outline.",
+    "details": {
+      "Category": "Media",
+      "Icon Name": "speaker-high",
+      "Keywords": "sound audio speaker music",
+      "Library": "Phosphor",
+      "Import Code": "import { SpeakerHigh } from '@phosphor-icons/react'",
+      "Usage": "<SpeakerHigh size={20} weight=regular />",
+      "Best For": "Volume audio sound",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-microphone",
+    "name": "microphone",
+    "category": "Media",
+    "tags": [
+      "media",
+      "phosphor",
+      "outline",
+      "microphone",
+      "voice",
+      "record"
+    ],
+    "keywords": [
+      "microphone",
+      "record",
+      "voice",
+      "audio",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor microphone. Import: import { Microphone } from '@phosphor-icons/react'. Usage: <Microphone size={20} weight=regular />. Best for: Microphone voice record. Style: Outline.",
+    "details": {
+      "Category": "Media",
+      "Icon Name": "microphone",
+      "Keywords": "microphone record voice audio",
+      "Library": "Phosphor",
+      "Import Code": "import { Microphone } from '@phosphor-icons/react'",
+      "Usage": "<Microphone size={20} weight=regular />",
+      "Best For": "Microphone voice record",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-camera",
+    "name": "camera",
+    "category": "Media",
+    "tags": [
+      "media",
+      "phosphor",
+      "outline",
+      "camera",
+      "photo",
+      "capture"
+    ],
+    "keywords": [
+      "camera",
+      "photo",
+      "capture",
+      "snapshot",
+      "picture",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor camera. Import: import { Camera } from '@phosphor-icons/react'. Usage: <Camera size={20} weight=regular />. Best for: Camera photo capture. Style: Outline.",
+    "details": {
+      "Category": "Media",
+      "Icon Name": "camera",
+      "Keywords": "photo capture snapshot picture",
+      "Library": "Phosphor",
+      "Import Code": "import { Camera } from '@phosphor-icons/react'",
+      "Usage": "<Camera size={20} weight=regular />",
+      "Best For": "Camera photo capture",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-shopping-cart",
+    "name": "shopping-cart",
+    "category": "Commerce",
+    "tags": [
+      "commerce",
+      "phosphor",
+      "outline",
+      "shopping",
+      "cart",
+      "e-commerce"
+    ],
+    "keywords": [
+      "shopping-cart",
+      "cart",
+      "checkout",
+      "basket",
+      "buy",
+      "shoppingcart",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "shopping",
+      "e-commerce"
+    ],
+    "guidance": "Phosphor shopping-cart. Import: import { ShoppingCart } from '@phosphor-icons/react'. Usage: <ShoppingCart size={20} weight=regular />. Best for: Shopping cart e-commerce. Style: Outline.",
+    "details": {
+      "Category": "Commerce",
+      "Icon Name": "shopping-cart",
+      "Keywords": "cart checkout basket buy",
+      "Library": "Phosphor",
+      "Import Code": "import { ShoppingCart } from '@phosphor-icons/react'",
+      "Usage": "<ShoppingCart size={20} weight=regular />",
+      "Best For": "Shopping cart e-commerce",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-shopping-bag",
+    "name": "shopping-bag",
+    "category": "Commerce",
+    "tags": [
+      "commerce",
+      "phosphor",
+      "outline",
+      "shopping",
+      "bag",
+      "purchase"
+    ],
+    "keywords": [
+      "shopping-bag",
+      "purchase",
+      "buy",
+      "store",
+      "bag",
+      "shoppingbag",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "shopping"
+    ],
+    "guidance": "Phosphor shopping-bag. Import: import { ShoppingBag } from '@phosphor-icons/react'. Usage: <ShoppingBag size={20} weight=regular />. Best for: Shopping bag purchase. Style: Outline.",
+    "details": {
+      "Category": "Commerce",
+      "Icon Name": "shopping-bag",
+      "Keywords": "purchase buy store bag",
+      "Library": "Phosphor",
+      "Import Code": "import { ShoppingBag } from '@phosphor-icons/react'",
+      "Usage": "<ShoppingBag size={20} weight=regular />",
+      "Best For": "Shopping bag purchase",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-credit-card",
+    "name": "credit-card",
+    "category": "Commerce",
+    "tags": [
+      "commerce",
+      "phosphor",
+      "outline",
+      "payment",
+      "credit",
+      "card"
+    ],
+    "keywords": [
+      "credit-card",
+      "payment",
+      "card",
+      "checkout",
+      "stripe",
+      "creditcard",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "credit"
+    ],
+    "guidance": "Phosphor credit-card. Import: import { CreditCard } from '@phosphor-icons/react'. Usage: <CreditCard size={20} weight=regular />. Best for: Payment credit card. Style: Outline.",
+    "details": {
+      "Category": "Commerce",
+      "Icon Name": "credit-card",
+      "Keywords": "payment card checkout stripe",
+      "Library": "Phosphor",
+      "Import Code": "import { CreditCard } from '@phosphor-icons/react'",
+      "Usage": "<CreditCard size={20} weight=regular />",
+      "Best For": "Payment credit card",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-currency-dollar",
+    "name": "currency-dollar",
+    "category": "Commerce",
+    "tags": [
+      "commerce",
+      "phosphor",
+      "outline",
+      "price",
+      "money",
+      "currency"
+    ],
+    "keywords": [
+      "currency-dollar",
+      "money",
+      "price",
+      "currency",
+      "cost",
+      "currencydollar",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor currency-dollar. Import: import { CurrencyDollar } from '@phosphor-icons/react'. Usage: <CurrencyDollar size={20} weight=regular />. Best for: Price money currency. Style: Outline.",
+    "details": {
+      "Category": "Commerce",
+      "Icon Name": "currency-dollar",
+      "Keywords": "money price currency cost",
+      "Library": "Phosphor",
+      "Import Code": "import { CurrencyDollar } from '@phosphor-icons/react'",
+      "Usage": "<CurrencyDollar size={20} weight=regular />",
+      "Best For": "Price money currency",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-tag",
+    "name": "tag",
+    "category": "Commerce",
+    "tags": [
+      "commerce",
+      "phosphor",
+      "outline",
+      "price",
+      "tag",
+      "label"
+    ],
+    "keywords": [
+      "tag",
+      "label",
+      "price",
+      "discount",
+      "sale",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor tag. Import: import { Tag } from '@phosphor-icons/react'. Usage: <Tag size={20} weight=regular />. Best for: Price tag label. Style: Outline.",
+    "details": {
+      "Category": "Commerce",
+      "Icon Name": "tag",
+      "Keywords": "label price discount sale",
+      "Library": "Phosphor",
+      "Import Code": "import { Tag } from '@phosphor-icons/react'",
+      "Usage": "<Tag size={20} weight=regular />",
+      "Best For": "Price tag label",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-gift",
+    "name": "gift",
+    "category": "Commerce",
+    "tags": [
+      "commerce",
+      "phosphor",
+      "outline",
+      "gift",
+      "reward",
+      "offer"
+    ],
+    "keywords": [
+      "gift",
+      "present",
+      "reward",
+      "bonus",
+      "offer",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor gift. Import: import { Gift } from '@phosphor-icons/react'. Usage: <Gift size={20} weight=regular />. Best for: Gift reward offer. Style: Outline.",
+    "details": {
+      "Category": "Commerce",
+      "Icon Name": "gift",
+      "Keywords": "present reward bonus offer",
+      "Library": "Phosphor",
+      "Import Code": "import { Gift } from '@phosphor-icons/react'",
+      "Usage": "<Gift size={20} weight=regular />",
+      "Best For": "Gift reward offer",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-percent",
+    "name": "percent",
+    "category": "Commerce",
+    "tags": [
+      "commerce",
+      "phosphor",
+      "outline",
+      "discount",
+      "percentage",
+      "sale"
+    ],
+    "keywords": [
+      "percent",
+      "discount",
+      "sale",
+      "offer",
+      "promo",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "percentage"
+    ],
+    "guidance": "Phosphor percent. Import: import { Percent } from '@phosphor-icons/react'. Usage: <Percent size={20} weight=regular />. Best for: Discount percentage sale. Style: Outline.",
+    "details": {
+      "Category": "Commerce",
+      "Icon Name": "percent",
+      "Keywords": "discount sale offer promo",
+      "Library": "Phosphor",
+      "Import Code": "import { Percent } from '@phosphor-icons/react'",
+      "Usage": "<Percent size={20} weight=regular />",
+      "Best For": "Discount percentage sale",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-chart-bar",
+    "name": "chart-bar",
+    "category": "Data",
+    "tags": [
+      "data",
+      "phosphor",
+      "outline",
+      "bar",
+      "chart",
+      "analytics"
+    ],
+    "keywords": [
+      "chart-bar",
+      "analytics",
+      "statistics",
+      "graph",
+      "metrics",
+      "chartbar",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "bar",
+      "chart"
+    ],
+    "guidance": "Phosphor chart-bar. Import: import { ChartBar } from '@phosphor-icons/react'. Usage: <ChartBar size={20} weight=regular />. Best for: Bar chart analytics. Style: Outline.",
+    "details": {
+      "Category": "Data",
+      "Icon Name": "chart-bar",
+      "Keywords": "analytics statistics graph metrics",
+      "Library": "Phosphor",
+      "Import Code": "import { ChartBar } from '@phosphor-icons/react'",
+      "Usage": "<ChartBar size={20} weight=regular />",
+      "Best For": "Bar chart analytics",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-chart-pie",
+    "name": "chart-pie",
+    "category": "Data",
+    "tags": [
+      "data",
+      "phosphor",
+      "outline",
+      "pie",
+      "chart",
+      "distribution"
+    ],
+    "keywords": [
+      "chart-pie",
+      "statistics",
+      "distribution",
+      "breakdown",
+      "chartpie",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "pie",
+      "chart"
+    ],
+    "guidance": "Phosphor chart-pie. Import: import { ChartPie } from '@phosphor-icons/react'. Usage: <ChartPie size={20} weight=regular />. Best for: Pie chart distribution. Style: Outline.",
+    "details": {
+      "Category": "Data",
+      "Icon Name": "chart-pie",
+      "Keywords": "statistics distribution breakdown",
+      "Library": "Phosphor",
+      "Import Code": "import { ChartPie } from '@phosphor-icons/react'",
+      "Usage": "<ChartPie size={20} weight=regular />",
+      "Best For": "Pie chart distribution",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-trend-up",
+    "name": "trend-up",
+    "category": "Data",
+    "tags": [
+      "data",
+      "phosphor",
+      "outline",
+      "growth",
+      "trend",
+      "positive"
+    ],
+    "keywords": [
+      "trend-up",
+      "growth",
+      "increase",
+      "positive",
+      "trend",
+      "trendup",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor trend-up. Import: import { TrendUp } from '@phosphor-icons/react'. Usage: <TrendUp size={20} weight=regular />. Best for: Growth trend positive. Style: Outline.",
+    "details": {
+      "Category": "Data",
+      "Icon Name": "trend-up",
+      "Keywords": "growth increase positive trend",
+      "Library": "Phosphor",
+      "Import Code": "import { TrendUp } from '@phosphor-icons/react'",
+      "Usage": "<TrendUp size={20} weight=regular />",
+      "Best For": "Growth trend positive",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-trend-down",
+    "name": "trend-down",
+    "category": "Data",
+    "tags": [
+      "data",
+      "phosphor",
+      "outline",
+      "decline",
+      "trend",
+      "negative"
+    ],
+    "keywords": [
+      "trend-down",
+      "decline",
+      "decrease",
+      "negative",
+      "trend",
+      "trenddown",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor trend-down. Import: import { TrendDown } from '@phosphor-icons/react'. Usage: <TrendDown size={20} weight=regular />. Best for: Decline trend negative. Style: Outline.",
+    "details": {
+      "Category": "Data",
+      "Icon Name": "trend-down",
+      "Keywords": "decline decrease negative trend",
+      "Library": "Phosphor",
+      "Import Code": "import { TrendDown } from '@phosphor-icons/react'",
+      "Usage": "<TrendDown size={20} weight=regular />",
+      "Best For": "Decline trend negative",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-activity",
+    "name": "activity",
+    "category": "Data",
+    "tags": [
+      "data",
+      "phosphor",
+      "outline",
+      "activity",
+      "monitor",
+      "pulse"
+    ],
+    "keywords": [
+      "activity",
+      "pulse",
+      "heartbeat",
+      "monitor",
+      "live",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor activity. Import: import { Activity } from '@phosphor-icons/react'. Usage: <Activity size={20} weight=regular />. Best for: Activity monitor pulse. Style: Outline.",
+    "details": {
+      "Category": "Data",
+      "Icon Name": "activity",
+      "Keywords": "pulse heartbeat monitor live",
+      "Library": "Phosphor",
+      "Import Code": "import { Activity } from '@phosphor-icons/react'",
+      "Usage": "<Activity size={20} weight=regular />",
+      "Best For": "Activity monitor pulse",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-database",
+    "name": "database",
+    "category": "Data",
+    "tags": [
+      "data",
+      "phosphor",
+      "outline",
+      "database",
+      "storage"
+    ],
+    "keywords": [
+      "database",
+      "storage",
+      "server",
+      "data",
+      "backend",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor database. Import: import { Database } from '@phosphor-icons/react'. Usage: <Database size={20} weight=regular />. Best for: Database storage. Style: Outline.",
+    "details": {
+      "Category": "Data",
+      "Icon Name": "database",
+      "Keywords": "storage server data backend",
+      "Library": "Phosphor",
+      "Import Code": "import { Database } from '@phosphor-icons/react'",
+      "Usage": "<Database size={20} weight=regular />",
+      "Best For": "Database storage",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-file",
+    "name": "file",
+    "category": "Files",
+    "tags": [
+      "files",
+      "phosphor",
+      "outline",
+      "file",
+      "document"
+    ],
+    "keywords": [
+      "file",
+      "document",
+      "page",
+      "paper",
+      "doc",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor file. Import: import { File } from '@phosphor-icons/react'. Usage: <File size={20} weight=regular />. Best for: File document. Style: Outline.",
+    "details": {
+      "Category": "Files",
+      "Icon Name": "file",
+      "Keywords": "document page paper doc",
+      "Library": "Phosphor",
+      "Import Code": "import { File } from '@phosphor-icons/react'",
+      "Usage": "<File size={20} weight=regular />",
+      "Best For": "File document",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-file-text",
+    "name": "file-text",
+    "category": "Files",
+    "tags": [
+      "files",
+      "phosphor",
+      "outline",
+      "text",
+      "document",
+      "article"
+    ],
+    "keywords": [
+      "file-text",
+      "document",
+      "text",
+      "page",
+      "article",
+      "filetext",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor file-text. Import: import { FileText } from '@phosphor-icons/react'. Usage: <FileText size={20} weight=regular />. Best for: Text document article. Style: Outline.",
+    "details": {
+      "Category": "Files",
+      "Icon Name": "file-text",
+      "Keywords": "document text page article",
+      "Library": "Phosphor",
+      "Import Code": "import { FileText } from '@phosphor-icons/react'",
+      "Usage": "<FileText size={20} weight=regular />",
+      "Best For": "Text document article",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-folder",
+    "name": "folder",
+    "category": "Files",
+    "tags": [
+      "files",
+      "phosphor",
+      "outline",
+      "folder",
+      "directory"
+    ],
+    "keywords": [
+      "folder",
+      "directory",
+      "organize",
+      "group",
+      "files",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor folder. Import: import { Folder } from '@phosphor-icons/react'. Usage: <Folder size={20} weight=regular />. Best for: Folder directory. Style: Outline.",
+    "details": {
+      "Category": "Files",
+      "Icon Name": "folder",
+      "Keywords": "directory organize group files",
+      "Library": "Phosphor",
+      "Import Code": "import { Folder } from '@phosphor-icons/react'",
+      "Usage": "<Folder size={20} weight=regular />",
+      "Best For": "Folder directory",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-folder-open",
+    "name": "folder-open",
+    "category": "Files",
+    "tags": [
+      "files",
+      "phosphor",
+      "outline",
+      "open",
+      "folder",
+      "browse"
+    ],
+    "keywords": [
+      "folder-open",
+      "expanded",
+      "browse",
+      "files",
+      "view",
+      "folderopen",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "open",
+      "folder"
+    ],
+    "guidance": "Phosphor folder-open. Import: import { FolderOpen } from '@phosphor-icons/react'. Usage: <FolderOpen size={20} weight=regular />. Best for: Open folder browse. Style: Outline.",
+    "details": {
+      "Category": "Files",
+      "Icon Name": "folder-open",
+      "Keywords": "expanded browse files view",
+      "Library": "Phosphor",
+      "Import Code": "import { FolderOpen } from '@phosphor-icons/react'",
+      "Usage": "<FolderOpen size={20} weight=regular />",
+      "Best For": "Open folder browse",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-paperclip",
+    "name": "paperclip",
+    "category": "Files",
+    "tags": [
+      "files",
+      "phosphor",
+      "outline",
+      "attachment",
+      "paperclip"
+    ],
+    "keywords": [
+      "paperclip",
+      "attachment",
+      "attach",
+      "file",
+      "link",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor paperclip. Import: import { Paperclip } from '@phosphor-icons/react'. Usage: <Paperclip size={20} weight=regular />. Best for: Attachment paperclip. Style: Outline.",
+    "details": {
+      "Category": "Files",
+      "Icon Name": "paperclip",
+      "Keywords": "attachment attach file link",
+      "Library": "Phosphor",
+      "Import Code": "import { Paperclip } from '@phosphor-icons/react'",
+      "Usage": "<Paperclip size={20} weight=regular />",
+      "Best For": "Attachment paperclip",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-link",
+    "name": "link",
+    "category": "Files",
+    "tags": [
+      "files",
+      "phosphor",
+      "outline",
+      "link",
+      "url",
+      "hyperlink"
+    ],
+    "keywords": [
+      "link",
+      "url",
+      "hyperlink",
+      "chain",
+      "connect",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor link. Import: import { Link } from '@phosphor-icons/react'. Usage: <Link size={20} weight=regular />. Best for: Link URL hyperlink. Style: Outline.",
+    "details": {
+      "Category": "Files",
+      "Icon Name": "link",
+      "Keywords": "url hyperlink chain connect",
+      "Library": "Phosphor",
+      "Import Code": "import { Link } from '@phosphor-icons/react'",
+      "Usage": "<Link size={20} weight=regular />",
+      "Best For": "Link URL hyperlink",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-clipboard",
+    "name": "clipboard",
+    "category": "Files",
+    "tags": [
+      "files",
+      "phosphor",
+      "outline",
+      "clipboard",
+      "paste"
+    ],
+    "keywords": [
+      "clipboard",
+      "paste",
+      "copy",
+      "buffer",
+      "notes",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor clipboard. Import: import { Clipboard } from '@phosphor-icons/react'. Usage: <Clipboard size={20} weight=regular />. Best for: Clipboard paste. Style: Outline.",
+    "details": {
+      "Category": "Files",
+      "Icon Name": "clipboard",
+      "Keywords": "paste copy buffer notes",
+      "Library": "Phosphor",
+      "Import Code": "import { Clipboard } from '@phosphor-icons/react'",
+      "Usage": "<Clipboard size={20} weight=regular />",
+      "Best For": "Clipboard paste",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-grid-four",
+    "name": "grid-four",
+    "category": "Layout",
+    "tags": [
+      "layout",
+      "phosphor",
+      "outline",
+      "grid",
+      "gallery"
+    ],
+    "keywords": [
+      "grid-four",
+      "tiles",
+      "gallery",
+      "layout",
+      "dashboard",
+      "gridfour",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "grid"
+    ],
+    "guidance": "Phosphor grid-four. Import: import { GridFour } from '@phosphor-icons/react'. Usage: <GridFour size={20} weight=regular />. Best for: Grid layout gallery. Style: Outline.",
+    "details": {
+      "Category": "Layout",
+      "Icon Name": "grid-four",
+      "Keywords": "tiles gallery layout dashboard",
+      "Library": "Phosphor",
+      "Import Code": "import { GridFour } from '@phosphor-icons/react'",
+      "Usage": "<GridFour size={20} weight=regular />",
+      "Best For": "Grid layout gallery",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-list-bullets",
+    "name": "list-bullets",
+    "category": "Layout",
+    "tags": [
+      "layout",
+      "phosphor",
+      "outline",
+      "list",
+      "view",
+      "rows"
+    ],
+    "keywords": [
+      "list-bullets",
+      "rows",
+      "table",
+      "lines",
+      "items",
+      "listbullets",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "list",
+      "view"
+    ],
+    "guidance": "Phosphor list-bullets. Import: import { ListBullets } from '@phosphor-icons/react'. Usage: <ListBullets size={20} weight=regular />. Best for: List view rows. Style: Outline.",
+    "details": {
+      "Category": "Layout",
+      "Icon Name": "list-bullets",
+      "Keywords": "rows table lines items",
+      "Library": "Phosphor",
+      "Import Code": "import { ListBullets } from '@phosphor-icons/react'",
+      "Usage": "<ListBullets size={20} weight=regular />",
+      "Best For": "List view rows",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-columns",
+    "name": "columns",
+    "category": "Layout",
+    "tags": [
+      "layout",
+      "phosphor",
+      "outline",
+      "column",
+      "split"
+    ],
+    "keywords": [
+      "columns",
+      "layout",
+      "split",
+      "dual",
+      "sidebar",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "column"
+    ],
+    "guidance": "Phosphor columns. Import: import { Columns } from '@phosphor-icons/react'. Usage: <Columns size={20} weight=regular />. Best for: Column layout split. Style: Outline.",
+    "details": {
+      "Category": "Layout",
+      "Icon Name": "columns",
+      "Keywords": "layout split dual sidebar",
+      "Library": "Phosphor",
+      "Import Code": "import { Columns } from '@phosphor-icons/react'",
+      "Usage": "<Columns size={20} weight=regular />",
+      "Best For": "Column layout split",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-arrows-out",
+    "name": "arrows-out",
+    "category": "Layout",
+    "tags": [
+      "layout",
+      "phosphor",
+      "outline",
+      "fullscreen",
+      "maximize"
+    ],
+    "keywords": [
+      "arrows-out",
+      "fullscreen",
+      "expand",
+      "enlarge",
+      "zoom",
+      "arrowsout",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "maximize"
+    ],
+    "guidance": "Phosphor arrows-out. Import: import { ArrowsOut } from '@phosphor-icons/react'. Usage: <ArrowsOut size={20} weight=regular />. Best for: Fullscreen maximize. Style: Outline.",
+    "details": {
+      "Category": "Layout",
+      "Icon Name": "arrows-out",
+      "Keywords": "fullscreen expand enlarge zoom",
+      "Library": "Phosphor",
+      "Import Code": "import { ArrowsOut } from '@phosphor-icons/react'",
+      "Usage": "<ArrowsOut size={20} weight=regular />",
+      "Best For": "Fullscreen maximize",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-arrows-in",
+    "name": "arrows-in",
+    "category": "Layout",
+    "tags": [
+      "layout",
+      "phosphor",
+      "outline",
+      "minimize",
+      "reduce"
+    ],
+    "keywords": [
+      "arrows-in",
+      "reduce",
+      "shrink",
+      "collapse",
+      "exit",
+      "arrowsin",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "minimize"
+    ],
+    "guidance": "Phosphor arrows-in. Import: import { ArrowsIn } from '@phosphor-icons/react'. Usage: <ArrowsIn size={20} weight=regular />. Best for: Minimize reduce. Style: Outline.",
+    "details": {
+      "Category": "Layout",
+      "Icon Name": "arrows-in",
+      "Keywords": "reduce shrink collapse exit",
+      "Library": "Phosphor",
+      "Import Code": "import { ArrowsIn } from '@phosphor-icons/react'",
+      "Usage": "<ArrowsIn size={20} weight=regular />",
+      "Best For": "Minimize reduce",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-sidebar",
+    "name": "sidebar",
+    "category": "Layout",
+    "tags": [
+      "layout",
+      "phosphor",
+      "outline",
+      "sidebar",
+      "panel"
+    ],
+    "keywords": [
+      "sidebar",
+      "panel",
+      "drawer",
+      "navigation",
+      "menu",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor sidebar. Import: import { Sidebar } from '@phosphor-icons/react'. Usage: <Sidebar size={20} weight=regular />. Best for: Sidebar panel. Style: Outline.",
+    "details": {
+      "Category": "Layout",
+      "Icon Name": "sidebar",
+      "Keywords": "panel drawer navigation menu",
+      "Library": "Phosphor",
+      "Import Code": "import { Sidebar } from '@phosphor-icons/react'",
+      "Usage": "<Sidebar size={20} weight=regular />",
+      "Best For": "Sidebar panel",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-heart",
+    "name": "heart",
+    "category": "Social",
+    "tags": [
+      "social",
+      "phosphor",
+      "outline",
+      "like",
+      "favorite",
+      "love"
+    ],
+    "keywords": [
+      "heart",
+      "like",
+      "love",
+      "favorite",
+      "wishlist",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor heart. Import: import { Heart } from '@phosphor-icons/react'. Usage: <Heart size={20} weight=regular />. Best for: Like favorite love. Style: Outline.",
+    "details": {
+      "Category": "Social",
+      "Icon Name": "heart",
+      "Keywords": "like love favorite wishlist",
+      "Library": "Phosphor",
+      "Import Code": "import { Heart } from '@phosphor-icons/react'",
+      "Usage": "<Heart size={20} weight=regular />",
+      "Best For": "Like favorite love",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-star",
+    "name": "star",
+    "category": "Social",
+    "tags": [
+      "social",
+      "phosphor",
+      "outline",
+      "star",
+      "rating",
+      "favorite"
+    ],
+    "keywords": [
+      "star",
+      "rating",
+      "review",
+      "favorite",
+      "bookmark",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor star. Import: import { Star } from '@phosphor-icons/react'. Usage: <Star size={20} weight=regular />. Best for: Star rating favorite. Style: Outline.",
+    "details": {
+      "Category": "Social",
+      "Icon Name": "star",
+      "Keywords": "rating review favorite bookmark",
+      "Library": "Phosphor",
+      "Import Code": "import { Star } from '@phosphor-icons/react'",
+      "Usage": "<Star size={20} weight=regular />",
+      "Best For": "Star rating favorite",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-thumbs-up",
+    "name": "thumbs-up",
+    "category": "Social",
+    "tags": [
+      "social",
+      "phosphor",
+      "outline",
+      "like",
+      "approve",
+      "thumb"
+    ],
+    "keywords": [
+      "thumbs-up",
+      "like",
+      "approve",
+      "agree",
+      "positive",
+      "thumbsup",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "thumb"
+    ],
+    "guidance": "Phosphor thumbs-up. Import: import { ThumbsUp } from '@phosphor-icons/react'. Usage: <ThumbsUp size={20} weight=regular />. Best for: Like approve thumb. Style: Outline.",
+    "details": {
+      "Category": "Social",
+      "Icon Name": "thumbs-up",
+      "Keywords": "like approve agree positive",
+      "Library": "Phosphor",
+      "Import Code": "import { ThumbsUp } from '@phosphor-icons/react'",
+      "Usage": "<ThumbsUp size={20} weight=regular />",
+      "Best For": "Like approve thumb",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-thumbs-down",
+    "name": "thumbs-down",
+    "category": "Social",
+    "tags": [
+      "social",
+      "phosphor",
+      "outline",
+      "dislike",
+      "disapprove"
+    ],
+    "keywords": [
+      "thumbs-down",
+      "dislike",
+      "disapprove",
+      "disagree",
+      "negative",
+      "thumbsdown",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor thumbs-down. Import: import { ThumbsDown } from '@phosphor-icons/react'. Usage: <ThumbsDown size={20} weight=regular />. Best for: Dislike disapprove. Style: Outline.",
+    "details": {
+      "Category": "Social",
+      "Icon Name": "thumbs-down",
+      "Keywords": "dislike disapprove disagree negative",
+      "Library": "Phosphor",
+      "Import Code": "import { ThumbsDown } from '@phosphor-icons/react'",
+      "Usage": "<ThumbsDown size={20} weight=regular />",
+      "Best For": "Dislike disapprove",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-bookmark",
+    "name": "bookmark",
+    "category": "Social",
+    "tags": [
+      "social",
+      "phosphor",
+      "outline",
+      "bookmark",
+      "save"
+    ],
+    "keywords": [
+      "bookmark",
+      "save",
+      "later",
+      "favorite",
+      "mark",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor bookmark. Import: import { Bookmark } from '@phosphor-icons/react'. Usage: <Bookmark size={20} weight=regular />. Best for: Bookmark save. Style: Outline.",
+    "details": {
+      "Category": "Social",
+      "Icon Name": "bookmark",
+      "Keywords": "save later favorite mark",
+      "Library": "Phosphor",
+      "Import Code": "import { Bookmark } from '@phosphor-icons/react'",
+      "Usage": "<Bookmark size={20} weight=regular />",
+      "Best For": "Bookmark save",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-flag",
+    "name": "flag",
+    "category": "Social",
+    "tags": [
+      "social",
+      "phosphor",
+      "outline",
+      "flag",
+      "report"
+    ],
+    "keywords": [
+      "flag",
+      "report",
+      "mark",
+      "important",
+      "highlight",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor flag. Import: import { Flag } from '@phosphor-icons/react'. Usage: <Flag size={20} weight=regular />. Best for: Flag report. Style: Outline.",
+    "details": {
+      "Category": "Social",
+      "Icon Name": "flag",
+      "Keywords": "report mark important highlight",
+      "Library": "Phosphor",
+      "Import Code": "import { Flag } from '@phosphor-icons/react'",
+      "Usage": "<Flag size={20} weight=regular />",
+      "Best For": "Flag report",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-device-mobile",
+    "name": "device-mobile",
+    "category": "Device",
+    "tags": [
+      "device",
+      "phosphor",
+      "outline",
+      "mobile",
+      "smartphone"
+    ],
+    "keywords": [
+      "device-mobile",
+      "mobile",
+      "phone",
+      "device",
+      "touch",
+      "devicemobile",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "smartphone"
+    ],
+    "guidance": "Phosphor device-mobile. Import: import { DeviceMobile } from '@phosphor-icons/react'. Usage: <DeviceMobile size={20} weight=regular />. Best for: Mobile smartphone. Style: Outline.",
+    "details": {
+      "Category": "Device",
+      "Icon Name": "device-mobile",
+      "Keywords": "mobile phone device touch",
+      "Library": "Phosphor",
+      "Import Code": "import { DeviceMobile } from '@phosphor-icons/react'",
+      "Usage": "<DeviceMobile size={20} weight=regular />",
+      "Best For": "Mobile smartphone",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-device-tablet",
+    "name": "device-tablet",
+    "category": "Device",
+    "tags": [
+      "device",
+      "phosphor",
+      "outline",
+      "tablet"
+    ],
+    "keywords": [
+      "device-tablet",
+      "ipad",
+      "device",
+      "touch",
+      "screen",
+      "devicetablet",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "tablet"
+    ],
+    "guidance": "Phosphor device-tablet. Import: import { DeviceTablet } from '@phosphor-icons/react'. Usage: <DeviceTablet size={20} weight=regular />. Best for: Tablet device. Style: Outline.",
+    "details": {
+      "Category": "Device",
+      "Icon Name": "device-tablet",
+      "Keywords": "ipad device touch screen",
+      "Library": "Phosphor",
+      "Import Code": "import { DeviceTablet } from '@phosphor-icons/react'",
+      "Usage": "<DeviceTablet size={20} weight=regular />",
+      "Best For": "Tablet device",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-monitor",
+    "name": "monitor",
+    "category": "Device",
+    "tags": [
+      "device",
+      "phosphor",
+      "outline",
+      "desktop",
+      "monitor"
+    ],
+    "keywords": [
+      "monitor",
+      "desktop",
+      "screen",
+      "computer",
+      "display",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor monitor. Import: import { Monitor } from '@phosphor-icons/react'. Usage: <Monitor size={20} weight=regular />. Best for: Desktop monitor. Style: Outline.",
+    "details": {
+      "Category": "Device",
+      "Icon Name": "monitor",
+      "Keywords": "desktop screen computer display",
+      "Library": "Phosphor",
+      "Import Code": "import { Monitor } from '@phosphor-icons/react'",
+      "Usage": "<Monitor size={20} weight=regular />",
+      "Best For": "Desktop monitor",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-laptop",
+    "name": "laptop",
+    "category": "Device",
+    "tags": [
+      "device",
+      "phosphor",
+      "outline",
+      "laptop",
+      "computer"
+    ],
+    "keywords": [
+      "laptop",
+      "notebook",
+      "computer",
+      "portable",
+      "device",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor laptop. Import: import { Laptop } from '@phosphor-icons/react'. Usage: <Laptop size={20} weight=regular />. Best for: Laptop computer. Style: Outline.",
+    "details": {
+      "Category": "Device",
+      "Icon Name": "laptop",
+      "Keywords": "notebook computer portable device",
+      "Library": "Phosphor",
+      "Import Code": "import { Laptop } from '@phosphor-icons/react'",
+      "Usage": "<Laptop size={20} weight=regular />",
+      "Best For": "Laptop computer",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-printer",
+    "name": "printer",
+    "category": "Device",
+    "tags": [
+      "device",
+      "phosphor",
+      "outline",
+      "printer",
+      "print"
+    ],
+    "keywords": [
+      "printer",
+      "print",
+      "document",
+      "output",
+      "paper",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor printer. Import: import { Printer } from '@phosphor-icons/react'. Usage: <Printer size={20} weight=regular />. Best for: Printer print. Style: Outline.",
+    "details": {
+      "Category": "Device",
+      "Icon Name": "printer",
+      "Keywords": "print document output paper",
+      "Library": "Phosphor",
+      "Import Code": "import { Printer } from '@phosphor-icons/react'",
+      "Usage": "<Printer size={20} weight=regular />",
+      "Best For": "Printer print",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-lock",
+    "name": "lock",
+    "category": "Security",
+    "tags": [
+      "security",
+      "phosphor",
+      "outline",
+      "lock",
+      "secure"
+    ],
+    "keywords": [
+      "lock",
+      "secure",
+      "password",
+      "protected",
+      "private",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor lock. Import: import { Lock } from '@phosphor-icons/react'. Usage: <Lock size={20} weight=regular />. Best for: Lock secure. Style: Outline.",
+    "details": {
+      "Category": "Security",
+      "Icon Name": "lock",
+      "Keywords": "secure password protected private",
+      "Library": "Phosphor",
+      "Import Code": "import { Lock } from '@phosphor-icons/react'",
+      "Usage": "<Lock size={20} weight=regular />",
+      "Best For": "Lock secure",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-lock-open",
+    "name": "lock-open",
+    "category": "Security",
+    "tags": [
+      "security",
+      "phosphor",
+      "outline",
+      "unlock",
+      "open"
+    ],
+    "keywords": [
+      "lock-open",
+      "open",
+      "access",
+      "unsecure",
+      "public",
+      "lockopen",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "unlock"
+    ],
+    "guidance": "Phosphor lock-open. Import: import { LockOpen } from '@phosphor-icons/react'. Usage: <LockOpen size={20} weight=regular />. Best for: Unlock open. Style: Outline.",
+    "details": {
+      "Category": "Security",
+      "Icon Name": "lock-open",
+      "Keywords": "open access unsecure public",
+      "Library": "Phosphor",
+      "Import Code": "import { LockOpen } from '@phosphor-icons/react'",
+      "Usage": "<LockOpen size={20} weight=regular />",
+      "Best For": "Unlock open",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-shield",
+    "name": "shield",
+    "category": "Security",
+    "tags": [
+      "security",
+      "phosphor",
+      "outline",
+      "shield",
+      "protection"
+    ],
+    "keywords": [
+      "shield",
+      "protection",
+      "security",
+      "safe",
+      "guard",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor shield. Import: import { Shield } from '@phosphor-icons/react'. Usage: <Shield size={20} weight=regular />. Best for: Shield protection. Style: Outline.",
+    "details": {
+      "Category": "Security",
+      "Icon Name": "shield",
+      "Keywords": "protection security safe guard",
+      "Library": "Phosphor",
+      "Import Code": "import { Shield } from '@phosphor-icons/react'",
+      "Usage": "<Shield size={20} weight=regular />",
+      "Best For": "Shield protection",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-key",
+    "name": "key",
+    "category": "Security",
+    "tags": [
+      "security",
+      "phosphor",
+      "outline",
+      "key",
+      "password"
+    ],
+    "keywords": [
+      "key",
+      "password",
+      "access",
+      "unlock",
+      "login",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor key. Import: import { Key } from '@phosphor-icons/react'. Usage: <Key size={20} weight=regular />. Best for: Key password. Style: Outline.",
+    "details": {
+      "Category": "Security",
+      "Icon Name": "key",
+      "Keywords": "password access unlock login",
+      "Library": "Phosphor",
+      "Import Code": "import { Key } from '@phosphor-icons/react'",
+      "Usage": "<Key size={20} weight=regular />",
+      "Best For": "Key password",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-eye",
+    "name": "eye",
+    "category": "Security",
+    "tags": [
+      "security",
+      "phosphor",
+      "outline",
+      "show",
+      "password",
+      "view"
+    ],
+    "keywords": [
+      "eye",
+      "view",
+      "show",
+      "visible",
+      "password",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor eye. Import: import { Eye } from '@phosphor-icons/react'. Usage: <Eye size={20} weight=regular />. Best for: Show password view. Style: Outline.",
+    "details": {
+      "Category": "Security",
+      "Icon Name": "eye",
+      "Keywords": "view show visible password",
+      "Library": "Phosphor",
+      "Import Code": "import { Eye } from '@phosphor-icons/react'",
+      "Usage": "<Eye size={20} weight=regular />",
+      "Best For": "Show password view",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-eye-slash",
+    "name": "eye-slash",
+    "category": "Security",
+    "tags": [
+      "security",
+      "phosphor",
+      "outline",
+      "hide",
+      "password"
+    ],
+    "keywords": [
+      "eye-slash",
+      "hide",
+      "invisible",
+      "password",
+      "hidden",
+      "eyeslash",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor eye-slash. Import: import { EyeSlash } from '@phosphor-icons/react'. Usage: <EyeSlash size={20} weight=regular />. Best for: Hide password. Style: Outline.",
+    "details": {
+      "Category": "Security",
+      "Icon Name": "eye-slash",
+      "Keywords": "hide invisible password hidden",
+      "Library": "Phosphor",
+      "Import Code": "import { EyeSlash } from '@phosphor-icons/react'",
+      "Usage": "<EyeSlash size={20} weight=regular />",
+      "Best For": "Hide password",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-map-pin",
+    "name": "map-pin",
+    "category": "Location",
+    "tags": [
+      "location",
+      "phosphor",
+      "outline",
+      "pin",
+      "marker"
+    ],
+    "keywords": [
+      "map-pin",
+      "location",
+      "marker",
+      "place",
+      "address",
+      "mappin",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "pin"
+    ],
+    "guidance": "Phosphor map-pin. Import: import { MapPin } from '@phosphor-icons/react'. Usage: <MapPin size={20} weight=regular />. Best for: Location pin marker. Style: Outline.",
+    "details": {
+      "Category": "Location",
+      "Icon Name": "map-pin",
+      "Keywords": "location marker place address",
+      "Library": "Phosphor",
+      "Import Code": "import { MapPin } from '@phosphor-icons/react'",
+      "Usage": "<MapPin size={20} weight=regular />",
+      "Best For": "Location pin marker",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-map",
+    "name": "map",
+    "category": "Location",
+    "tags": [
+      "location",
+      "phosphor",
+      "outline",
+      "map",
+      "directions"
+    ],
+    "keywords": [
+      "map",
+      "directions",
+      "navigate",
+      "geography",
+      "location",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor map. Import: import { Map } from '@phosphor-icons/react'. Usage: <Map size={20} weight=regular />. Best for: Map directions. Style: Outline.",
+    "details": {
+      "Category": "Location",
+      "Icon Name": "map",
+      "Keywords": "directions navigate geography location",
+      "Library": "Phosphor",
+      "Import Code": "import { Map } from '@phosphor-icons/react'",
+      "Usage": "<Map size={20} weight=regular />",
+      "Best For": "Map directions",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-compass",
+    "name": "compass",
+    "category": "Location",
+    "tags": [
+      "location",
+      "phosphor",
+      "outline",
+      "navigation",
+      "compass"
+    ],
+    "keywords": [
+      "compass",
+      "direction",
+      "pointer",
+      "arrow",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "navigation"
+    ],
+    "guidance": "Phosphor compass. Import: import { Compass } from '@phosphor-icons/react'. Usage: <Compass size={20} weight=regular />. Best for: Navigation compass. Style: Outline.",
+    "details": {
+      "Category": "Location",
+      "Icon Name": "compass",
+      "Keywords": "compass direction pointer arrow",
+      "Library": "Phosphor",
+      "Import Code": "import { Compass } from '@phosphor-icons/react'",
+      "Usage": "<Compass size={20} weight=regular />",
+      "Best For": "Navigation compass",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-globe",
+    "name": "globe",
+    "category": "Location",
+    "tags": [
+      "location",
+      "phosphor",
+      "outline",
+      "globe",
+      "world"
+    ],
+    "keywords": [
+      "globe",
+      "world",
+      "international",
+      "global",
+      "web",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor globe. Import: import { Globe } from '@phosphor-icons/react'. Usage: <Globe size={20} weight=regular />. Best for: Globe world. Style: Outline.",
+    "details": {
+      "Category": "Location",
+      "Icon Name": "globe",
+      "Keywords": "world international global web",
+      "Library": "Phosphor",
+      "Import Code": "import { Globe } from '@phosphor-icons/react'",
+      "Usage": "<Globe size={20} weight=regular />",
+      "Best For": "Globe world",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-calendar",
+    "name": "calendar",
+    "category": "Time",
+    "tags": [
+      "time",
+      "phosphor",
+      "outline",
+      "calendar",
+      "date"
+    ],
+    "keywords": [
+      "calendar",
+      "date",
+      "schedule",
+      "event",
+      "appointment",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor calendar. Import: import { Calendar } from '@phosphor-icons/react'. Usage: <Calendar size={20} weight=regular />. Best for: Calendar date. Style: Outline.",
+    "details": {
+      "Category": "Time",
+      "Icon Name": "calendar",
+      "Keywords": "date schedule event appointment",
+      "Library": "Phosphor",
+      "Import Code": "import { Calendar } from '@phosphor-icons/react'",
+      "Usage": "<Calendar size={20} weight=regular />",
+      "Best For": "Calendar date",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-arrows-clockwise",
+    "name": "arrows-clockwise",
+    "category": "Time",
+    "tags": [
+      "time",
+      "phosphor",
+      "outline",
+      "refresh",
+      "reload"
+    ],
+    "keywords": [
+      "arrows-clockwise",
+      "reload",
+      "sync",
+      "update",
+      "refresh",
+      "arrowsclockwise",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor arrows-clockwise. Import: import { ArrowsClockwise } from '@phosphor-icons/react'. Usage: <ArrowsClockwise size={20} weight=regular />. Best for: Refresh reload. Style: Outline.",
+    "details": {
+      "Category": "Time",
+      "Icon Name": "arrows-clockwise",
+      "Keywords": "reload sync update refresh",
+      "Library": "Phosphor",
+      "Import Code": "import { ArrowsClockwise } from '@phosphor-icons/react'",
+      "Usage": "<ArrowsClockwise size={20} weight=regular />",
+      "Best For": "Refresh reload",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-arrow-counter-clockwise",
+    "name": "arrow-counter-clockwise",
+    "category": "Time",
+    "tags": [
+      "time",
+      "phosphor",
+      "outline",
+      "undo",
+      "revert"
+    ],
+    "keywords": [
+      "arrow-counter-clockwise",
+      "undo",
+      "back",
+      "revert",
+      "history",
+      "arrowcounterclockwise",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor arrow-counter-clockwise. Import: import { ArrowCounterClockwise } from '@phosphor-icons/react'. Usage: <ArrowCounterClockwise size={20} weight=regular />. Best for: Undo revert. Style: Outline.",
+    "details": {
+      "Category": "Time",
+      "Icon Name": "arrow-counter-clockwise",
+      "Keywords": "undo back revert history",
+      "Library": "Phosphor",
+      "Import Code": "import { ArrowCounterClockwise } from '@phosphor-icons/react'",
+      "Usage": "<ArrowCounterClockwise size={20} weight=regular />",
+      "Best For": "Undo revert",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-arrow-clockwise",
+    "name": "arrow-clockwise",
+    "category": "Time",
+    "tags": [
+      "time",
+      "phosphor",
+      "outline",
+      "redo",
+      "forward"
+    ],
+    "keywords": [
+      "arrow-clockwise",
+      "redo",
+      "forward",
+      "repeat",
+      "history",
+      "arrowclockwise",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor arrow-clockwise. Import: import { ArrowClockwise } from '@phosphor-icons/react'. Usage: <ArrowClockwise size={20} weight=regular />. Best for: Redo forward. Style: Outline.",
+    "details": {
+      "Category": "Time",
+      "Icon Name": "arrow-clockwise",
+      "Keywords": "redo forward repeat history",
+      "Library": "Phosphor",
+      "Import Code": "import { ArrowClockwise } from '@phosphor-icons/react'",
+      "Usage": "<ArrowClockwise size={20} weight=regular />",
+      "Best For": "Redo forward",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-code",
+    "name": "code",
+    "category": "Development",
+    "tags": [
+      "development",
+      "phosphor",
+      "outline",
+      "code"
+    ],
+    "keywords": [
+      "code",
+      "develop",
+      "programming",
+      "syntax",
+      "html",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "development"
+    ],
+    "guidance": "Phosphor code. Import: import { Code } from '@phosphor-icons/react'. Usage: <Code size={20} weight=regular />. Best for: Code development. Style: Outline.",
+    "details": {
+      "Category": "Development",
+      "Icon Name": "code",
+      "Keywords": "develop programming syntax html",
+      "Library": "Phosphor",
+      "Import Code": "import { Code } from '@phosphor-icons/react'",
+      "Usage": "<Code size={20} weight=regular />",
+      "Best For": "Code development",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-terminal",
+    "name": "terminal",
+    "category": "Development",
+    "tags": [
+      "development",
+      "phosphor",
+      "outline",
+      "terminal",
+      "console"
+    ],
+    "keywords": [
+      "terminal",
+      "console",
+      "cli",
+      "command",
+      "shell",
+      "size",
+      "20",
+      "weight",
+      "regular"
+    ],
+    "guidance": "Phosphor terminal. Import: import { Terminal } from '@phosphor-icons/react'. Usage: <Terminal size={20} weight=regular />. Best for: Terminal console. Style: Outline.",
+    "details": {
+      "Category": "Development",
+      "Icon Name": "terminal",
+      "Keywords": "console cli command shell",
+      "Library": "Phosphor",
+      "Import Code": "import { Terminal } from '@phosphor-icons/react'",
+      "Usage": "<Terminal size={20} weight=regular />",
+      "Best For": "Terminal console",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-git-branch",
+    "name": "git-branch",
+    "category": "Development",
+    "tags": [
+      "development",
+      "phosphor",
+      "outline",
+      "git",
+      "branch"
+    ],
+    "keywords": [
+      "git-branch",
+      "version",
+      "control",
+      "branch",
+      "merge",
+      "gitbranch",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "git"
+    ],
+    "guidance": "Phosphor git-branch. Import: import { GitBranch } from '@phosphor-icons/react'. Usage: <GitBranch size={20} weight=regular />. Best for: Git branch. Style: Outline.",
+    "details": {
+      "Category": "Development",
+      "Icon Name": "git-branch",
+      "Keywords": "version control branch merge",
+      "Library": "Phosphor",
+      "Import Code": "import { GitBranch } from '@phosphor-icons/react'",
+      "Usage": "<GitBranch size={20} weight=regular />",
+      "Best For": "Git branch",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-github-logo",
+    "name": "github-logo",
+    "category": "Development",
+    "tags": [
+      "development",
+      "phosphor",
+      "outline",
+      "github",
+      "repository"
+    ],
+    "keywords": [
+      "github-logo",
+      "repository",
+      "code",
+      "open",
+      "source",
+      "githublogo",
+      "size",
+      "20",
+      "weight",
+      "regular",
+      "github"
+    ],
+    "guidance": "Phosphor github-logo. Import: import { GithubLogo } from '@phosphor-icons/react'. Usage: <GithubLogo size={20} weight=regular />. Best for: GitHub repository. Style: Outline.",
+    "details": {
+      "Category": "Development",
+      "Icon Name": "github-logo",
+      "Keywords": "repository code open source",
+      "Library": "Phosphor",
+      "Import Code": "import { GithubLogo } from '@phosphor-icons/react'",
+      "Usage": "<GithubLogo size={20} weight=regular />",
+      "Best For": "GitHub repository",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-react-native-bold-typography-icon-system",
+    "name": "bold-typography-icon-system",
+    "category": "Style Config",
+    "tags": [
+      "style",
+      "config",
+      "phosphor",
+      "react-native",
+      "outline",
+      "bold",
+      "typography",
+      "mobile",
+      "weight",
+      "regular",
+      ".",
+      "size",
+      "20px",
+      "for",
+      "ui",
+      "controls",
+      "32px",
+      "feature",
+      "anchors.",
+      "icons",
+      "must",
+      "be",
+      "paired",
+      "with",
+      "a",
+      "mono-stack",
+      "text",
+      "label",
+      "jetbrains",
+      "mono",
+      "standalone",
+      "only",
+      "allowed",
+      "standard",
+      "navigation",
+      "e.g.",
+      "back",
+      "arrow",
+      "accent",
+      "color",
+      "#ff3d00",
+      "only."
+    ],
+    "keywords": [
+      "bold-typography-icon-system",
+      "bold",
+      "typography",
+      "editorial",
+      "mono",
+      "label",
+      "phosphor",
+      "weight",
+      "regular",
+      "minimal",
+      "icon+label",
+      "required",
+      "size",
+      "20",
+      "32",
+      "arrowright",
+      "color",
+      "colors.accent",
+      "mobile",
+      "style",
+      ".",
+      "20px",
+      "for",
+      "ui",
+      "controls",
+      "32px",
+      "feature",
+      "anchors.",
+      "icons",
+      "must",
+      "be",
+      "paired",
+      "with",
+      "a",
+      "mono-stack",
+      "text",
+      "jetbrains",
+      "standalone",
+      "only",
+      "allowed",
+      "standard",
+      "navigation",
+      "e.g.",
+      "back",
+      "arrow",
+      "accent",
+      "#ff3d00",
+      "only."
+    ],
+    "guidance": "Phosphor (react-native) bold-typography-icon-system. Import: import { ArrowRight } from 'phosphor-react-native'. Usage: <ArrowRight size={20} weight=\"regular\" color={colors.accent} />. Best for: Bold Typography Mobile style: weight=\"regular\". Size 20px for UI controls, 32px for feature anchors. Icons MUST be paired with a Mono-stack text label (JetBrains Mono). Standalone icons only allowed for standard navigation (e.g., Back arrow). Accent color #FF3D00 only.. Style: Outline.",
+    "details": {
+      "Category": "Style Config",
+      "Icon Name": "bold-typography-icon-system",
+      "Keywords": "bold typography, editorial, mono label, phosphor, weight regular, minimal, icon+label required, size 20–32",
+      "Library": "Phosphor (react-native)",
+      "Import Code": "import { ArrowRight } from 'phosphor-react-native'",
+      "Usage": "<ArrowRight size={20} weight=\"regular\" color={colors.accent} />",
+      "Best For": "Bold Typography Mobile style: weight=\"regular\". Size 20px for UI controls, 32px for feature anchors. Icons MUST be paired with a Mono-stack text label (JetBrains Mono). Standalone icons only allowed for standard navigation (e.g., Back arrow). Accent color #FF3D00 only.",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-react-native-cyberpunk-icon-system",
+    "name": "cyberpunk-icon-system",
+    "category": "Style Config",
+    "tags": [
+      "style",
+      "config",
+      "phosphor",
+      "react-native",
+      "outline",
+      "cyberpunk",
+      "mobile",
+      "hud",
+      "weight",
+      "regular",
+      "color",
+      "colors.accent",
+      "#00ff88",
+      "matrix",
+      "green",
+      ".",
+      "wrap",
+      "every",
+      "icon",
+      "in",
+      "a",
+      "view",
+      "with",
+      "shadowcolor",
+      "shadowopacity",
+      "0.6",
+      "shadowradius",
+      "8",
+      "to",
+      "simulate",
+      "neon",
+      "glow.",
+      "use",
+      "borderradius",
+      "0",
+      "on",
+      "wrapper.",
+      "avoid",
+      "rounded",
+      "containers.",
+      "always",
+      "pair",
+      "data",
+      "label",
+      "jetbrains",
+      "mono."
+    ],
+    "keywords": [
+      "cyberpunk-icon-system",
+      "cyberpunk",
+      "neon",
+      "glow",
+      "hud",
+      "phosphor",
+      "weight",
+      "regular",
+      "accent",
+      "dark",
+      "angular",
+      "react",
+      "native",
+      "lightning",
+      "size",
+      "24",
+      "color",
+      "colors.accent",
+      "mobile",
+      "style",
+      "#00ff88",
+      "matrix",
+      "green",
+      ".",
+      "wrap",
+      "every",
+      "icon",
+      "in",
+      "a",
+      "view",
+      "with",
+      "shadowcolor",
+      "shadowopacity",
+      "0.6",
+      "shadowradius",
+      "8",
+      "to",
+      "simulate",
+      "glow.",
+      "use",
+      "borderradius",
+      "0",
+      "on",
+      "wrapper.",
+      "avoid",
+      "rounded",
+      "containers.",
+      "always",
+      "pair",
+      "data",
+      "label",
+      "jetbrains",
+      "mono."
+    ],
+    "guidance": "Phosphor (react-native) cyberpunk-icon-system. Import: import { Lightning } from 'phosphor-react-native'. Usage: <Lightning size={24} weight=\"regular\" color={colors.accent} />. Best for: Cyberpunk Mobile HUD style: weight=\"regular\", color={colors.accent} (#00FF88 Matrix Green). Wrap every icon in a View with shadowColor: colors.accent / shadowOpacity: 0.6 / shadowRadius: 8 to simulate neon glow. Use borderRadius: 0 on wrapper. Avoid rounded icon containers. Always pair icon with data label in JetBrains Mono.. Style: Outline.",
+    "details": {
+      "Category": "Style Config",
+      "Icon Name": "cyberpunk-icon-system",
+      "Keywords": "cyberpunk, neon, glow, hud, phosphor, weight regular, accent glow, dark, angular, react native",
+      "Library": "Phosphor (react-native)",
+      "Import Code": "import { Lightning } from 'phosphor-react-native'",
+      "Usage": "<Lightning size={24} weight=\"regular\" color={colors.accent} />",
+      "Best For": "Cyberpunk Mobile HUD style: weight=\"regular\", color={colors.accent} (#00FF88 Matrix Green). Wrap every icon in a View with shadowColor: colors.accent / shadowOpacity: 0.6 / shadowRadius: 8 to simulate neon glow. Use borderRadius: 0 on wrapper. Avoid rounded icon containers. Always pair icon with data label in JetBrains Mono.",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-react-native-academia-icon-system",
+    "name": "academia-icon-system",
+    "category": "Style Config",
+    "tags": [
+      "style",
+      "config",
+      "phosphor",
+      "react-native",
+      "outline",
+      "academia",
+      "scholarly",
+      "mobile",
+      "weight",
+      "thin",
+      "engraved",
+      "feel",
+      "color",
+      "colors.brass",
+      "#c9a962",
+      ".",
+      "no",
+      "sharp",
+      "geometric",
+      "or",
+      "tech-inspired",
+      "icons.",
+      "prefer",
+      "book",
+      "scroll",
+      "key",
+      "quill-type",
+      "icon",
+      "metaphors.",
+      "wrap",
+      "in",
+      "circular",
+      "view",
+      "with",
+      "1px",
+      "brass",
+      "border.",
+      "avoid",
+      "neon",
+      "saturated",
+      "colored",
+      "all",
+      "icon-only",
+      "navigation",
+      "must",
+      "have",
+      "an",
+      "accessibilitylabel."
+    ],
+    "keywords": [
+      "academia-icon-system",
+      "academia",
+      "library",
+      "brass",
+      "ornate",
+      "phosphor",
+      "weight",
+      "thin",
+      "muted",
+      "warm",
+      "scholarly",
+      "mobile",
+      "bookopen",
+      "size",
+      "22",
+      "color",
+      "colors.brass",
+      "style",
+      "engraved",
+      "feel",
+      "#c9a962",
+      ".",
+      "no",
+      "sharp",
+      "geometric",
+      "or",
+      "tech-inspired",
+      "icons.",
+      "prefer",
+      "book",
+      "scroll",
+      "key",
+      "quill-type",
+      "icon",
+      "metaphors.",
+      "wrap",
+      "in",
+      "circular",
+      "view",
+      "with",
+      "1px",
+      "border.",
+      "avoid",
+      "neon",
+      "saturated",
+      "colored",
+      "all",
+      "icon-only",
+      "navigation",
+      "must",
+      "have",
+      "an",
+      "accessibilitylabel."
+    ],
+    "guidance": "Phosphor (react-native) academia-icon-system. Import: import { BookOpen } from 'phosphor-react-native'. Usage: <BookOpen size={22} weight=\"thin\" color={colors.brass} />. Best for: Academia (Scholarly Mobile) style: weight=\"thin\" (thin engraved feel), color={colors.brass} (#C9A962). No sharp geometric or tech-inspired icons. Prefer book, scroll, key, quill-type icon metaphors. Wrap in circular View with 1px brass border. Avoid neon or saturated colored icons. All icon-only navigation must have an accessibilityLabel.. Style: Outline.",
+    "details": {
+      "Category": "Style Config",
+      "Icon Name": "academia-icon-system",
+      "Keywords": "academia, library, brass, ornate, phosphor, weight thin, muted warm, scholarly, mobile",
+      "Library": "Phosphor (react-native)",
+      "Import Code": "import { BookOpen } from 'phosphor-react-native'",
+      "Usage": "<BookOpen size={22} weight=\"thin\" color={colors.brass} />",
+      "Best For": "Academia (Scholarly Mobile) style: weight=\"thin\" (thin engraved feel), color={colors.brass} (#C9A962). No sharp geometric or tech-inspired icons. Prefer book, scroll, key, quill-type icon metaphors. Wrap in circular View with 1px brass border. Avoid neon or saturated colored icons. All icon-only navigation must have an accessibilityLabel.",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-react-native-web3-bitcoin-icon-system",
+    "name": "web3-bitcoin-icon-system",
+    "category": "Style Config",
+    "tags": [
+      "style",
+      "config",
+      "phosphor",
+      "react-native",
+      "outline",
+      "bitcoin",
+      "defi",
+      "mobile",
+      "weight",
+      "regular",
+      "color",
+      "colors.bitcoinorange",
+      "#f7931a",
+      ".",
+      "wrap",
+      "icons",
+      "in",
+      "circular",
+      "blurview",
+      "intensity",
+      "20",
+      "with",
+      "1px",
+      "bordercolor",
+      "border",
+      "holographic",
+      "node",
+      "effect",
+      "shadowcolor",
+      "shadowopacity",
+      "0.4",
+      "shadowradius",
+      "8.",
+      "prefer",
+      "finance",
+      "data",
+      "trendup",
+      "wallet",
+      "shield",
+      "layers",
+      "all",
+      "use",
+      "jetbrains",
+      "mono",
+      "label."
+    ],
+    "keywords": [
+      "web3-bitcoin-icon-system",
+      "web3",
+      "bitcoin",
+      "defi",
+      "crypto",
+      "neon",
+      "orange",
+      "holographic",
+      "blurview",
+      "phosphor",
+      "glow",
+      "fintech",
+      "mobile",
+      "trendup",
+      "size",
+      "24",
+      "weight",
+      "regular",
+      "color",
+      "colors.bitcoinorange",
+      "style",
+      "#f7931a",
+      ".",
+      "wrap",
+      "icons",
+      "in",
+      "circular",
+      "intensity",
+      "20",
+      "with",
+      "1px",
+      "bordercolor",
+      "border",
+      "node",
+      "effect",
+      "shadowcolor",
+      "shadowopacity",
+      "0.4",
+      "shadowradius",
+      "8.",
+      "prefer",
+      "finance",
+      "data",
+      "wallet",
+      "shield",
+      "layers",
+      "all",
+      "use",
+      "jetbrains",
+      "mono",
+      "label."
+    ],
+    "guidance": "Phosphor (react-native) web3-bitcoin-icon-system. Import: import { TrendUp } from 'phosphor-react-native'. Usage: <TrendUp size={24} weight=\"regular\" color={colors.bitcoinOrange} />. Best for: Bitcoin DeFi Mobile style: weight=\"regular\", color={colors.bitcoinOrange} (#F7931A). Wrap icons in circular BlurView (intensity: 20) with 1px borderColor: '#F7931A' border (Holographic Node effect). shadowColor: '#F7931A' / shadowOpacity: 0.4 / shadowRadius: 8. Prefer finance/data icons (TrendUp, Wallet, Shield, Layers). All data icons use JetBrains Mono label.. Style: Outline.",
+    "details": {
+      "Category": "Style Config",
+      "Icon Name": "web3-bitcoin-icon-system",
+      "Keywords": "web3, bitcoin, defi, crypto, neon orange, holographic, blurview, phosphor, glow, fintech mobile",
+      "Library": "Phosphor (react-native)",
+      "Import Code": "import { TrendUp } from 'phosphor-react-native'",
+      "Usage": "<TrendUp size={24} weight=\"regular\" color={colors.bitcoinOrange} />",
+      "Best For": "Bitcoin DeFi Mobile style: weight=\"regular\", color={colors.bitcoinOrange} (#F7931A). Wrap icons in circular BlurView (intensity: 20) with 1px borderColor: '#F7931A' border (Holographic Node effect). shadowColor: '#F7931A' / shadowOpacity: 0.4 / shadowRadius: 8. Prefer finance/data icons (TrendUp, Wallet, Shield, Layers). All data icons use JetBrains Mono label.",
+      "Style": "Outline"
+    }
+  },
+  {
+    "id": "phosphor-primary-heroicons-fallback-icon-fallback-rules",
+    "name": "icon-fallback-rules",
+    "category": "Guideline",
+    "tags": [
+      "guideline",
+      "phosphor",
+      "primary",
+      "+",
+      "heroicons",
+      "fallback",
+      "outline",
+      "icon",
+      "library",
+      "strategy",
+      "and",
+      "rules"
+    ],
+    "keywords": [
+      "icon-fallback-rules",
+      "icon",
+      "fallback",
+      "phosphor",
+      "heroicons",
+      "any",
+      "extended",
+      "set",
+      "ui",
+      "library",
+      "strategy",
+      "and",
+      "rules"
+    ],
+    "guidance": "Phosphor (primary) + Heroicons (fallback) icon-fallback-rules. Import: Primary: import { IconName } from '@phosphor-icons/react'. Fallback: import { IconName } from '@heroicons/react/24/outline' or '@heroicons/react/24/solid'.. Usage: 当默认列表中没有合适图标时：优先继续从 Phosphor 中选择任何语义更贴切的图标（不必局限于本表列出的图标）。若 Phosphor 也无合适图标，可以改用 Heroicons，并在 UI 代码中保持风格统一（线性或填充、圆角程度、笔画粗细等）。. Best for: Icon library strategy and fallback rules. Style: Outline.",
+    "details": {
+      "Category": "Guideline",
+      "Icon Name": "icon-fallback-rules",
+      "Keywords": "icon fallback, phosphor, heroicons, any icon, extended set",
+      "Library": "Phosphor (primary) + Heroicons (fallback)",
+      "Import Code": "Primary: import { IconName } from '@phosphor-icons/react'. Fallback: import { IconName } from '@heroicons/react/24/outline' or '@heroicons/react/24/solid'.",
+      "Usage": "当默认列表中没有合适图标时：优先继续从 Phosphor 中选择任何语义更贴切的图标（不必局限于本表列出的图标）。若 Phosphor 也无合适图标，可以改用 Heroicons，并在 UI 代码中保持风格统一（线性或填充、圆角程度、笔画粗细等）。",
+      "Best For": "Icon library strategy and fallback rules",
+      "Style": "Outline"
+    }
+  }
+]

@@ -6,6 +6,8 @@ const root = path.resolve(__dirname, "..");
 const dataDir = path.join(root, "data");
 
 const domains = {
+  app: "app-interface.json",
+  "app-interface": "app-interface.json",
   product: "products.json",
   products: "products.json",
   style: "styles.json",
@@ -18,12 +20,39 @@ const domains = {
   "ux-guidelines": "ux-guidelines.json",
   chart: "charts.json",
   charts: "charts.json",
+  brand: "logo-design.json",
+  cip: "cip-design.json",
+  "cip-design": "cip-design.json",
+  "design-prompt": "design-prompts.json",
+  "design-prompts": "design-prompts.json",
+  draft: "draft-prompts.json",
+  "draft-prompts": "draft-prompts.json",
+  font: "typography.json",
+  fonts: "google-fonts.json",
+  "google-fonts": "google-fonts.json",
+  icon: "icons.json",
+  icons: "icons.json",
+  "icon-style": "icon-styles.json",
+  "icon-styles": "icon-styles.json",
+  landing: "landing.json",
+  "landing-page": "landing.json",
+  logo: "logo-design.json",
+  "logo-design": "logo-design.json",
+  performance: "react-performance.json",
+  prompt: "design-prompts.json",
+  react: "react-performance.json",
+  reasoning: "ui-reasoning.json",
+  "react-performance": "react-performance.json",
   stack: "stacks.json",
   stacks: "stacks.json",
+  slides: "slides-design.json",
+  "slides-design": "slides-design.json",
   rtl: "persian-rtl.json",
   persian: "persian-rtl.json",
   "design-language": "design-languages.json",
-  language: "design-languages.json"
+  language: "design-languages.json",
+  "ui-reasoning": "ui-reasoning.json",
+  web: "app-interface.json"
 };
 
 function parseArgs(argv) {
@@ -47,7 +76,11 @@ function norm(text) {
 }
 
 function tokens(text) {
-  return norm(text).split(/\s+/).filter(Boolean);
+  const stopwords = new Set([
+    "a", "an", "and", "are", "as", "at", "be", "by", "for", "from", "has", "have", "in", "is", "it", "of", "on", "or", "that", "the", "this", "to", "with",
+    "یک", "از", "به", "با", "در", "را", "و", "یا", "که", "این", "آن", "برای"
+  ]);
+  return norm(text).split(/\s+/).filter((token) => token && !stopwords.has(token));
 }
 
 function loadDomain(domain) {
@@ -69,6 +102,7 @@ function scoreItem(item, queryTokens, stack) {
   const tags = (item.tags || []).map(norm);
   const keywords = (item.keywords || []).map(norm);
   const guidance = norm(item.guidance);
+  const details = norm(JSON.stringify(item.details || {}));
   let score = 0;
   const reasons = [];
   for (const token of queryTokens) {
@@ -78,6 +112,7 @@ function scoreItem(item, queryTokens, stack) {
     if (tags.some((tag) => tag.includes(token))) { score += 7; reasons.push(`tag:${token}`); }
     if (keywords.some((keyword) => keyword.includes(token))) { score += 4; reasons.push(`keyword:${token}`); }
     if (guidance.includes(token)) { score += 2; reasons.push(`guidance:${token}`); }
+    if (details.includes(token)) { score += 1; reasons.push(`details:${token}`); }
   }
   if (stack) {
     const s = norm(stack);
@@ -97,7 +132,7 @@ function search(query, options = {}) {
       return { ...item, score: scored.score, reasons: scored.reasons };
     })
     .filter((item) => item.score > 0)
-    .sort((a, b) => b.score - a.score || a.name.localeCompare(b.name))
+    .sort((a, b) => b.score - a.score || String(a.name || a.id || "").localeCompare(String(b.name || b.id || "")))
     .slice(0, options.max || 8);
 }
 
@@ -107,7 +142,7 @@ function markdown(results, query) {
     `# Search Results: ${query}`,
     "",
     ...results.flatMap((item, index) => [
-      `## ${index + 1}. ${item.name}`,
+      `## ${index + 1}. ${item.name || item.id || "Unnamed item"}`,
       "",
       `- Domain: ${item.domain}`,
       `- Category: ${item.category || "n/a"}`,

@@ -35,6 +35,7 @@ const requiredDocs = [
   "28-design-intelligence.md",
   "29-searchable-design-db.md",
   "30-brand-and-asset-workflows.md",
+  "31-super-skill-orchestration.md",
 ];
 
 const requiredData = [
@@ -44,9 +45,52 @@ const requiredData = [
   "typography.json",
   "ux-guidelines.json",
   "charts.json",
+  "landing.json",
+  "ui-reasoning.json",
+  "app-interface.json",
+  "react-performance.json",
+  "icons.json",
+  "google-fonts.json",
+  "design-prompts.json",
+  "draft-prompts.json",
+  "logo-design.json",
+  "cip-design.json",
+  "slides-design.json",
+  "icon-styles.json",
   "stacks.json",
   "persian-rtl.json",
   "design-languages.json",
+];
+
+const requiredToolFiles = [
+  "tools/logo/search.py",
+  "tools/logo/generate.py",
+  "tools/logo/core.py",
+  "tools/cip/search.py",
+  "tools/cip/generate.py",
+  "tools/cip/render-html.py",
+  "tools/cip/core.py",
+  "tools/icon/generate.py",
+  "tools/brand/inject-brand-context.cjs",
+  "tools/brand/sync-brand-to-tokens.cjs",
+  "tools/brand/validate-asset.cjs",
+  "tools/brand/extract-colors.cjs",
+  "tools/design-system/generate-tokens.cjs",
+  "tools/design-system/validate-tokens.cjs",
+  "tools/design-system/search-slides.py",
+  "tools/design-system/slide_search_core.py",
+  "tools/design-system/generate-slide.py",
+  "tools/design-system/slide-token-validator.py",
+  "tools/design-system/html-token-validator.py",
+  "tools/ui-styling/shadcn_add.py",
+  "tools/ui-styling/tailwind_config_gen.py",
+];
+
+const requiredImportedDataDirs = [
+  "data/logo",
+  "data/cip",
+  "data/icon",
+  "tools/data",
 ];
 
 const errors = [];
@@ -109,17 +153,17 @@ if (exists("SKILL.md")) {
   if (!/^# Imageno1 Frontend OS v2\.0\s*$/m.test(skill)) {
     errors.push("SKILL.md must use title `Imageno1 Frontend OS v2.0`.");
   }
-  if (!/Version:\s*2\.2\.0/.test(skill)) {
-    errors.push("SKILL.md must include Version: 2.2.0.");
+  if (!/Version:\s*2\.5\.0/.test(skill)) {
+    errors.push("SKILL.md must include Version: 2.5.0.");
   }
 }
 
 if (exists("package.json")) {
   const pkg = JSON.parse(read("package.json"));
-  if (pkg.version !== "2.2.0") {
-    errors.push("package.json version must be 2.2.0.");
+  if (pkg.version !== "2.5.0") {
+    errors.push("package.json version must be 2.5.0.");
   }
-  for (const script of ["search", "design-system", "verify"]) {
+  for (const script of ["search", "design-system", "super-run", "verify"]) {
     if (!pkg.scripts || !pkg.scripts[script]) {
       errors.push(`package.json script is missing: ${script}`);
     }
@@ -139,9 +183,24 @@ for (const dataFile of requiredData) {
   }
 }
 
-for (const scriptFile of ["scripts/search.js", "scripts/design-system.js", "scripts/verify.js"]) {
+for (const dir of requiredImportedDataDirs) {
+  if (!exists(dir)) {
+    errors.push(`Required imported data directory is missing: ${dir}`);
+  }
+}
+
+for (const scriptFile of ["scripts/search.js", "scripts/design-system.js", "scripts/super-run.js", "scripts/verify.js"]) {
   if (!exists(scriptFile)) {
     errors.push(`Required script is missing: ${scriptFile}`);
+  }
+}
+
+for (const toolFile of requiredToolFiles) {
+  if (!exists(toolFile)) {
+    errors.push(`Required imported tool is missing: ${toolFile}`);
+  }
+  if (skill && !skill.includes(toolFile)) {
+    errors.push(`Required imported tool is not reachable from SKILL.md: ${toolFile}`);
   }
 }
 
@@ -209,4 +268,4 @@ if (errors.length > 0) {
   process.exit(1);
 }
 
-console.log("Verification passed: Imageno1 Frontend OS v2.2 is complete.");
+console.log("Verification passed: Imageno1 Frontend OS v2.5 is complete.");

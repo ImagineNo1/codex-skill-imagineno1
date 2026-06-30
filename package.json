@@ -1,7 +1,7 @@
 {
   "name": "imageno1-skill",
-  "version": "2.2.0",
-  "description": "Imageno1 Frontend OS v2.2: an execution-driven Codex frontend operating system with searchable design intelligence, design-system generation, premium UI/UX, Next.js, React, Tailwind, shadcn/ui, dashboards, landing pages, admin panels, accessibility, performance, and RTL Persian interfaces.",
+  "version": "2.5.0",
+  "description": "Imageno1 Frontend OS v2.5: a Codex super-skill with full imported UI UX Pro Max execution references, tools, raw data, brand, logo, CIP, slides, banners, design-system, ui-styling, and mandatory super-run retrieval.",
   "private": true,
   "license": "MIT",
   "type": "commonjs",
@@ -9,6 +9,11 @@
     "install:skill": "node -e \"const { spawnSync } = require('child_process'); const win = process.platform === 'win32'; const cmd = win ? 'powershell' : 'sh'; const args = win ? ['-ExecutionPolicy','Bypass','-File','scripts/install.ps1'] : ['scripts/install.sh']; const result = spawnSync(cmd, args, { stdio: 'inherit' }); process.exit(result.status ?? 1);\"",
     "search": "node scripts/search.js",
     "design-system": "node scripts/design-system.js",
+    "super-run": "node scripts/super-run.js",
+    "logo:search": "python tools/logo/search.py",
+    "cip:search": "python tools/cip/search.py",
+    "slides:search": "python tools/design-system/search-slides.py",
+    "tokens:validate": "node tools/design-system/validate-tokens.cjs",
     "verify": "node scripts/verify.js",
     "lint:docs": "node scripts/verify.js"
   },
